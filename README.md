@@ -5,6 +5,23 @@ Para abordar la complejidad de un sistema orientado a la gestión integral de op
 
 El proceso se desarrolló mediante herramientas colaborativas como Event Storming y el Bounded Context Canvas.
 ### 4.1.1. EventStorming
+Con el objetivo de comprender en profundidad el dominio del problema, se llevó a cabo una sesión de EventStorming. Con esta dinámica se pudieron identificar eventos clave dentro del negocio hotelero, facilitando la visualización de procesos críticos desde la reserva hasta la atención post-estadía del huésped, entre otros puntos de contacto. Esta actividad no solo ayudó a identificar los eventos, sino que también permitió descubrir las interacciones entre ellos y cómo se relacionan con los distintos actores involucrados.
+
+**Objetivo de la sesión**: El objetivo de la sesión fue identificar los eventos clave del dominio del problema, así como los actores involucrados y sus interacciones. A través de esta actividad, se buscó obtener una comprensión profunda del negocio hotelero y sus procesos críticos.
+Durante una sesión de aproximadamente 1 hora y 30 minutos, se desarrollaron las siguientes actividades:
+1. **Identificación de eventos**: Se identificaron los eventos clave del dominio del problema, como "Reserva de habitación", "Check-in", "Check-out", entre otros. Estos eventos fueron representados en post-its de color naranja, lo que facilitó su visualización y comprensión.
+2. **Identificación de actores**: Se identificaron los actores involucrados en el proceso, como "Huésped", "Recepcionista", "Gerente de hotel", entre otros.
+3. **Interacciones entre eventos y actores**: Se establecieron las interacciones entre los eventos y los actores, lo que permitió visualizar cómo se relacionan y cómo influyen en el proceso general del negocio hotelero.
+4. **Identificación de comandos y agregados**: Se identificaron los comandos y agregados asociados a cada evento, lo que permitió comprender cómo se gestionan los datos y las acciones dentro del sistema.
+
+**Herramienta utilizada:** Para esta sesión se empleó Lucidchart, una herramienta colaborativa que permite crear diagramas y visualizar procesos de manera efectiva. Esta herramienta facilitó la colaboración entre los participantes y permitió documentar de manera clara y concisa los resultados de la sesión.
+
+**Figura 1:**
+
+![EventStorming](images/eventstorming.png)
+
+En esta figura se puede observar el resultado de la sesión de EventStorming, donde el equipo identificó los eventos clave del dominio del problema, los actores involucrados y sus interacciones. 
+
 
 
 ### 4.1.1.1. Candidate Context Discovery
