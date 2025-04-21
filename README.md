@@ -22,9 +22,28 @@ Durante una sesión de aproximadamente 1 hora y 30 minutos, se desarrollaron las
 
 En esta figura se puede observar el resultado de la sesión de EventStorming, donde el equipo identificó los eventos clave del dominio del problema, los actores involucrados y sus interacciones. 
 
-
-
 ### 4.1.1.1. Candidate Context Discovery
+En esta sección se muestra como se llevó a cabo una sesión de Candidate Context Discovery con el fin de identificar los posibles Bounded Contexts que estructurarán estratégicamente la solución
+
+**Objetivo de la sesión**: La sesión tuvo como finalidad analizar los eventos, comandos y actores identificados previamente para determinar los límites dentro del sistema.
+
+**Técnica utilizada**: Look-For-Pivotal-Events
+
+Se destacaron eventos de negocio que marcan cambios de estado significativos:
+
+“Reserva confirmada” (transición de cliente interesado a huésped)
+
+“Check-in completado” (inicio del proceso operativo interno)
+
+“Check-out completado” (cierre del ciclo de atención)
+
+**Herramienta utilizada**: Para esta sesión también se utilizó Lucidchart, para que de manera colaborativa el equipo pueda crear diagramas y visualizar procesos de manera efectiva.
+
+**Figura 2:**
+![Candidate Context Discovery](images/candidate_context_discovery.png)
+
+En esta figura se puede observar el resultado de la sesión de Candidate Context Discovery, donde el equipo utilizó las técnicas  start-with
+value, start-with-simple y look-for-pivotal-events.
 
 ### 4.1.1.2. Domain Message Flows Modeling
 
