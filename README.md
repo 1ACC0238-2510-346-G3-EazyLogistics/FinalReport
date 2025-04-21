@@ -46,6 +46,12 @@ En esta figura se puede observar el resultado de la sesión de Candidate Context
 value, start-with-simple y look-for-pivotal-events.
 
 ### 4.1.1.2. Domain Message Flows Modeling
+Una vez definidos los Bounded Contexts principales, se procedió a modelar los flujos de colaboración entre ellos mediante la técnica de Domain Storytelling.
+
+**Figura 3:**
+![Domain Message Flows Modeling](images/domain_storytelling_1.png)
+
+Esta figura muestra el flujo de colaboración entre el huésped y el sistema de reservas al momento de realizar una reserva. El proceso inicia con la solicitud del huésped, seguida por la verificación de disponibilidad y la confirmación de la reserva por parte del sistema. Posteriormente, se genera un registro de reserva.
 
 ### 4.1.1.3. Bounded Context Canvases
 
