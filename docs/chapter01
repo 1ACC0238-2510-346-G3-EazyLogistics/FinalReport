@@ -4,7 +4,9 @@
 
 ### 1.1.1. Descripción de la StartUp
 
-Nuestro sitio web ofrece el servicio de alquiler de bicicletas, en la brevedad de esas palabras buscamos lo innovador y llamativo, siendo los primeros en incluir un plan de suscripción mensual para jóvenes universitarios con un costo realmente accesible para que puedan trasladarse a su universidad u a otro lugares de intereses personales, también incluimos un plan mas elevado para otros usuarios mayores o profesionales que quieran usar una bicicleta por horas o días con un costo realmente accesible.
+LogisticsMaster es una startup inovadora que ofrece plataforma principal que permite a los hoteles gestionar sus operaciones de manera más eficiente y mejorar la experiencia de sus huéspedes. KingReserve no solo es una herramienta para administrar reservas y personal, sino también para ofrecer servicios de manera accesible e intuitiva.
+
+
 
 - Misión: Nuestra misión se basa en apoyar a los jóvenes que quieran movilizarse de esta forma para que puedan conseguirlo sin tener que pagar tanto.
 <br>
@@ -101,153 +103,108 @@ El costo de alquiler por horas o días es competitivo y accesible, asegurando qu
 
 ### 1.2.2. Lean UX Process
 
-#### 1.2.2.1. Lean UX Problem Statements
+### 1.2.2.1  Problem Statement
+ 
+## Ciudadanos Peruanos
+El crecimiento acelerado del turismo en Perú ha generado la creación de numerosas agencias de viajes y hoteles, impulsados por la alta demanda del sector. Sin embargo, la informalidad y la desorganización dentro del sector han llevado a una disminución en la productividad, afectando tanto a turistas como a trabajadores del sector. Además, la falta de coordinación y estándares de servicio en las agencias informales provoca una experiencia deficiente para los turistas, lo que puede impactar negativamente la reputación del turismo en el país.
 
-**Problem Statement**
+¿Cómo podemos mejorar la eficiencia y organización en el sector hotelero y turístico, garantizando al mismo tiempo que los servicios ofrecidos cumplan con altos estándares de calidad?
 
-Nuestra futura plataforma de alquiler de bicicletas tiene como objetivo proporcionar acceso fácil y confiable a los jóvenes universitarios como a otros usuarios un medio de transporte ecológico y cada vez más seguro, ya que cada vez hay más ciclovías en nuestra ciudad. Sin embargo, enfrentamos diversos desafíos, como la competencia ya existente, ya que hay otras empresas que ofrecen un servicio similar; la inseguridad vial, porque sabemos que hay zonas y horas en las que es mas riesgoso manejar en bicicleta, etc. 
+Implementar Soluciones Tecnológicas para la Gestión:
 
-Para abordar estos desafíos, debemos aprovechar las oportunidades presentes en el mercado. Enfocándonos en atraer a un público de jóvenes universitarios con la propuesta innovadora que les tenemos, sin dejar de lado a los jóvenes que si bien ahora pueden no estar cursando alguna carrera universitaria también puedan acceder a nuestro servicio. La confianza que queremos que tengan en la plataforma será mayor si nos aliamos con diversos municipios de los distritos hacia los que estamos enfocados.
+Desarrollar plataformas tecnológicas que integren la gestión de reservas, excursiones, y otros servicios turísticos, facilitando la coordinación y reduciendo los errores humanos.
+Capacitar al personal en el uso de tecnologías de la información para mejorar la eficiencia en la gestión de reservas y servicios hoteleros.
 
-Nuestras estrategias de mejora incluyen la actualización continua del contenido para mantenernos al día con las normativas municipales, la mejora continua de la calidad de las bicicletas, y buscando siempre otras nuevas ideas que puedan hacer mejor nuestra plataforma.
+Establecer Estándares de Calidad y Certificación:
 
+Introducir un sistema de certificación que garantice que las agencias de viajes y hoteles cumplen con estándares de servicio, incluyendo la correcta categorización de hoteles y excursiones, y la coincidencia de identidad y fechas en el destino.
+Ofrecer incentivos a aquellas agencias y hoteles que alcancen y mantengan altos estándares de calidad.
 
-#### 1.2.2.2. Lean UX Assumptions
+Empresas Peruanas
+El aumento en la cantidad de agencias de viajes y hoteles, acompañado por la falta de eficiencia y desorganización, ha llevado a una reducción en la productividad del sector turístico en Perú. Las empresas, en su mayoría, enfrentan problemas derivados de la informalidad, como la descoordinación en las reservas y la deficiencia en los estándares de servicio. Esto afecta la satisfacción del cliente y puede llevar a una disminución en las ventas y la reputación del negocio.
 
-**User Assumptions**
+¿Cómo ayudamos a las empresas a mejorar la eficiencia y la organización en el sector hotelero, aumentando así su competitividad y garantizando una experiencia de calidad para los usuarios?
 
-- ¿Quién es el usuario?
+Automatización y Mejora de Procesos:
 
-El usuario puede ser un universitario(a) que quiera transportarse hacia la universidad o algun lugar de interes personal mediente el uso de una bicicleta moderna y adecuada. O tambien otro joven adulto que quiera usar una bicicleta para fines personales.
+Implementar sistemas de gestión hotelera y de agencias de viajes que automatizan la coordinación de reservas y servicios, reduciendo errores y mejorando la eficiencia operativa.
+Adoptar tecnologías que permitan una mejor comunicación y coordinación con agencias de origen, asegurando la correcta programación de reservas y servicios de los hoteles.
+Incentivar la Formalización:
 
-- ¿Dónde encaja nuestro producto, en su trabajo o vida?
+Crear programas de incentivos que animen a las empresas informales a regularizar su situación, ofreciéndoles beneficios como acceso a financiamiento, capacitación, y promoción en plataformas turísticas oficiales.
+Establecer sanciones y controles más estrictos para reducir la competencia desleal de las empresas informales.
 
-Nuestro producto encaja en la vida universitaria de jovenes que quieran movilizarse mediante esta forma y tambien cuidar su salud haciendo ejercicio mediante el uso de la bicicleta. Para los universitarios, el producto puede ayudar a resolver problemas como la carencia de formas de transporte y aportar positivamente en su salud, mientras que para jovenes con trabajo o que quieran usar bicicletas por motivos personales, ya sea para su recreacion o trabajo, brindarles una bicicleta de calidad.
+### 1.2.2.2 Lean Ux Assumptions 
 
-- ¿Qué problemas tiene nuestro producto y cómo se pueden resolver?
-<br>
-- Problema 1: Disponibilidad limitada de bicicletas en horas pico
+### Buisness Assumptions
+-Creo que mis clientes (hoteles ) necesitan una mejora en la eficiencia y organización del proceso de reservas para reducir errores, mejorar la calidad del servicio y competir con las operaciones informales.
 
-  - Solución: Implementar un sistema de redistribución de bicicletas en tiempo real, donde se monitorice la demanda y se reubiquen bicicletas de zonas con menor uso hacia áreas de mayor demanda durante horas pico.
-<br>
-- Problema 2: Dificultad para los nuevos usuarios en comprender el proceso de suscripción y uso
+-Estas necesidades se pueden resolver con una aplicación que centralice y automatice el proceso de reservas, integrando servicios como la reserva de habitaciones, excursiones, y restaurantes, y mejorando la comunicación entre hoteles
 
-  - Solución: Crear tutoriales interactivos y guías paso a paso en la plataforma, que expliquen cómo registrarse, suscribirse y usar el servicio, incluyendo un soporte al cliente en vivo para asistencia inmediata.
-<br>
-- Problema 3: Desgaste y mantenimiento insuficiente de las bicicletas
+-Mis clientes iniciales serán hoteles que enfrentan problemas de desorganización y errores en sus sistemas de reservas 
 
-  - Solución: Implementar un programa de mantenimiento preventivo y revisiones periódicas, además de permitir a los usuarios reportar problemas directamente desde la aplicación, incentivando el reporte con puntos de recompensa.
-<br>
-- Problema 4: Competencia de otros medios de transporte, como scooters eléctricos y transporte público
+-El valor número 1 que un cliente quiere obtener de mi producto es una gestión de reservas más eficiente y sin errores, lo que mejora la experiencia del cliente final y optimiza la ocupación hotelera.
 
-  - Solución: Diferenciar el servicio ofreciendo beneficios exclusivos a suscriptores, como descuentos en tiendas asociadas o eventos, además de reforzar el mensaje ecológico y saludable del uso de bicicletas.
+-Obteneré la mayoría de mis clientes a través de recomendaciones, asociaciones con agencias de viaje y publicidad dirigida en plataformas digitales.
 
-<br>
+-Ganaré dinero mediante comisiones sobre cada reserva procesada a través de la aplicación, así como tarifas de suscripción para el uso de la plataforma por parte de los hoteles.
 
-- ¿Cuándo y cómo es usado nuestro producto?
+-Mi competencia en el mercado serán las soluciones de gestión de reservas ya establecidas y las operaciones informales que ofrecen precios más bajos a costa de la calidad.
 
-Nuestro servicio de alquiler de bicicletas podría ser utilizado por jóvenes universitarios y otros usuarios cuando necesitan un medio de transporte económico y ecológico para desplazarse a sus lugares de estudio, trabajo, o actividades personales. Es particularmente útil durante horas pico o cuando el transporte público es poco fiable. Los usuarios acceden al servicio a través de nuestra plataforma en línea, donde pueden suscribirse a un plan mensual o alquilar bicicletas por horas o días. El proceso es sencillo y rápido, permitiendo a los usuarios reservar y desbloquear bicicletas en estaciones ubicadas estratégicamente cerca de universidades y centros urbanos.
+-Los venceremos debido a nuestra capacidad de integrar múltiples servicios en una sola plataforma, mejorar la precisión en las reservas, y ofrecer soporte continuo a los usuarios.
 
-- ¿Qué características son importantes?
+-Mi mayor riesgo es la resistencia al cambio por parte de los hoteles y agencias acostumbrados a métodos tradicionales o informales de gestión.
 
-Características importantes incluyen un sistema de reserva en tiempo real, posteriormente desarrollar una aplicación móvil fácil de usar, opciones de suscripción mensual para estudiantes y profesionales, un programa de mantenimiento regular de bicicletas, y un sistema de geolocalización para encontrar bicicletas disponibles cerca de la ubicación del usuario. También es crucial un sistema de soporte al cliente integrado en la plataforma, que permita a los usuarios resolver cualquier problema rápidamente.
+-Resolveremos esto proporcionando formación y soporte continuo, demostrando las ventajas de la automatización y la mejora de la eficiencia.
 
-- ¿Cómo debe verse nuestro producto y cómo debe comportarse?
+-Sabremos que tenemos éxito cuando veamos un aumento en la adopción de la plataforma, una reducción en los errores de reserva, y un incremento en la satisfacción del cliente final.
 
-El sitio web y la aplicación de nuestra startup deben tener una apariencia moderna y atractiva, con un diseño intuitivo y fácil de navegar. La interfaz debe ser clara, con opciones de acceso rápido para suscribirse, reservar bicicletas, y gestionar el plan de suscripción. El comportamiento del producto debe ser eficiente, permitiendo a los usuarios encontrar y alquilar bicicletas con pocos clics, y asegurando que las bicicletas estén siempre en buenas condiciones y disponibles en los lugares de mayor demanda. Además, la plataforma debe ser capaz de manejar grandes volúmenes de usuarios simultáneamente sin ralentizaciones.
+### User Assumptions
+¿Quién es el usuario?
+Los usuarios incluyen hoteles que buscan mejorar la gestión de sus reservas, agencias de viaje que necesitan coordinar mejor los servicios turísticos y huéspedes que desean una experiencia de reserva más fluida y personalizada.
 
-**User Outcomes**
+¿Qué problemas resuelve nuestro producto?
+Nuestro producto resuelve problemas de desorganización, errores en la gestión de reservas, y la falta de coordinación entre hoteles, agencias de viaje y huéspedes. Además, mejora la experiencia de los huéspedes al ofrecer un proceso de reserva más transparente y eficiente.
 
-- **Acceso a Transporte Eficiente y Económico:** 
-Los usuarios, especialmente jóvenes universitarios y profesionales, buscan un medio de transporte económico, ecológico y fácil de acceder. Este outcome se centra en la capacidad de los usuarios para obtener bicicletas disponibles cerca de su ubicación cuando las necesiten, lo que les proporciona una solución de transporte fiable y asequible para sus desplazamientos diarios. El éxito se mide por la satisfacción del usuario al tener acceso a bicicletas bien mantenidas y fácilmente disponibles en los momentos clave del día.
-<br>
+¿Qué características son importantes?
+Es crucial que el producto permita la gestión integral de reservas y servicios asociados en una sola plataforma de manera eficiente, confiable y sin errores. Para los huéspedes, es importante que puedan acceder fácilmente a la información de su reserva, opciones de servicios adicionales, y comunicarse con el hotel o la agencia en cualquier momento.
 
-- **Flexibilidad y Conveniencia en el Transporte:**
- Los usuarios valoran la flexibilidad de elegir entre planes de suscripción o alquileres a corto plazo que se adapten a sus necesidades. Este outcome se enfoca en ofrecer a los usuarios diferentes opciones que les permitan ajustar el uso del servicio según sus horarios y necesidades, ya sea mediante una suscripción mensual o alquileres por horas o días. El éxito se refleja en la capacidad de la plataforma para proporcionar opciones convenientes que se alineen con el estilo de vida de los usuarios, aumentando así la lealtad y recurrencia del uso.
-<br>
+¿Dónde encaja nuestro producto en su trabajo o vida?
+Para los hoteles y agencias de viaje, el producto encaja en su operación diaria, optimizando la gestión de reservas y mejorando la coordinación de servicios. Para los huéspedes, el producto se integra en su experiencia de viaje, facilitando la reserva y personalización de servicios antes y durante su estancia.
 
-- **Promoción de un Estilo de Vida Saludable y Sostenible:**
-Para los usuarios interesados en mantener un estilo de vida activo y reducir su huella de carbono, el outcome deseado es que el servicio no solo facilite el transporte, sino que también promueva hábitos saludables y sostenibles. Esto incluye el uso regular de bicicletas como parte de su rutina diaria y la concienciación sobre los beneficios ambientales de reducir el uso de vehículos motorizados. El éxito se mide por la adopción y continuidad en el uso del servicio como parte de un compromiso más amplio con un estilo de vida saludable y sostenible.
+¿Cuándo y cómo es nuestro producto usado?
+El producto es utilizado cada vez que los hoteles o agencias necesitan gestionar reservas y coordinar servicios turísticos, y cada vez que los huéspedes necesitan reservar alojamiento, personalizar su estancia o consultar su itinerario.
 
-**Business Assumptions**
+¿Cómo debe verse nuestro producto y cómo debe comportarse?
+El producto debe ser intuitivo, fácil de usar y altamente funcional. Los usuarios deben poder gestionar reservas, coordinar servicios y realizar consultas de manera rápida, sencilla y precisa, mientras los huéspedes disfrutan de un proceso de reserva claro y una comunicación fluida con el hotel .
 
-- ¿Cuál es nuestro mercado objetivo y cómo podemos alcanzarlo?
+### 1.2.2.3Lean Ux Proccess Hypothesis Statement
+Usuario Huésped
+Creemos que, al desarrollar una aplicación que centralice y automatice el proceso de reservas y servicios turísticos, mejoraremos la experiencia de los huéspedes al ofrecerles un proceso de reserva más sencillo, rápido y personalizado.
 
-Nuestro mercado objetivo son jóvenes universitarios que necesitan un medio de transporte económico y ecológico para desplazarse a sus universidades, así como profesionales que buscan alternativas de transporte flexibles en zonas urbanas. Podemos alcanzarlos a través de campañas de marketing dirigidas en redes sociales, colaboraciones con universidades, y asociaciones con empresas locales que valoren la movilidad sostenible. Además, eventos y promociones cerca de los campus universitarios y zonas de alta actividad laboral pueden atraer a nuestro público objetivo.
+Lograremos que los huéspedes disfruten de una experiencia de hospedaje, sin complicaciones en las reservas y con opciones personalizadas según sus necesidades.
 
-- ¿Cuál es nuestra estrategia de monetización y cómo podemos garantizar la rentabilidad?
+Sabremos que hemos tenido éxito cuando el número de reservas realizadas a través de la aplicación haya incrementado sus ingresos durante los primeros tres meses posteriores al lanzamiento.
 
-Nuestra estrategia de monetización se basa en ofrecer planes de suscripción mensual para estudiantes universitarios, así como tarifas competitivas para alquileres por horas o días para otros usuarios. Además, podemos generar ingresos a través de asociaciones con empresas locales que ofrezcan beneficios o descuentos a nuestros suscriptores, y mediante la colocación de publicidad en nuestras bicicletas o estaciones. Para garantizar la rentabilidad, debemos optimizar nuestras tarifas para asegurar un equilibrio entre accesibilidad para el usuario y margen de beneficio, además de fomentar la suscripción recurrente mediante incentivos y promociones.
+Usuario Empresa (Hoteles y Agencias de Viaje)
+Creemos que, al optimizar la gestión de reservas y la coordinación de servicios a través de nuestra plataforma, reduciremos los errores y desorganización, mejorando la ocupación y la satisfacción del cliente.
 
-- ¿Cuáles son nuestros costos operativos y cómo podemos mantenerlos bajo control?
+Lograremos evitar problemas de desorganización y comunicación que resultan en cancelaciones y bajas tasas de ocupación, además de reducir los costos asociados con estos errores.
 
-Nuestros costos operativos incluirían la adquisición y mantenimiento de la flota de bicicletas, el desarrollo y mantenimiento de la plataforma web y móvil, y la logística de redistribución de bicicletas en las estaciones. Para mantener estos costos bajo control, podemos explorar opciones como la externalización de mantenimiento a empresas especializadas, la implementación de tecnología para optimizar la redistribución de bicicletas, y la negociación de contratos de largo plazo con proveedores para reducir costos de adquisición de bicicletas.
-
-- ¿Cuál es nuestra estrategia de crecimiento a corto y largo plazo?
-
-A corto plazo, nuestra estrategia de crecimiento se centrará en la expansión de la base de usuarios a través de campañas de adquisición agresivas y la mejora continua de la experiencia del usuario para aumentar la retención. A largo plazo, podemos considerar la expansión a nuevas ciudades o regiones, el incremento de la flota de bicicletas, y la diversificación de servicios ofreciendo otros tipos de vehículos de movilidad urbana (como scooters eléctricos). También podemos buscar asociaciones con gobiernos locales para integrar nuestros servicios en planes de movilidad urbana sostenible.
-
-- ¿Cómo vamos a diferenciarnos de la competencia y crear una propuesta de valor única?
-
-Nos diferenciaremos al ofrecer planes de suscripción únicos y altamente accesibles para estudiantes universitarios, con una experiencia de usuario optimizada y un enfoque fuerte en la sostenibilidad. También, al garantizar un alto nivel de disponibilidad y mantenimiento de nuestras bicicletas, y al integrar funciones innovadoras en nuestra plataforma, como la posibilidad de reservar bicicletas con anticipación o acceder a promociones exclusivas de socios locales. Además, la cercanía con las universidades y la constante retroalimentación de los usuarios nos permitirá adaptar el servicio de manera precisa a sus necesidades.
-
-**Business Outcomes**
-
-1. **Desarrollo de una comunidad de usuarios leales:** Con una base inicial proyectada de 3000 usuarios, esperamos que al menos el 15% se suscriba a nuestros planes de alquiler de bicicletas dentro del primer mes de lanzamiento. Al ofrecer un servicio accesible y conveniente, especialmente para jóvenes universitarios, nuestra plataforma puede convertirse en el medio de transporte preferido para estudiantes y profesionales. Esto fomentará la creación de una comunidad de usuarios recurrentes, quienes no solo utilizarán el servicio de manera regular, sino que también actuarán como embajadores de la marca, recomendando el servicio a amigos y compañeros. 
-<br>
-
-2. **Generación de ingresos recurrentes y sostenibles:** Basándonos en el interés inicial proyectado, anticipamos al menos 450 suscripciones mensuales en los primeros dos meses, con un crecimiento mensual del 10% en suscripciones. Esta base de usuarios recurrentes permitirá generar ingresos sostenibles a largo plazo. Además, al ofrecer planes de suscripción accesibles y promociones dirigidas, podemos mantener una tasa alta de retención de usuarios, asegurando un flujo constante de ingresos que respalde tanto la operación diaria como las futuras expansiones del servicio.
-<br>
-
-3. **Promoción del transporte sostenible en entornos urbanos:** Con el objetivo de impactar positivamente en la movilidad urbana, esperamos que 700 usuarios adopten el uso regular de nuestras bicicletas en el primer trimestre, reduciendo así el uso de vehículos motorizados en al menos un 5% entre nuestra base de usuarios. Al promover el uso de bicicletas como una alternativa saludable y ecológica, nuestra startup no solo contribuirá a la reducción de emisiones de carbono, sino que también ayudará a descongestionar el tráfico en áreas urbanas. Este impacto positivo se alineará con las iniciativas de sostenibilidad de las ciudades, potenciando colaboraciones futuras con gobiernos locales y organizaciones que promuevan la movilidad sostenible.
-
-**Features Outcomes**
-
-1. **Acceso a Transporte Eficiente y Económico:**
-
-   - **Reserva anticipada de bicicletas:** Implementar una función en la aplicación que permita a los usuarios reservar bicicletas con anticipación, garantizando que tendrán una bicicleta disponible en el momento y lugar que la necesiten, especialmente durante horas pico.
-   - **Mapa interactivo de estaciones:** Desarrollar un mapa en tiempo real dentro de la aplicación que muestre la ubicación y disponibilidad de bicicletas en todas las estaciones cercanas, permitiendo a los usuarios encontrar fácilmente una bicicleta libre.
-<br>
-
-2. **Flexibilidad y Conveniencia en el Transporte:**
-
-   - **Planes de suscripción personalizables:** Ofrecer opciones de suscripción que los usuarios puedan personalizar según sus necesidades, como la cantidad de horas o días de uso, permitiendo así una mayor flexibilidad y adaptabilidad a diferentes estilos de vida.
-   - **Historial y estadísticas de uso:** Crear una sección en la aplicación donde los usuarios puedan ver su historial de uso, incluyendo la cantidad de kilómetros recorridos, calorías quemadas y emisiones de CO2 ahorradas, incentivando un uso continuo del servicio.
-<br>
-
-3. **Promoción de un Estilo de Vida Saludable y Sostenible:**
-
-   - **Desafíos y recompensas:** Implementar desafíos regulares que motiven a los usuarios a usar las bicicletas con mayor frecuencia, como metas semanales o mensuales, con recompensas en forma de descuentos o promociones exclusivas.
-
-   - **Contenido educativo sobre movilidad sostenible:** Crear una sección en la plataforma con artículos, videos y recursos que eduquen a los usuarios sobre los beneficios de la movilidad sostenible y cómo el uso regular de bicicletas contribuye a un estilo de vida saludable y al cuidado del medio ambiente.
-
-#### 1.2.2.3. Lean UX Hypothesis Statements
-
-- **Creemos que lograremos** un aumento en la adopción de nuestro servicio y una mejor satisfacción del usuario **si** proporcionamos una solución eficiente para el transporte diario de estudiantes y profesionales. **Al ofrecer** una plataforma accesible y confiable para reservar y utilizar bicicletas, **con la implementación** de un sistema de reserva en tiempo real y un mapa interactivo de estaciones, se podrá satisfacer la demanda de transporte económico y flexible.
-
-- **Creemos que lograremos** una mayor retención de usuarios y una mayor rentabilidad **si** los usuarios valoran la flexibilidad y accesibilidad de nuestras opciones de suscripción y alquiler. **Al ofrecer** planes de suscripción personalizables y tarifas de alquiler por horas o días, **con la optimización** de estas opciones después de realizar pruebas piloto con diferentes modelos y comprender las preferencias de los usuarios, podemos maximizar la satisfacción y fidelidad del cliente.
-
-- **Creemos que fortaleceremos** nuestra posición en el mercado y aumentaremos la confianza de los usuarios **si** ofrecemos valor adicional a través de asociaciones estratégicas con universidades y empresas locales. **Al establecer** asociaciones con universidades y empresas para ofrecer descuentos exclusivos o beneficios adicionales, **con la identificación** y contacto de posibles socios y la implementación de programas de beneficios conjuntos, mejoraremos nuestra propuesta de valor y atraeremos a más usuarios.
-
-- **Creemos que aumentaremos** la satisfacción del usuario y fomentaremos el boca a boca positivo **si** los usuarios tienen una experiencia de uso fluida y agradable con nuestra plataforma. **Al mejorar** la interfaz de usuario y la facilidad de navegación en nuestra aplicación y sitio web, basándonos en pruebas de usabilidad y comentarios directos de los usuarios, **con la implementación** de mejoras continuas en la experiencia del usuario, se fortalecerá la fidelidad y recomendación de nuestros clientes.
-
-- **Creemos que impulsaremos** el crecimiento de nuestra base de usuarios y la expansión de nuestra plataforma **si** los usuarios objetivo se familiarizan con nuestro servicio a través de campañas de marketing dirigidas. **Al realizar** campañas de marketing dirigidas a estudiantes universitarios y profesionales en áreas urbanas, **con la realización** de pruebas piloto de nuestras campañas y la adaptación de la estrategia según los resultados obtenidos, podremos aumentar la visibilidad y atraer a nuevos usuarios.
+Sabremos que hemos tenido éxito cuando la totalidad de las reservas gestionadas a través de la plataforma hayan sido procesadas sin errores, y los hoteles  reporten una mejora en su eficiencia operativa.
 
 #### 1.2.2.4. Lean UX Canvas
 
-- Mediante la realizacion Lean UX Canvas podemos mostrar todla informacion anterior pero de una manera resumida, didactica y mas accesible al lector. Tambien se resume la problematica que estamos abordando y la solucion que proponemos, junto con los supuestos de las hipotesis y los puntos mas importantes de las mismas.
+- Mediante la realizacion Lean UX Canvas podemos mostrar toda informacion anterior pero de una manera resumida, didactica y mas accesible al lector. Tambien se resume la problematica que estamos abordando y la solucion que proponemos, junto con los supuestos de las hipotesis y los puntos mas importantes de las mismas.
 
 ![Lean UX Canvas](../assets/BICIBREEZE%20CANVAS.png)
 
 ## 1.3. Segmento Objetivo
 
-Establecer y definir un segmento objetivo es fundamental para el desarrollo exitoso de esta etapa del proyecto. Como resultado, los futuros clientes del segmento tendrán un producto que cumpla sus necesidades. Esto llevó a la definición de los siguientes segmentos objetivos:
+#### 1. Empresas Hoteleras:
 
-**Segmento 1:** Jóvenes Universitarios
+Este segmento se enfoca en cadenas hoteleras, hoteles boutique y resorts que buscan transformar sus operaciones mediante la implementación de soluciones tecnológicas avanzadas. Estas empresas están comprometidas con la mejora continua de sus procesos operativos y la optimización de la experiencia de sus huéspedes. Su principal objetivo es integrar herramientas que les permitan gestionar reservas, coordinar al personal y ofrecer un servicio al cliente de alta calidad de manera más eficiente. Buscan reducir la carga administrativa mediante la automatización de tareas y mejorar la comunicación interna para una gestión más fluida. Además, valoran las oportunidades de colaborar con otros profesionales del sector, compartir buenas prácticas y estar al tanto de las últimas tendencias en gestión hotelera para mantener un estándar elevado en sus operaciones.
 
-Buscan un medio de transporte económico y ecológico para sus desplazamientos diarios entre la universidad y otras actividades. Prefieren soluciones accesibles y flexibles que se adapten a su presupuesto limitado y a la necesidad de moverse rápidamente.
+#### 2. Huéspedes:
 
-
-**Segmento 2:** Profesionales Urbanos:
-
-Necesitan un transporte ágil y flexible para distancias cortas en zonas urbanas, como ir al trabajo o a reuniones. Valoran opciones que les permitan evitar el tráfico y contribuir a un estilo de vida activo y sostenible.
+Este segmento está compuesto por viajeros que buscan una experiencia de alojamiento personalizada y de alta calidad. Los huéspedes valoran una experiencia que se ajuste a sus preferencias individuales, desde la facilidad de reserva hasta la atención personalizada durante su estancia. Están interesados en un proceso de reserva intuitivo que simplifique la planificación de su viaje y en recibir un servicio al cliente eficiente que pueda resolver cualquier inconveniente de manera rápida. Además, aprecian servicios y comodidades que mejoren su confort y hagan su estancia más placentera. La capacidad de personalizar su experiencia y acceder a un servicio excepcional son factores clave para su satisfacción y fidelización.
