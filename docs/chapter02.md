@@ -17,7 +17,7 @@ LogicMaster se diferencia de competidores como Opera PMS, RoomRaccoon y Mews al 
    </tr>
    <tr align="center">
       <td colspan="2"></td>
-      <td><b>KingReserve</b><br><img src="https://hackmd.io/_uploads/rkXwsQdsC.png" alt="Logic Master Logo" style="max-width: 80px;"/></td>
+      <td><b>Logic Master</b><br><img src="https://acortar.link/rQvMxH" alt="Logic Master Logo" style="max-width: 80px;"/></td>
       <td><b>Cloudbeds</b><br><img src="https://acortar.link/SDV6QT" alt="Cloudbeds Logo" style="max-width: 80px;"/></td>
       <td><b>RoomRaccoon</b><br><img src="https://acortar.link/6yGl65" alt="RoomRaccoon" style="max-width: 80px;"/></td>
       <td><b>Mews</b><br><img src="https://acortar.link/UGgluO" alt="Mews" style="max-width: 90px;"/></td>
