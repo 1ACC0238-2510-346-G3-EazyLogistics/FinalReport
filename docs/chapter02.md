@@ -111,17 +111,19 @@ LogicMaster se diferencia de competidores como Opera PMS, RoomRaccoon y Mews al 
 
 **Diferenciación mediante la Experiencia del Cliente y Comunidad Colaborativa:**
 
-**Estrategia:** Resaltar el enfoque único de Logic Master en la creación de una comunidad interactiva y colaborativa, donde los usuarios no solo gestionan operaciones, sino que también comparten conocimientos, experiencias y mejores prácticas dentro de la industria hotelera.
-**Táctica:** Desarrollar y promover funciones sociales exclusivas dentro de la plataforma, como foros, grupos de discusión y programas de fidelización basados en la interacción comunitaria. Implementar herramientas de análisis que permitan a los usuarios personalizar las interacciones y mejorar la experiencia del huésped basándose en datos compartidos por otros miembros de la comunidad.
+**Estrategia:** Resaltar el enfoque único de Logic Master en la creación de una comunidad interactiva y colaborativa, donde los usuarios no solo gestionan operaciones, sino que también comparten conocimientos, experiencias y mejores prácticas dentro de la industria hotelera.<br>
+
+**Táctica:** Desarrollar y promover funciones sociales exclusivas dentro de la plataforma, como foros, grupos de discusión y programas de fidelización basados en la interacción comunitaria. Implementar herramientas de análisis que permitan a los usuarios personalizar las interacciones y mejorar la experiencia del huésped basándose en datos compartidos por otros miembros de la comunidad.<br>
 
 **Enfoque en la Personalización y la Comunicación Directa:**
 
-**Estrategia:** Destacar la capacidad de Logic Master para ofrecer experiencias personalizadas y comunicación directa con los huéspedes, diferenciándose de competidores que se enfocan más en la automatización que en la personalización.
-**Táctica:** Incluir opciones avanzadas de personalización que permitan a los hoteles adaptar sus servicios a las preferencias de cada huésped. Integrar un sistema de mensajería instantánea que facilite la comunicación directa entre hotel y cliente antes, durante y después de la estancia.
+**Estrategia:** Destacar la capacidad de Logic Master para ofrecer experiencias personalizadas y comunicación directa con los huéspedes, diferenciándose de competidores que se enfocan más en la automatización que en la personalización.<br>
+
+**Táctica:** Incluir opciones avanzadas de personalización que permitan a los hoteles adaptar sus servicios a las preferencias de cada huésped. Integrar un sistema de mensajería instantánea que facilite la comunicación directa entre hotel y cliente antes, durante y después de la estancia.<br>
 
 **Alianzas Estratégicas con Grupos Hoteleros y Eventos del Sector:**
 
-**Estrategia:** Aprovechar alianzas estratégicas con grupos hoteleros y participación en eventos de la industria para expandir la adopción de KingReserve en mercados clave.
+**Estrategia:** Aprovechar alianzas estratégicas con grupos hoteleros y participación en eventos de la industria para expandir la adopción de Logic Master  en mercados clave.<br>
 **Táctica:** Realizar acuerdos con asociaciones hoteleras para ofrecer demos personalizadas y precios exclusivos a sus miembros. Patrocinar y participar en eventos del sector para posicionar a Logic Master como una solución innovadora y necesaria en la digitalización hotelera.
 
 **Escalabilidad y Flexibilidad en la Oferta de Servicios:**
