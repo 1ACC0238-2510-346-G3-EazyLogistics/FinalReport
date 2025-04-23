@@ -5,7 +5,7 @@
 
 # 2 Capítulo II: Requirements Elicitation & Analysis
 ##  2.1 Competidores
-KingReserve se diferencia de competidores como Opera PMS, RoomRaccoon y Mews al combinar la gestión hotelera con una comunidad colaborativa para profesionales del sector. Mientras que Opera PMS es ideal para grandes cadenas pero costoso para pequeños hoteles, RoomRaccoon se centra en hoteles más pequeños con una solución integral, y Mews destaca por su automatización y diseño moderno, KingReserve ofrece una solución versátil que no solo optimiza la operación, sino que también fomenta la interacción y el intercambio de conocimientos entre usuarios, elevando la calidad del servicio y la experiencia del cliente.
+LogicMaster se diferencia de competidores como Opera PMS, RoomRaccoon y Mews al combinar la gestión hotelera con una comunidad colaborativa para profesionales del sector. Mientras que Opera PMS es ideal para grandes cadenas pero costoso para pequeños hoteles, RoomRaccoon se centra en hoteles más pequeños con una solución integral, y Mews destaca por su automatización y diseño moderno, KingReserve ofrece una solución versátil que no solo optimiza la operación, sino que también fomenta la interacción y el intercambio de conocimientos entre usuarios, elevando la calidad del servicio y la experiencia del cliente.
 ## 2.1.1 Análisis Competitivo
 <table>
    <tr>
@@ -17,7 +17,7 @@ KingReserve se diferencia de competidores como Opera PMS, RoomRaccoon y Mews al 
    </tr>
    <tr align="center">
       <td colspan="2"></td>
-      <td><b>KingReserve</b><br><img src="https://hackmd.io/_uploads/rkXwsQdsC.png" alt="KingReserve Logo" style="max-width: 80px;"/></td>
+      <td><b>KingReserve</b><br><img src="https://hackmd.io/_uploads/rkXwsQdsC.png" alt="Logic Master Logo" style="max-width: 80px;"/></td>
       <td><b>Cloudbeds</b><br><img src="https://acortar.link/SDV6QT" alt="Cloudbeds Logo" style="max-width: 80px;"/></td>
       <td><b>RoomRaccoon</b><br><img src="https://acortar.link/6yGl65" alt="RoomRaccoon" style="max-width: 80px;"/></td>
       <td><b>Mews</b><br><img src="https://acortar.link/UGgluO" alt="Mews" style="max-width: 90px;"/></td>
@@ -26,14 +26,14 @@ KingReserve se diferencia de competidores como Opera PMS, RoomRaccoon y Mews al 
    <tr>
       <td rowspan="2"><b>Perfil</b></td>
       <td><b>Overview</b></td>
-      <td>KingReserve es una plataforma innovadora que ofrece una solución integral para la gestión hotelera, combinando funciones operativas con un enfoque en la experiencia del cliente. Además de optimizar la administración, se enfoca en crear un entorno que fomente la interacción social y la personalización.</td>
+      <td> Logic Master es una plataforma innovadora que ofrece una solución integral para la gestión hotelera, combinando funciones operativas con un enfoque en la experiencia del cliente. Además de optimizar la administración, se enfoca en crear un entorno que fomente la interacción social y la personalización.</td>
       <td>Cloudbeds es una plataforma moderna para la gestión hotelera que integra PMS, motor de reservas y canal de distribución, destacándose por su facilidad de uso y su enfoque en la automatización y centralización de operaciones para hoteles de distintos tamaños.</td>
       <td>RoomRaccoon es una solución todo-en-uno diseñada para pequeños y medianos hoteles, que combina gestión de reservas, un motor de reservas en línea y herramientas de facturación.</td>
       <td>Mews ofrece una plataforma moderna y flexible que automatiza gran parte de las operaciones hoteleras, enfocándose en mejorar la eficiencia y la experiencia del huésped.</td>
    </tr>
    <tr>
       <td><b>Ventaja competitiva. ¿Qué valor ofrece a los clientes?</b></td>
-      <td>KingReserve se diferencia al integrar la gestión hotelera con funciones sociales para crear una comunidad interactiva entre los hoteles y sus huéspedes, mejorando la experiencia del cliente a través de la personalización y comunicación directa.</td>
+      <td>LogicMaster se diferencia al integrar la gestión hotelera con funciones sociales para crear una comunidad interactiva entre los hoteles y sus huéspedes, mejorando la experiencia del cliente a través de la personalización y comunicación directa.</td>
       <td>Cloudbeds combina gestión, distribución y automatización en una única plataforma, facilitando la administración hotelera desde una interfaz intuitiva y accesible.</td>
       <td>RoomRaccoon ofrece una interfaz intuitiva para pequeños hoteles, con un enfoque en la facilidad de uso y precios accesibles.</td>
       <td>Mews se centra en la automatización y la experiencia del usuario, con un diseño moderno y adaptable, aunque su integración personalizada puede ser limitada.</td>
@@ -41,14 +41,14 @@ KingReserve se diferencia de competidores como Opera PMS, RoomRaccoon y Mews al 
    <tr>
       <td rowspan="2"><b>Perfil de Marketing</b></td>
       <td><b>Mercado Objetivo</b></td>
-      <td>El mercado objetivo de KingReserve incluye hoteles de tamaño mediano y grande que buscan optimizar sus operaciones y mejorar la experiencia del huésped mediante la tecnología. También apunta a cadenas hoteleras que desean mejorar la personalización y el servicio al cliente.</td>
+      <td>El mercado objetivo de Logic Master incluye hoteles de tamaño mediano y grande que buscan optimizar sus operaciones y mejorar la experiencia del huésped mediante la tecnología. También apunta a cadenas hoteleras que desean mejorar la personalización y el servicio al cliente.</td>
       <td>Hoteles y alojamientos de diversos tamaños que buscan una solución todo-en-uno para centralizar y automatizar su gestión operativa y de reservas.</td>
       <td>Pequeños y medianos hoteles que buscan una solución todo-en-uno con funcionalidades simples y una curva de aprendizaje baja.</td>
       <td>Hoteles que valoran la automatización y buscan mejorar la experiencia del huésped a través de una plataforma moderna y flexible.</td>
    </tr>
    <tr>
       <td><b>Estrategias de Marketing</b></td>
-      <td>KingReserve se centrará en campañas digitales dirigidas a hoteles medianos y grandes, promoviendo su capacidad para mejorar la personalización y la experiencia del huésped. Además, se buscarán alianzas estratégicas con grupos hoteleros y eventos del sector.</td>
+      <td>Logic Master se centrará en campañas digitales dirigidas a hoteles medianos y grandes, promoviendo su capacidad para mejorar la personalización y la experiencia del huésped. Además, se buscarán alianzas estratégicas con grupos hoteleros y eventos del sector.</td>
       <td>Cloudbeds promueve su solución como una plataforma integral que simplifica la gestión hotelera mediante la automatización, dirigida a alojamientos que buscan centralizar y optimizar sus operaciones.</td>
       <td>RoomRaccoon se promociona principalmente a través de campañas en línea, con un enfoque en la facilidad de uso y los precios accesibles para pequeños hoteles.</td>
       <td>Mews invierte en marketing digital y en la creación de una marca que se asocia con la modernidad y la innovación en la gestión hotelera.</td>
