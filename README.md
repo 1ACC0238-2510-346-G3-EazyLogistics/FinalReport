@@ -104,23 +104,50 @@ Estos diseños proporcionan una visión clara de la arquitectura del sistema, lo
 ### 4.1.3.3. Software Architecture Deployment Diagrams
 ![KingReserve-diagram-components](./images/Components-Diagrams.png)
 
+
 ### 4.2. Tactical-Level Domain-Driven Design
 
-### 4.2.1. Bounded Context: <Bounded Context Name>
+Esta es la propuesta táctica para el diseño de software de LogisticsMasters, aplicando Domain-Driven Design (DDD).
+![image](./images/Class_Diagram.jpeg)
 
-### 4.2.1.1. Domain Layer
+### 4.2.1. Bounded Context: Guia de Reservas
 
-### 4.2.X.2. Interface Layer
+|Clases|Propósito|Atributos|Métodos|
+|------|---------|---------|-------|
+| Reservation| Gestiona los datos y estado de una reserva|reservationID(), reservationDate(), numberOfPeople(), table()| createReservation(), cancelReservation(), updateReservation()|
+|Customer|Representa al cliente que realiza reservas.|paymentMethod, reservationList|register(), placeReserve(), makeReservation(), cancelReservation()|
+|Worker|Empleado del hotel que gestiona reservas.|Position| manageReserve() (overloaded para Order y Reservation)|
 
-### 4.2.X.3. Application Layer
+- #### 4.2.1.1. Domain Layer
+| Clase | Tipo | Propósito |
+|-------|------|-----------|
+Reserva | Entity | Representa una reserva realizada por un cliente en el sistema.
+Customer | Entity | Representa al cliente que realiza una o más reservas.
+Worker | Entity | Representa al trabajador asignado a gestionar reservas.
+ReservaService | Domain Service | Lógica del negocio como validación de fechas, disponibilidad, etc.
+ReservaFactory | Factory | Encargado de crear objetos Reserva consistentes.
+IReservaRepository | Repository Interface | Interfaz para acceder a almacenamiento de reservas.
+- #### 4.2.1.2. Interface Layer
+Clase | Tipo | Propósito
+|-|-|-|
+ReservaController | Controller | Expone los endpoints de gestión de reservas (crear, cancelar, actualizar).
+- #### 4.2.1.3. Application Layer
+Clase | Tipo | Propósito
+-|-|-
+CrearReservaHandler | Command Handler | Ejecuta el proceso de creación de una reserva.
+CancelarReservaHandler | Command Handler | Ejecuta la cancelación de una reserva.
+ActualizarReservaHandler | Command Handler | Ejecuta la actualización de datos de una reserva.
+- #### 4.2.1.4.Infrastructure Layer
+Clase | Tipo | Propósito
+-|-|-|
+MySQLReservaRepository | Repository Implementation | Implementa IReservaRepository para persistencia en base de datos relacional.
+EmailNotificacionService | External Service | Servicio de envío de notificaciones por email (ej. al confirmar reserva).
+CalendarioAPI | External API | Servicio externo para validar disponibilidad de fechas.
+- #### 4.2.1.5.Bounded Context Software Architecture - Component Level Diagrams
+- #### 4.2.1.6.Bounded Context Software Architecture Code Level Diagrams
 
-### 4.2.X.4.Infrastructure Layer
+- #### 4.2.1.6.1.Bounded Context Domain Layer Class Diagrams
 
-### 4.2.X.5.Bounded Context Software Architecture Component Level Diagrams
-
-### 4.2.X.6.Bounded Context Software Architecture Code Level Diagrams
-
-### 4.2.X.6.1.Bounded Context Domain Layer Class Diagrams
 
 ### 2.6.x.6.2.Bounded Context Database Design Diagram 
 
