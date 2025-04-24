@@ -146,14 +146,141 @@ CalendarioAPI | External API | Servicio externo para validar disponibilidad de f
 - #### 4.2.1.5.Bounded Context Software Architecture - Component Level Diagrams
 - #### 4.2.1.6.Bounded Context Software Architecture Code Level Diagrams
 
+- #### 4.2.1.6.1.Bounded Context Domain Layer Class Diagrams!
+
+### 4.2.2. Bounded Context: Gestión de Usuarios
+
+Clase | Propósito | Atributos | Métodos
+-|-|-|-
+User | Representa a un usuario del sistema (cliente o trabajador) | id: String, name: String, username: String, password: String, email: String, role: Enum, reserveList: List<Reserva> | login(), logout(), checkReserves()
+AuthenticationService | Lógica de autenticación y validación de credenciales | – | authenticate(username, password), logout(user)
+UserValidationService | Verifica datos válidos de usuario (correo, contraseña, etc.) | – | validarCorreo(email), validarContrasena(password)
+IUserRepository | Interfaz para acceder a usuarios en base de datos | – | save(user), findByUsername(username), delete(id)
+MySQLUserRepository | Implementación de acceso a usuarios en base MySQL | – | Implementa IUserRepository
+AuthController | Expone los endpoints de autenticación y gestión de sesión | – | POST /login, POST /logout, POST /register
+LoginUserHandler | Maneja la lógica de login en la capa de aplicación | – | handle(LoginCommand)
+LogoutUserHandler | Maneja el cierre de sesión | – | handle(LogoutCommand)
+- #### 4.2.2.1. Domain Layer
+Clase | Tipo | Propósito
+-|-|-
+User | Entity | Representa al usuario del sistema con sus atributos y rol.
+AuthenticationService | Domain Service | Realiza autenticación basada en credenciales.
+UserValidationService | Domain Service | Valida datos de entrada del usuario.
+IUserRepository | Repository Interface | Interfaz para la persistencia y recuperación de usuarios.
+- #### 4.2.2.2. Interface Layer
+Clase | Tipo | Propósito
+-|-|-
+AuthController | Controller | Expone endpoints de login, logout y registro.
+- #### 4.2.2.3. Application Layer
+Clase | Tipo | Propósito
+-|-|-
+LoginUserHandler | Command Handler | Ejecuta lógica de inicio de sesión.
+LogoutUserHandler | Command Handler | Ejecuta cierre de sesión de un usuario.
+- #### 4.2.2.4.Infrastructure Layer
+Clase | Tipo | Propósito
+-|-|-
+MySQLUserRepository | Repository Implementation | Implementa interfaz para acceder a datos del usuario.
+JWTTokenService | External Service | Genera y valida tokens para autenticación.
+EmailService | External Service | Notificación de bienvenida, recuperación de contraseña, etc.
+- #### 4.2.2.5.Bounded Context Software Architecture Component Level Diagrams
+
+- #### 4.2.2.6.Bounded Context Software Architecture Code Level Diagrams
+
 - #### 4.2.1.6.1.Bounded Context Domain Layer Class Diagrams
 
+### 4.2.1. Bounded Context: Pagos y suscripciones
+Clase | Propósito | Atributos | Métodos
+-|-|-|-
+PaymentMethod | Representa un pago realizado por un cliente | paymentID: String, amount: Float, paymentDate: Date, customerID: String, methodType: Enum | processPayment(), refund()
+Suscription | Maneja la suscripción de un usuario a un plan | id: String, type: Enum, price: Float, status: Enum, startDate: Date, endDate: Date, userID: String | activate(), cancel(), renew()
+PaymentService | Realiza operaciones de validación y procesamiento de pagos | – | validarPago(...), confirmarTransaccion(...)
+SuscriptionService | Controla lógica de negocio de activación y renovación | – | asignarPlan(...), validarSuscripcionActiva(...)
+IPaymentRepository | Interfaz para persistencia de pagos | – | save(payment), findByCustomerID(id)
+ISuscriptionRepository | Interfaz para persistencia de suscripciones | – | save(suscription), findActiveByUserID(id)
+MySQLPaymentRepository | Implementación concreta de IPaymentRepository | – | Implementa métodos de la interfaz
+MySQLSuscriptionRepository | Implementación concreta de ISuscriptionRepository | – | Implementa métodos de la interfaz
+PaymentController | Expone endpoints relacionados al pago | – | POST /pago, GET /pagos/:clienteId
+SubscriptionController | Gestiona suscripciones | – | POST /suscripcion, GET /suscripciones/:usuarioId
+ProcessPaymentHandler | Maneja la lógica de realizar un pago | – | handle(PaymentCommand)
+RegisterSubscriptionHandler | Registra una suscripción para un usuario | – | handle(SuscriptionCommand)
+- #### 4.2.1.1. Domain Layer
+Clase | Tipo | Propósito
+-|-|-
+PaymentMethod | Entity | Representa un pago con monto, tipo y fecha.
+Suscription | Entity | Representa un plan de suscripción que puede estar activo o cancelado.
+PaymentService | Domain Service | Lógica de validación de pagos.
+SuscriptionService | Domain Service | Control de activaciones y renovaciones.
+IPaymentRepository | Repository Interface | Abstracción para guardar y consultar pagos.
+ISuscriptionRepository | Repository Interface | Abstracción para acceder a suscripciones.
+- #### 4.2.X.2. Interface Layer
+Clase | Tipo | Propósito
+-|-|-
+PaymentController | Controller | Endpoint para procesar y consultar pagos.
+SubscriptionController | Controller | Endpoint para registrar o consultar planes del usuario.
+- #### 4.2.X.3. Application Layer
+Clase | Tipo | Propósito
+-|-|-
+ProcessPaymentHandler | Command Handler | Maneja la lógica completa del flujo de pago.
+RegisterSubscriptionHandler | Command Handler | Maneja el registro de una suscripción para un usuario.
+- #### 4.2.X.4.Infrastructure Layer
+Clase | Tipo | Propósito
+-|-|-
+MySQLPaymentRepository | Repository Implementation | Almacena y recupera datos de pagos desde base de datos.
+MySQLSuscriptionRepository | Repository Implementation | Maneja la persistencia de planes de suscripción.
+StripePaymentGateway | External Service | Conecta con Stripe (o similar) para procesar pagos reales.
+BillingEmailService | External Service | Notificaciones sobre cobros, renovación o cancelación de planes.
+- #### 4.2.X.5.Bounded Context Software Architecture Component Level Diagrams
+
+- #### 4.2.X.6.Bounded Context Software Architecture Code Level Diagrams
+
+
+### 4.2.1. Bounded Context: Notificaciones y órdenes
+Clase | Propósito | Atributos | Métodos
+-|-|-|-
+Notification | Representa un mensaje enviado al usuario sobre su reserva, orden u otra acción | id: String, type: Enum, message: String, status: Enum, recipientEmail: String | createMessage(), send(), markAsRead()
+Controlador | Clase orquestadora que gestiona reservas, servicios y asignaciones a usuarios | orderList: List<Order>, users: List<User>, services: List<Service> | manageReserve(), assignOrderToWorker(), deliverMessage()
+Order | Representa un pedido realizado por el cliente que puede incluir servicios adicionales | orderId: String, customerId: String, details: String, status: Enum | confirm(), cancel()
+NotificationService | Lógica para envío y gestión de notificaciones | – | sendEmail(), notifyUser(), notifyAdmin()
+OrderService | Lógica de negocio para asignar y controlar órdenes | – | assignToWorker(order, worker), trackStatus()
+INotificationRepository | Interfaz para persistencia de notificaciones | – | save(notification), findUnreadByUser(id)
+IOrderRepository | Interfaz para persistencia de órdenes | – | save(order), getByCustomer(id)
+MySQLNotificationRepository | Implementación concreta del repositorio de notificaciones | – | Implementa INotificationRepository
+MySQLOrderRepository | Implementación concreta para almacenar órdenes | – | Implementa IOrderRepository
+NotificationController | Expone endpoints relacionados a notificaciones | – | GET /notificaciones/:usuarioId, POST /notificaciones
+OrderController | Endpoint para gestionar pedidos de servicios | – | POST /orden, GET /orden/:clienteId
+SendNotificationHandler | Encapsula el flujo de enviar una notificación | – | handle(NotificationCommand)
+AssignOrderHandler | Encapsula el flujo de asignar una orden a un trabajador | – | handle(AssignOrderCommand)
+- #### 4.2.1.1. Domain Layer
+Clase | Tipo | Propósito
+-|-|-
+Notification | Entity | Almacena y gestiona información de mensajes hacia el usuario.
+Order | Entity | Representa una solicitud de servicio o producto por parte del cliente.
+NotificationService | Domain Service | Lógica de envío y validación de notificaciones.
+OrderService | Domain Service | Maneja reglas de negocio de órdenes y asignación a trabajadores.
+INotificationRepository | Repository Interface | Para persistencia de notificaciones.
+IOrderRepository | Repository Interface | Para persistencia de órdenes.
+- #### 4.2.X.2. Interface Layer
+Clase | Tipo | Propósito
+-|-|-
+NotificationController | Controller | Exposición de notificaciones para clientes y administradores.
+OrderController | Controller | Exposición de pedidos y solicitudes de servicio por los usuarios.
+- #### 4.2.X.3. Application Layer
+Clase | Tipo | Propósito
+-|-|-
+SendNotificationHandler | Command Handler | Lógica para crear y enviar una notificación.
+AssignOrderHandler | Command Handler | Asigna un pedido a un trabajador para ejecución.
+- #### 4.2.X.4.Infrastructure Layer
+Clase | Tipo | Propósito
+-|-|-
+MySQLNotificationRepository | Repository Implementation | Persistencia de notificaciones en base de datos relacional.
+MySQLOrderRepository | Repository Implementation | Manejo de órdenes persistidas por clientes.
+EmailNotificationAdapter | External Service | Encapsula lógica de envío real vía SMTP, SendGrid, etc.
+RealtimeNotificationAdapter | External Service | WebSocket o Pusher para actualizaciones en tiempo real.
+- #### 4.2.X.5.Bounded Context Software Architecture - Component Level Diagrams
+
+- #### 4.2.X.6.Bounded Context Software Architecture Code Level Diagrams
+
+- #### 4.2.X.6.1.Bounded Context Domain Layer Class Diagrams
 
 ### 2.6.x.6.2.Bounded Context Database Design Diagram 
-
-
-
-
-
-
 
