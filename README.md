@@ -79,7 +79,7 @@ mediante la técnica de Domain Storytelling.
 
 **Figura 3:**
 
-![Domain Message Flows Modeling](images/domain_storytelling_1.png)
+![Domain Message Flows Modeling](images/storytellingLogisticMasters1.egn.svg)
 
 Esta figura muestra el flujo de colaboración entre el huésped y el sistema de reservas al momento de realizar una
 reserva. El proceso inicia con la solicitud del huésped, seguida por la verificación de disponibilidad y la confirmación
