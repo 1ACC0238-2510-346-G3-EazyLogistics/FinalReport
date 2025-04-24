@@ -17,7 +17,7 @@ LogisticsMaster es una startup inovadora que ofrece plataforma principal que per
 
 | Nombre Completo del integrante       | Descripcion de Carrera                                                                           | Fotografía                                      | Conocimientos y Habilidades a apuntar                                                                                                                                                                                                                                               |
 | ------------------------------------ | ------------------------------------------------------------------------------------------------ | ----------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Augusto Mathias Vasquez Requejo      | Ingeniería de Software<br> 6to Ciclo<br>2024-2<br>Universidad Peruana de Ciencias Aplicadas      | imagen | - Conocimientos en lenguajes de programación como C++, JavaScript, HTML, CSS.<br> - Responsabilidad y dedicación con los trabajos grupales.                                                                                                                                         |
+| Augusto Mathias Vasquez Requejo      | Ingeniería de Software<br> 6to Ciclo<br>2024-2<br>Universidad Peruana de Ciencias Aplicadas      |<img src="https://github.com/1ACC0238-2510-346-G3-EazyLogistics/FinalReport/blob/feature/chapter-01/img/Augusto%20Vasquez.jpg?raw=true" alt="pr" style="width: auto height: auto;"> | - Conocimientos en lenguajes de programación como C++, JavaScript, HTML, CSS.<br> - Responsabilidad y dedicación con los trabajos grupales.                                                                                                                                         |
 | Perez Tuesta Gabriel     | Ingeniería de Software<br> 5to Ciclo<br>2024-2<br>Universidad Peruana de Ciencias Aplicadas      | imagen | - Conocimientos de lenguajes de programación html, css y Javascript.<br>- Contribución en equipo y responsabilidad.  |
 | Fabian Alonso Reyes Trujillano     | Ingeniería de Software<br> 6to Ciclo<br>2024-2<br>Universidad Peruana de Ciencias Aplicadas      |  <img src="https://i.postimg.cc/9Q0Q9n7S/foto-fab.jpg" alt="pr" style="width: auto height: auto;"> | - Conocimientos en lenguajes de programacion como C++, C#, Python, JavaScript, etc.<br>- Trabajo bien bajo presion y aporto con ideas óptimas para la solucion de diferentes problemas. |
 | Apaza Morales Fabricio Josué Emanuel | Ingeniería de Software<br> 6to Ciclo <br> 2024-2 <br> Universidad Peruana de Ciencias aplicadas |  imagen   | - Conocimientos en lenguajes de programación como C++, Python, Html y CSS.Considero que puedo aportar en el equipo, ya que soy responsable y trato de cumplir con las partes que se delegan en el equipo. A la vez, colaboro con ideas para poder lograr un buen trabajo en equipo. |.      
@@ -32,73 +32,73 @@ Los antecedentes son esenciales para una comprensión más profunda de la proble
 
 **What:**
 
-- ¿Qué ofrece nuestro sitio web?
+- ¿Qué ofrece nuestra aplicacion?
 
-Nuestro sitio web ofrece un servicio de alquiler de bicicletas, con un enfoque innovador en suscripción mensual accesible para jóvenes universitarios y planes flexibles para usuarios mayores o profesionales.
+LogisticsMaster ofrece una plataforma digital integral que permite a los hoteles gestionar de manera eficiente sus operaciones, incluyendo reservas, personal y servicios para huéspedes.
 
-- ¿Qué tipo de suscripción ofrecemos a los jóvenes universitarios?
+- ¿Qué soluciones específicas aporta la aplicacion?
 
-Ofrecemos un plan de suscripción mensual a un precio accesible para que los jóvenes universitarios puedan trasladarse a su universidad o a otros lugares de interés personal de manera económica.
+Soluciona la desorganización operativa y eleva la calidad del servicio al cliente mediante herramientas intuitivas que automatizan procesos y centralizan la información del hotel.
 
 **Where:**
 
-- ¿Dónde pueden los jóvenes universitarios utilizar nuestras bicicletas?
+- ¿Dónde pueden operar los hoteles con nuestra plataforma?
 
-Pueden utilizar las bicicletas en sus trayectos a la universidad o para moverse por la ciudad hacia otros lugares de interés personal.
+Nuestra plataforma es completamente en línea, por lo que puede ser utilizada por hoteles en todo el Perú, especialmente en zonas con alto flujo turístico como Cusco, Arequipa y la costa norte.
 
-- ¿Dónde pueden encontrar nuestro servicio de alquiler de bicicletas?
+- ¿Dónde impacta más el uso de LogisticsMaster?
 
-Nuestro servicio está disponible a través de nuestra plataforma en línea, donde los usuarios pueden suscribirse y gestionar su alquiler de bicicletas.
+Impacta especialmente en hoteles pequeños y medianos ubicados en regiones donde la informalidad del sector dificulta una gestión eficiente.
 
 **When:**
 
-- ¿Cuándo pueden los jóvenes universitarios acceder al servicio de alquiler de bicicletas?
+- ¿Cuándo es más útil implementar LogisticsMaster?
 
-Los universitarios pueden acceder a nuestro servicio de forma continua durante todo el año, con la flexibilidad de alquilar bicicletas por horas, días o mediante un plan mensual.
+Durante todo el año, especialmente en temporadas altas donde la demanda turística aumenta y la eficiencia operativa es crucial para ofrecer una buena experiencia al huésped.
 
--¿Cuándo se pueden beneficiar los usuarios de nuestros planes flexibles?
+- ¿Cuándo comenzó a ser evidente la necesidad de nuestra solución?
 
-Los usuarios pueden beneficiarse de nuestros planes en cualquier momento que necesiten moverse por la ciudad, ya sea por horas o días, según sus necesidades de transporte.
+Después de la pandemia, cuando el turismo se reactivó rápidamente, pero muchos hoteles no estaban preparados tecnológicamente para una gestión escalable y profesional.
 
 **Who:**
 
-- ¿Quiénes se benefician de nuestro plan de suscripción mensual?
+- ¿Quiénes se benefician directamente con LogisticsMaster?
 
-Los jóvenes universitarios que buscan una alternativa económica y ecológica para moverse, especialmente aquellos que necesitan un transporte regular hacia la universidad.
+Los administradores de hoteles, el personal operativo y los huéspedes. Los primeros obtienen control total sobre sus procesos; los segundos, mayor claridad en sus tareas; y los últimos, una mejor experiencia.
 
-- ¿Quiénes son los usuarios de nuestros planes flexibles por horas o días?
+- ¿Quiénes enfrentan los problemas que resolvemos?
 
-Los usuarios mayores o profesionales que necesitan una bicicleta de manera puntual para desplazarse por la ciudad por motivos de trabajo o actividades personales.
+Hoteles sin digitalización ni procesos estandarizados, especialmente aquellos que operan con herramientas básicas o de forma manual.
 
 **Why:**
 
-- ¿Por qué ofrecemos un plan accesible para jóvenes universitarios?
+- ¿Por qué ofrecemos esta aplicacion?
 
-Porque creemos en facilitar el transporte a los estudiantes sin que tengan que incurrir en altos costos, promoviendo una movilidad sostenible y económica.
+Porque existe una brecha importante entre la creciente demanda turística y la capacidad operativa de muchos hoteles peruanos. Queremos cerrar esa brecha mediante tecnología accesible y eficiente.
 
-- ¿Por qué incluimos planes para usuarios mayores o profesionales?
+- ¿Por qué es importante mejorar la gestión hotelera?
 
-Porque entendemos que no solo los jóvenes necesitan opciones de transporte accesibles y ecológicas, sino también aquellos que buscan soluciones de movilidad flexibles para su vida diaria o profesional.
+Porque una operación hotelera desorganizada afecta negativamente la experiencia del turista y, en consecuencia, la imagen del Perú como destino turístico competitivo.
 
 **How:**
 
-- ¿Cómo pueden los jóvenes suscribirse a nuestro plan mensual?
+- ¿Cómo funciona nuestra plataforma?
 
-Los jóvenes universitarios pueden registrarse fácilmente en nuestra plataforma en línea, seleccionar el plan de suscripción mensual y empezar a usar una bicicleta de inmediato.
+A través de una interfaz sencilla y personalizable, los hoteles pueden administrar reservas, asignar tareas al personal, monitorear el rendimiento operativo y gestionar servicios al huésped desde un solo lugar.
 
-- ¿Cómo pueden los usuarios mayores o profesionales alquilar una bicicleta?
+- ¿Cómo apoyamos a los hoteles durante la implementación?
 
-Los usuarios pueden alquilar bicicletas por horas o días a través de nuestra plataforma, seleccionando el plan que mejor se ajuste a sus necesidades de transporte.
+Brindamos capacitación y soporte continuo para asegurar que incluso los equipos con poca experiencia tecnológica puedan usar la plataforma de manera efectiva.
 
 **How much:**
 
-- ¿Cuánto cuesta la suscripción mensual para los jóvenes universitarios?
+- ¿Cuánto cuesta LogisticsMaster para un hotel?
 
-La suscripción mensual tiene un costo muy accesible, pensado específicamente para ajustarse al presupuesto de los jóvenes universitarios.
+Ofrecemos planes flexibles por suscripción mensual, adaptados al tamaño y necesidades de cada hotel, con precios competitivos para facilitar la adopción incluso en negocios más pequeños.
 
-- ¿Cuánto cuesta alquilar una bicicleta por horas o días para los usuarios profesionales o mayores?
+- ¿Cuánto se puede ahorrar usando LogisticsMaster?
 
-El costo de alquiler por horas o días es competitivo y accesible, asegurando que tanto estudiantes como profesionales puedan disfrutar de una movilidad económica.
+Los hoteles pueden reducir significativamente los errores operativos y mejorar la productividad hasta en un 30–40%, lo que se traduce en mayor rentabilidad y satisfacción del huésped.
 
 
 ### 1.2.2. Lean UX Process
@@ -188,11 +188,15 @@ El producto es utilizado cada vez que los hoteles o agencias necesitan gestionar
 
 El producto debe ser intuitivo, fácil de usar y altamente funcional. Los usuarios deben poder gestionar reservas, coordinar servicios y realizar consultas de manera rápida, sencilla y precisa, mientras los huéspedes disfrutan de un proceso de reserva claro y una comunicación fluida con el hotel .
 
-### 1.2.2.3Lean Ux Proccess Hypothesis Statement
+### 1.2.2.3 Lean Ux Proccess Hypothesis Statement
 
 - Creemos que, al desarrollar una aplicación que centralice y automatice el proceso de reservas y servicios turísticos, mejoraremos la experiencia de los huéspedes al ofrecerles un proceso de reserva más sencillo, rápido y personalizado. Lograremos que los huéspedes disfruten de una experiencia de hospedaje, sin complicaciones en las reservas y con opciones personalizadas según sus necesidades. Sabremos que hemos tenido éxito cuando el número de reservas realizadas a través de la aplicación haya incrementado sus ingresos durante los primeros tres meses posteriores al lanzamiento.
 <br>
+
 - Creemos que, al optimizar la gestión de reservas y la coordinación de servicios a través de nuestra plataforma, reduciremos los errores y desorganización, mejorando la ocupación y la satisfacción del cliente. Lograremos evitar problemas de desorganización y comunicación que resultan en cancelaciones y bajas tasas de ocupación, además de reducir los costos asociados con estos errores. Sabremos que hemos tenido éxito cuando la totalidad de las reservas gestionadas a través de la plataforma hayan sido procesadas sin errores, y los hoteles  reporten una mejora en su eficiencia operativa.
+<br>
+
+- Creemos que, al integrar un sistema de seguimiento en tiempo real para las tareas del personal hotelero dentro de nuestra plataforma, mejoraremos la eficiencia operativa al permitir una mejor coordinación entre áreas. Lograremos que el personal tenga claridad sobre sus responsabilidades diarias, reduciendo la duplicación de esfuerzos y tiempos muertos. Sabremos que hemos tenido éxito cuando el tiempo promedio de respuesta a solicitudes internas (como limpieza, mantenimiento o room service) se haya reducido en al menos un 25% durante los primeros dos meses de uso continuo de la herramienta.
 
 #### 1.2.2.4. Lean UX Canvas
 
@@ -209,3 +213,5 @@ Este segmento se enfoca en cadenas hoteleras, hoteles boutique y resorts que bus
 #### 2. Huéspedes:
 
 Este segmento está compuesto por viajeros que buscan una experiencia de alojamiento personalizada y de alta calidad. Los huéspedes valoran una experiencia que se ajuste a sus preferencias individuales, desde la facilidad de reserva hasta la atención personalizada durante su estancia. Están interesados en un proceso de reserva intuitivo que simplifique la planificación de su viaje y en recibir un servicio al cliente eficiente que pueda resolver cualquier inconveniente de manera rápida. Además, aprecian servicios y comodidades que mejoren su confort y hagan su estancia más placentera. La capacidad de personalizar su experiencia y acceder a un servicio excepcional son factores clave para su satisfacción y fidelización.
+
+[Augusto VASQUEZ]: https://github.com/1ACC0238-2510-346-G3-EazyLogistics/FinalReport/blob/fdd867d8565c33ff95959e0def5b29d500a1020e/img/Augusto%20Vasquez.jpg
