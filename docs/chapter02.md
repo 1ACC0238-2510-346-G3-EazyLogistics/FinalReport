@@ -135,3 +135,278 @@ LogicMaster se diferencia de competidores como Opera PMS, RoomRaccoon y Mews al 
 
 **Estrategia:** Mantenerse a la vanguardia en la adopción de tecnologías emergentes para optimizar la experiencia del usuario y la eficiencia operativa.
 **Táctica:** Invertir en la investigación y desarrollo de tecnologías como inteligencia artificial y análisis predictivo para anticipar las necesidades de los huéspedes y ofrecer recomendaciones personalizadas. Implementar mejoras continuas en la plataforma basadas en feedback de los usuarios y avances tecnológicos en la industria.
+## 2.2 Entrevistas
+
+### 2.2.1   Diseño de Entrevistas
+
+### 1. Preguntas para Gestores de Empresas Hoteleras
+
+#### 1.1. Información Demográfica
+
+<table class="min-w-full bg-white border border-gray-300 mb-6">  
+        <thead>  
+            <tr>  
+                <th class="border border-gray-300 p-2">Categoría</th>  
+                <th class="border border-gray-300 p-2">Preguntas</th>  
+            </tr>  
+        </thead>  
+        <tbody>  
+            <tr>  
+                <td class="border border-gray-300 p-2">Edad y género</td>  
+                <td class="border border-gray-300 p-2">  
+                    - ¿Podrías indicarme tu edad y género? <br>  
+                    - ¿Crees que tu edad influye en la forma en que gestionas un hotel?  
+                </td>  
+            </tr>  
+            <tr>  
+                <td class="border border-gray-300 p-2">Ubicación del hotel</td>  
+                <td class="border border-gray-300 p-2">  
+                    - ¿En qué ciudad o región se encuentra tu hotel? <br>  
+                    - ¿Cómo influye la ubicación del hotel en la estrategia de gestión y reservas?  
+                </td>  
+            </tr>  
+            <tr>  
+                <td class="border border-gray-300 p-2">Experiencia en el sector hotelero</td>  
+                <td class="border border-gray-300 p-2">  
+                    - ¿Cuántos años de experiencia tienes en la gestión hotelera? <br>  
+                    - ¿Cómo ha cambiado tu enfoque de gestión con el tiempo?  
+                </td>  
+            </tr>  
+        </tbody>  
+    </table>  
+
+#### 1.2. Características Personales y Profesionales
+
+<table class="min-w-full bg-white border border-gray-300 mb-6">  
+        <thead>  
+            <tr>  
+                <th class="border border-gray-300 p-2">Categoría</th>  
+                <th class="border border-gray-300 p-2">Preguntas</th>  
+            </tr>  
+        </thead>  
+        <tbody>  
+            <tr>  
+                <td class="border border-gray-300 p-2">Motivaciones y objetivos</td>  
+                <td class="border border-gray-300 p-2">  
+                    - ¿Qué te motiva en la gestión de un hotel y cuáles son tus principales objetivos (e.g., maximización de ocupación, satisfacción del cliente, etc.)? <br>  
+                    - ¿Cómo evalúas el éxito de tu gestión hotelera?  
+                </td>  
+            </tr>  
+            <tr>  
+                <td class="border border-gray-300 p-2">Herramientas y plataformas</td>  
+                <td class="border border-gray-300 p-2">  
+                    - ¿Qué sistemas o plataformas utilizas para gestionar reservas y operaciones hoteleras? <br>  
+                    - ¿Has probado alguna solución integrada para la gestión hotelera? ¿Cuál ha sido tu experiencia?  
+                </td>  
+            </tr>  
+            <tr>  
+                <td class="border border-gray-300 p-2">Retos y frustraciones</td>  
+                <td class="border border-gray-300 p-2">  
+                    - ¿Cuáles son los principales desafíos que enfrentas en la gestión hotelera? <br>  
+                    - ¿Cómo abordas estos desafíos? ¿Hay alguna área específica donde sientas que necesitas más apoyo o mejores herramientas?  
+                </td>  
+            </tr>  
+            <tr>  
+                <td class="border border-gray-300 p-2">Expectativas tecnológicas</td>  
+                <td class="border border-gray-300 p-2">  
+                    - ¿Qué características tecnológicas consideras esenciales en un sistema de gestión hotelera? <br>  
+                    - ¿Qué te gustaría que una plataforma como KingReserve mejorara o incluyera para facilitar la gestión de tu hotel?  
+                </td>  
+            </tr>  
+        </tbody>  
+    </table>  
+
+### 2. Preguntas para Huéspedes:
+
+#### 2.1. Información Demográfica
+
+<table class="min-w-full bg-white border border-gray-300 mb-6">  
+        <thead>  
+            <tr>  
+                <th class="border border-gray-300 p-2">Categoría</th>  
+                <th class="border border-gray-300 p-2">Preguntas</th>  
+            </tr>  
+        </thead>  
+        <tbody>  
+            <tr>  
+                <td class="border border-gray-300 p-2">Edad y género</td>  
+                <td class="border border-gray-300 p-2">  
+                    - ¿Podrías indicarme tu edad y género? <br>  
+                    - ¿En qué rango de edad sueles realizar más reservas?  
+                </td>  
+            </tr>  
+            <tr>  
+                <td class="border border-gray-300 p-2">Distrito de residencia</td>  
+                <td class="border border-gray-300 p-2">  
+                    - ¿En qué distrito o ciudad resides actualmente? <br>  
+                    - ¿Prefieres realizar reservas cerca de tu residencia o estás dispuesto a viajar?  
+                </td>  
+            </tr>  
+            <tr>  
+                <td class="border border-gray-300 p-2">Ocupación</td>  
+                <td class="border border-gray-300 p-2">  
+                    - ¿Cuál es tu ocupación actual? <br>  
+                    - ¿Tu ocupación influye en la frecuencia con la que realizas reservas?  
+                </td>  
+            </tr>  
+        </tbody>  
+    </table>  
+
+#### 2.2. Características Personales y Preferencias
+
+<table class="min-w-full bg-white border border-gray-300 mb-6">  
+        <thead>  
+            <tr>  
+                <th class="border border-gray-300 p-2">Categoría</th>  
+                <th class="border border-gray-300 p-2">Preguntas</th>  
+            </tr>  
+        </thead>  
+        <tbody>  
+            <tr>  
+                <td class="border border-gray-300 p-2">Tipos de reservas preferidos</td>  
+                <td class="border border-gray-300 p-2">  
+                    - ¿Qué tipo de servicios sueles reservar con mayor frecuencia (restaurantes, hoteles, eventos, etc.)? <br>  
+                    - ¿Qué aspectos consideras al realizar una reserva (ubicación, precio, reputación, etc.)?  
+                </td>  
+            </tr>  
+            <tr>  
+                <td class="border border-gray-300 p-2">Experiencia en reservas</td>  
+                <td class="border border-gray-300 p-2">  
+                    - ¿Qué es lo que más valoras al realizar una reserva? <br>  
+                    - ¿Hay algún aspecto que te haya frustrado o decepcionado en reservas anteriores?  
+                </td>  
+            </tr>  
+            <tr>  
+                <td class="border border-gray-300 p-2">Uso de plataformas para realizar reservas</td>  
+                <td class="border border-gray-300 p-2">  
+                    - ¿Qué plataformas o métodos usas para realizar reservas? <br>  
+                    - ¿Prefieres realizar tus reservas en línea o en persona? ¿Por qué?  
+                </td>  
+            </tr>  
+            <tr>  
+                <td class="border border-gray-300 p-2">Interacción con la tecnología</td>  
+                <td class="border border-gray-300 p-2">  
+                    - ¿Qué tan cómodo te sientes usando aplicaciones móviles o plataformas web para buscar y realizar reservas? <br>  
+                    - ¿Qué características tecnológicas te gustaría ver en una plataforma que gestione reservas?  
+                </td>  
+            </tr>  
+            <tr>  
+                <td class="border border-gray-300 p-2">Comunicación con proveedores de servicios</td>  
+                <td class="border border-gray-300 p-2">  
+                    - ¿Qué tan importante es para ti recibir actualizaciones o notificaciones del proveedor antes y durante el servicio reservado? <br>  
+                    - ¿Te gustaría tener la opción de comunicarte directamente con el proveedor a través de la plataforma?  
+                </td>  
+            </tr>  
+        </tbody>  
+    </table>  
+    
+#### Conclusión de la Entrevista
+
+<table class="min-w-full bg-white border border-gray-300 mb-6">  
+        <thead>  
+            <tr>  
+                <th class="border border-gray-300 p-2">Categoría</th>  
+                <th class="border border-gray-300 p-2">Pregunta</th>  
+            </tr>  
+        </thead>  
+        <tbody>  
+            <tr>  
+                <td class="border border-gray-300 p-2">Pregunta Final</td>  
+                <td class="border border-gray-300 p-2">  
+                    - ¿Hay algo más que consideras importante compartir sobre tu experiencia como organizador o usuario de reservas?  
+                </td>  
+            </tr>  
+  </table>  
+         
+##   2.2.2 Registro de entrevistas
+### Segmento: Huespedes
+
+    
+#### Entrevista 1
+| **Datos del entrevistado** | 
+|--------------------------|
+| **Nombre:**  Nanfuñay Liza Pedro Jesús |
+| **Minuto del video:**  00:00 |
+| **Edad:**  19 años |
+| **Procedencia:**  Lima, Ate |
+| ![Entrevista](./assets/Entrevista_web1.png)|
+| **Resumen:** . |
+
+
+#### Entrevista 2
+| **Datos del entrevistado** | 
+|--------------------------|
+| **Nombre:**  Ramiro Guzman |
+| **Minuto del video:**  04:41 |
+| **Edad:**  20 años |
+| **Procedencia:**  Lima, Lima |
+| ![Entrevista](./assets/Entrevista_web2.png)|
+| **Resumen:** RESUMEN |
+
+#### Entrevista 3
+| **Datos del entrevistado** | 
+|--------------------------|
+| **Nombre:** Vasco Zagaceta |
+| **Edad:** 20 años |
+| **Minuto del video:**  10:23 |
+| **Procedencia:** San Miguel, Lima |
+| |
+| **Resumen:** RESUMEN. |
+
+### Segmento: Empresas Hoteleras
+
+#### Entrevista 4
+| **Datos del entrevistado** | 
+|--------------------------|
+| **Nombre:** María Delia Martínez |
+| **Edad:** 22 años |
+| **Minuto del video:**  14:27 |
+| **Procedencia:** Miraflores, Lima |
+| ![EntrevistaDelia](./assets/entreDelia.jpg) |
+| **Resumen:** RESUMEN |
+
+#### Entrevista 5
+| **Datos del entrevistado** | 
+|--------------------------|
+| **Nombre:** María José Canahualpa |
+| **Edad:** 23 años |
+| **Minuto del video:**  21:36 |
+| **Procedencia:** Cusco, Perú |
+| ![EntrevistaMaria](./assets/.jpg) |
+| **Resumen:** RESUMEN. |
+
+
+
+### 2.2.3 Análisis de entrevistas
+Después de llevar a cabo y describir los registros de los entrevistados, esta sección desarrollará una estrategia conjunta que permitirá al equipo identificar ciertos aspectos y puntos en común. Este análisis ayudará a obtener una visión más analítica y concreta sobre el desarrollo de la aplicación Logic Master.
+
+### Segmento 1: Huéspedes
+
+1. **Tipo de Reserva y Preferencias**
+   - **Tipo de Reserva:** El 70% de los huéspedes prefieren realizar reservas en línea utilizando plataformas como Airbnb y Booking.
+   - **Preferencias:** Valoran principalmente el precio, la ubicación y las opiniones de otros usuarios. La comodidad del smartphone para hacer reservas es una ventaja clave.
+
+2. **Prioridades al Reservar**
+   - **Principales Prioridades:** Según el 90%, los huéspedes buscan precios competitivos, ubicaciones convenientes y transparencia en las tarifas adicionales. También valoran la posibilidad de recibir notificaciones y tener opciones de personalización.
+
+3. **Herramientas Actuales**
+   - **Herramientas Utilizadas:** El 60% usa plataformas en línea como Airbnb, mientras que el 40% utiliza aplicaciones como Booking para gestionar sus reservas.
+
+4. **Características Deseadas en la Aplicación**
+   - **Características Deseadas:** El 60% de los usuarios desean opciones avanzadas de personalización, recordatorios automáticos y mayor transparencia en tarifas. También consideran importante la integración de chat en vivo y recomendaciones basadas en inteligencia artificial.
+
+### Segmento 2: Empresas Hoteleras
+
+1. **Desafíos y Prioridades en la Gestión**
+   - **Desafíos Actuales:** El 65% de los administradores de hoteles enfrentan dificultades con la falta de integración entre plataformas de gestión y la coordinación del personal.
+   - **Prioridades:** Valoran la eficiencia operativa y la capacidad de manejar múltiples tareas simultáneamente, como la asignación de habitaciones y la gestión de reservas.
+
+2. **Uso de Herramientas Actuales**
+   - **Herramientas Utilizadas:** El 70% utiliza varias plataformas de gestión hotelera pero encuentra que la falta de integración es un problema significativo.
+
+3. **Características Deseadas en la Plataforma**
+   - **Características Deseadas:** El 60% de los administradores busca implementar inteligencia artificial para optimizar la asignación de habitaciones y gestionar solicitudes en tiempo real. También desean actualizaciones en tiempo real y opciones de comunicación directa con los huéspedes.
+
+4. **Objetivos al Usar la Aplicación**
+   - **Objetivos:** El 100% espera que la aplicación les ayude a mejorar la eficiencia operativa y optimizar la gestión de reservas y eventos, además de proporcionar una mejor comunicación con los huéspedes y clientes.
+
