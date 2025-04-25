@@ -415,9 +415,9 @@ Después de llevar a cabo y describir los registros de los entrevistados, esta s
 
 ##### Huesped
 
- ![image](../assets/TO-BE_MAPPING-EMPRESAS_HOTELERAS_1.png)
+ ![image](../assets/UserPerson1.png)
 ##### Empresas Hoteleras
-![María Delia Martínez](./assets/User-Person2.png)
+![María Delia Martínez](../assets/User-Person2.png)
 
 #### 2.3.2 User Task Matrix
 
@@ -453,7 +453,7 @@ Después de llevar a cabo y describir los registros de los entrevistados, esta s
 
 #### Huesped
 
- ![image](../imgs/.png)
+ ![image](../assets/HuespedesJourney.png)
 
 #### Empresas Hoteleras
 ![image](../assets/Hoteles-journey-map.png)
@@ -461,19 +461,19 @@ Después de llevar a cabo y describir los registros de los entrevistados, esta s
 ### 2.3.4 Empathy Mapping
 
 #### Huesped
-![Huesped empathy map](./assets/Empathy-map-Huesped.png)
+![Huesped empathy map](../assets/Empathy-map-Huesped.png)
 
 #### Empresas Hoteleras
-![Hotel empathy map](./assets/Empathy-map-Hoteles.png)
+![Hotel empathy map](../assets/Empathy-map-Hoteles.png)
 
 ###  2.3.5 As-is Scenario Mapping
 #### Empresas Hoteleras:
 
-![image](./assets/AS-IS_MAPPING-EMPRESAS_HOTELERAS_1.png)
-![image](./assets/AS-IS_MAPPING-EMPRESAS_HOTELERAS_2.png)
+![image](../assets/AS-IS_MAPPING-EMPRESAS_HOTELERAS_1.png)
+![image](../assets/AS-IS_MAPPING-EMPRESAS_HOTELERAS_2.png)
 #### Huéspedes:
-![image](./assets/AS-IS_MAPPING-HUESPEDES_1.png)
-![image](./assets/AS-IS_MAPPING-HUESPEDES_2.png)
+![image](../assets/AS-IS_MAPPING-HUESPEDES_1.png)
+![image](../assets/AS-IS_MAPPING-HUESPEDES_2.png)
 
 ## 2.4  Ubiquitous Language
 
