@@ -202,6 +202,55 @@ El producto es utilizado cada vez que los hoteles o agencias necesitan gestionar
 
 El producto debe ser intuitivo, fácil de usar y altamente funcional. Los usuarios deben poder gestionar reservas, coordinar servicios y realizar consultas de manera rápida, sencilla y precisa, mientras los huéspedes disfrutan de un proceso de reserva claro y una comunicación fluida con el hotel .
 
+- **_User Outcomes_**
+
+1. Mejora en la eficiencia operativa diaria del hotel:
+
+Los administradores de hoteles desean reducir errores en la gestión de reservas, distribución de habitaciones y tareas internas. Este outcome refleja la necesidad de contar con un sistema centralizado que automatice procesos clave, lo cual mejora la eficiencia operativa y disminuye el estrés del personal.
+
+2. Experiencia personalizada y sin fricciones para los huéspedes:
+
+Los hoteles buscan ofrecer una experiencia diferenciadora al cliente final, permitiéndoles acceder fácilmente a su información de reserva, elegir servicios adicionales (como tours o transporte), y comunicarse con el hotel desde un solo canal. El éxito se mide por una mayor satisfacción y fidelización del cliente.
+
+3. Control y seguimiento del personal en tiempo real:
+
+Los encargados de operaciones requieren visibilidad sobre el desempeño del personal (limpieza, mantenimiento, atención al huésped). Este outcome apunta a reducir los tiempos muertos, mejorar la asignación de tareas y garantizar que se cumplan los estándares de servicio establecidos.
+
+- **_Business Outcomes_**
+
+1. Reducción de errores en reservas y operaciones:
+
+Esperamos que al menos el 80% de los hoteles que implementen LogisticsMaster reduzcan los errores operativos relacionados con reservas dobles, cancelaciones mal gestionadas o asignaciones incorrectas de habitaciones, en los primeros tres meses de uso.
+
+2. Aumento en la ocupación hotelera y retención de clientes:
+
+Al facilitar una experiencia más fluida tanto para huéspedes como para operadores, proyectamos un incremento del 15% en la tasa de ocupación mensual y un aumento del 20% en la retención de clientes habituales a través de funcionalidades como promociones personalizadas y programas de fidelización.
+
+3. Formalización y escalabilidad del negocio hotelero:
+
+En el primer año, se espera que el 60% de los hoteles que adopten LogisticsMaster hayan mejorado su organización interna al punto de estar listos para procesos de certificación, auditorías o incluso expansión, gracias a la estandarización que promueve la plataforma.
+
+
+- **_Feature Outcomes_**
+
+1. Mejora en la gestión de reservas y coordinación de servicios:
+
+- Calendario inteligente de reservas: Visualización clara de ocupación y disponibilidad, con alertas automáticas de sobreasignación o conflictos.
+
+- Integración de servicios turísticos: Reserva cruzada de tours, transporte o experiencias, permitiendo paquetes integrados desde la misma plataforma.
+
+2. Seguimiento de tareas y desempeño del personal hotelero:
+
+- Panel de tareas operativas en tiempo real: Asignación, seguimiento y cierre de tareas para limpieza, mantenimiento o atención al cliente con tiempos estimados y alertas.
+
+- Sistema de notificación interna: Comunicación ágil entre áreas, minimizando malentendidos y retrasos.
+
+3. Mejora de la experiencia del huésped:
+
+- Portal del huésped personalizado: Acceso a su reserva, servicios adicionales, estado de solicitudes y chat en vivo con recepción desde cualquier dispositivo.
+
+- Encuestas automatizadas post-estancia: Recolección de feedback útil para medir la experiencia y ajustar procesos internos.
+
 ### 1.2.2.3 Lean Ux Proccess Hypothesis Statement
 
 - Creemos que, al desarrollar una aplicación que centralice y automatice el proceso de reservas y servicios turísticos, mejoraremos la experiencia de los huéspedes al ofrecerles un proceso de reserva más sencillo, rápido y personalizado. Lograremos que los huéspedes disfruten de una experiencia de hospedaje, sin complicaciones en las reservas y con opciones personalizadas según sus necesidades. Sabremos que hemos tenido éxito cuando el número de reservas realizadas a través de la aplicación haya incrementado sus ingresos durante los primeros tres meses posteriores al lanzamiento.
