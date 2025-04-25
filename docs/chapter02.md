@@ -414,7 +414,8 @@ Después de llevar a cabo y describir los registros de los entrevistados, esta s
 ### 2.3.1 User Persona
 
 ##### Huesped
-![María Delia Martínez](./assets/User-Person1.png)
+
+ ![image](../assets/TO-BE_MAPPING-EMPRESAS_HOTELERAS_1.png)
 ##### Empresas Hoteleras
 ![María Delia Martínez](./assets/User-Person2.png)
 
@@ -451,10 +452,11 @@ Después de llevar a cabo y describir los registros de los entrevistados, esta s
 ### 2.3.3 User Journey Mapping
 
 #### Huesped
-![Hotel journey mapq](./assets/Hoteles-journey-map2.png)
+
+ ![image](../imgs/.png)
 
 #### Empresas Hoteleras
-![Hotel journey map](./assets/Hoteles-journey-map.png)
+![image](../assets/Hoteles-journey-map.png)
 
 ### 2.3.4 Empathy Mapping
 
