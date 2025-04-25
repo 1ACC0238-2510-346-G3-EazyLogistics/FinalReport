@@ -4,8 +4,7 @@
 
 ### 1.1.1. Descripción de la StartUp
 
-LogisticsMaster es una startup inovadora que ofrece plataforma principal que permite a los hoteles gestionar sus operaciones de manera más eficiente y mejorar la experiencia de sus huéspedes. LogisticsMasters no solo es una herramienta para administrar reservas y personal, sino también para ofrecer servicios de manera accesible e intuitiva.
-
+EazyLogistics es una startup inovadora que ofrece la aplicacion "LogisticsMaster", app que permite a los hoteles gestionar sus operaciones de manera más eficiente y mejorar la experiencia de sus huéspedes. LogisticsMaster no solo es una herramienta para administrar reservas y personal, sino también para ofrecer servicios de manera accesible e intuitiva.
 
 
 - Misión: Empoderar a los hoteles mediante una plataforma inteligente e intuitiva que optimiza sus operaciones, mejora la eficiencia del personal y eleva la experiencia del huésped, combinando tecnología accesible con una atención al detalle centrada en el cliente.
@@ -20,8 +19,8 @@ LogisticsMaster es una startup inovadora que ofrece plataforma principal que per
 | Augusto Mathias Vasquez Requejo      | Ingeniería de Software<br> 6to Ciclo<br>2024-2<br>Universidad Peruana de Ciencias Aplicadas      |<img src="https://github.com/1ACC0238-2510-346-G3-EazyLogistics/FinalReport/blob/feature/chapter-01/img/Augusto%20Vasquez.jpg?raw=true" alt="pr" style="width: auto height: auto;"> | - Conocimientos en lenguajes de programación como C++, JavaScript, HTML, CSS.<br> - Responsabilidad y dedicación con los trabajos grupales.                                                                                                                                         |
 | Jose Adrian Luza Carhuamaca    | Ingeniería de Software<br> 7mo Ciclo<br>2024-2<br>Universidad Peruana de Ciencias Aplicadas      | <img src="https://files.fm/u/3wcrzdd293" | - Conocimientos de lenguajes de programación web, desarrollo de procesos y mejora de estos.<br>- Contribución en equipo y responsabilidad.  |
 | Fabian Alonso Reyes Trujillano     | Ingeniería de Software<br> 6to Ciclo<br>2024-2<br>Universidad Peruana de Ciencias Aplicadas      |  <img src="https://i.postimg.cc/9Q0Q9n7S/foto-fab.jpg" alt="pr" style="width: auto height: auto;"> | - Conocimientos en lenguajes de programacion como C++, C#, Python, JavaScript, etc.<br>- Trabajo bien bajo presion y aporto con ideas óptimas para la solucion de diferentes problemas. |
-| Apaza Morales Fabricio Josué Emanuel | Ingeniería de Software<br> 6to Ciclo <br> 2024-2 <br> Universidad Peruana de Ciencias aplicadas |  imagen   | - Conocimientos en lenguajes de programación como C++, Python, Html y CSS.Considero que puedo aportar en el equipo, ya que soy responsable y trato de cumplir con las partes que se delegan en el equipo. A la vez, colaboro con ideas para poder lograr un buen trabajo en equipo. |.      
-|Ernesto Casaverde De La Cruz| 6to Ciclo 2024-2 Universidad Peruana de Ciencias Aplicada | Imagen  | Desarrollé principalmente todo el diseño de la lading page y web aplication utlizando adecuadamente las herramientas Ux .|
+| Gabriel Anthony Braithuaite Toledo| Ingeniería de Software<br> 6to Ciclo <br> 2024-2 <br> Universidad Peruana de Ciencias aplicadas |  imagen   | - Conocimientos en lenguajes de programación como C++, Python, Html y CSS.Considero que puedo aportar en el equipo, ya que soy responsable y trato de cumplir con las partes que se delegan en el equipo. A la vez, colaboro con ideas para poder lograr un buen trabajo en equipo. |.      
+| Joaquin Andree Pedraza Maldonado | 6to Ciclo 2024-2 Universidad Peruana de Ciencias Aplicada | Imagen  | - Conocimientos en lenguajes de programación como C++, Python, Html y CSS. Considero que que soy responsable y dedicado. A la vez, colaboraré siempre con ideas para poder lograr un buen trabajo en equipo.|
 
 
 ## 1.2. Solution Profile
@@ -111,37 +110,52 @@ El crecimiento acelerado del turismo en Perú ha generado la creación de numero
 
 <br>
 
-- **Implementar Soluciones Tecnológicas para la Gestión:**
 
-Desarrollar plataformas tecnológicas que integren la gestión de reservas, excursiones, y otros servicios turísticos, facilitando la coordinación y reduciendo los errores humanos.
-Capacitar al personal en el uso de tecnologías de la información para mejorar la eficiencia en la gestión de reservas y servicios hoteleros.
+- **_Domain_**
 
-- **Establecer Estándares de Calidad y Certificación:**
+El dominio de Logistics Master es el sector turístico y hotelero en Perú, específicamente enfocado en mejorar la gestión, organización y calidad de los servicios ofrecidos por agencias de viajes, operadores turísticos y hoteles. Este sector es altamente sensible a la experiencia del usuario y depende en gran medida de la coordinación entre múltiples actores.
 
-Introducir un sistema de certificación que garantice que las agencias de viajes y hoteles cumplen con estándares de servicio, incluyendo la correcta categorización de hoteles y excursiones, y la coincidencia de identidad y fechas en el destino.
-Ofrecer incentivos a aquellas agencias y hoteles que alcancen y mantengan altos estándares de calidad.
+- **_Customer Segments_**
 
-- **Empresas Peruanas**
+1. Agencias de viajes pequeñas y medianas que operan de manera informal o semi-formal.
+2. Hoteles independientes que no cuentan con sistemas integrados de gestión.
+3. Turistas nacionales e internacionales que buscan servicios confiables, organizados y de calidad.
+4. Operadores turísticos locales que necesitan coordinar logística con agencias y hospedajes.
 
-El aumento en la cantidad de agencias de viajes y hoteles, acompañado por la falta de eficiencia y desorganización, ha llevado a una reducción en la productividad del sector turístico en Perú. Las empresas, en su mayoría, enfrentan problemas derivados de la informalidad, como la descoordinación en las reservas y la deficiencia en los estándares de servicio. Esto afecta la satisfacción del cliente y puede llevar a una disminución en las ventas y la reputación del negocio.
+- **_Pain Points_**
 
-**_¿Cómo ayudamos a las empresas a mejorar la eficiencia y la organización en el sector hotelero, aumentando así su competitividad y garantizando una experiencia de calidad para los usuarios?_**
+1. Falta de digitalización en los procesos operativos (reservas, seguimiento de clientes, coordinación de servicios).
+2. Dificultad para verificar la calidad y legalidad de los servicios contratados.
+3. Problemas logísticos al coordinar con múltiples actores sin una plataforma centralizada.
+4. Mala experiencia del turista debido a errores de coordinación o incumplimientos.
+5. Reputación negativa del destino por experiencias desorganizadas o poco profesionales.
 
-- **Automatización y Mejora de Procesos:**
+- **_Gap (Brecha Identificada)_**
 
-Implementar sistemas de gestión hotelera y de agencias de viajes que automatizan la coordinación de reservas y servicios, reduciendo errores y mejorando la eficiencia operativa.
-Adoptar tecnologías que permitan una mejor comunicación y coordinación con agencias de origen, asegurando la correcta programación de reservas y servicios de los hoteles.
+Actualmente no existe una solución digital robusta, accesible y centralizada que permita a las agencias informales profesionalizarse y operar con estándares de calidad altos. Las herramientas existentes son costosas, genéricas, o no adaptadas al contexto local. Tampoco hay una forma estandarizada de evaluar y asegurar la calidad del servicio entre los actores turísticos locales.
 
-- **Incentivar la Formalización:**
+- **_Vision / Strategy_**
 
-Crear programas de incentivos que animen a las empresas informales a regularizar su situación, ofreciéndoles beneficios como acceso a financiamiento, capacitación, y promoción en plataformas turísticas oficiales.
-Establecer sanciones y controles más estrictos para reducir la competencia desleal de las empresas informales.
+Desarrollar Logistics Master como una plataforma SaaS accesible que permita a las agencias de viaje, hoteles y operadores turísticos:
+
+- Coordinar eficientemente todos los servicios ofrecidos al turista (alojamiento, transporte, tours).
+
+- Establecer estándares de calidad y cumplirlos mediante evaluaciones automáticas y feedback.
+
+- Integrarse a un sistema que valide la formalidad y reputación de los proveedores.
+
+- Ofrecer a los turistas una experiencia fluida, centralizada y confiable desde la planificación hasta la ejecución del viaje.
+<br>
+
+- **_Initial Segment (Primer segmento a impactar)_**
+
+Agencias de viajes semi-formales ubicadas en destinos turísticos clave del Perú (por ejemplo, Cusco y Arequipa) que enfrentan alta demanda pero carecen de sistemas eficientes de gestión. Este grupo es el más propenso a adoptar soluciones que les permitan crecer, diferenciarse de la informalidad total, y brindar un mejor servicio al turista con menos esfuerzo administrativo.
 
 ### 1.2.2.2 Lean Ux Assumptions 
 
 ### Buisness Assumptions
 
-- Creo que mis clientes (hoteles ) necesitan una mejora en la eficiencia y organización del proceso de reservas para reducir errores, mejorar la calidad del servicio y competir con las operaciones informales.
+- Creo que mis clientes (hoteles) necesitan una mejora en la eficiencia y organización del proceso de reservas para reducir errores, mejorar la calidad del servicio y competir con las operaciones informales.
 
 - Estas necesidades se pueden resolver con una aplicación que centralice y automatice el proceso de reservas, integrando servicios como la reserva de habitaciones, excursiones, y restaurantes, y mejorando la comunicación entre hoteles
 
