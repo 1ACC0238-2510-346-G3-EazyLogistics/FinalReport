@@ -111,6 +111,25 @@ Esta figura muestra el Bounded Context Canvas del contexto de "Gestión de Usuar
 Esta figura muestra el Bounded Context Canvas del contexto de "Pagos y Suscripciones", donde se detallan los límites, interacciones y responsabilidades del sistema de gestión de pagos y suscripciones.
 ### 4.1.2. Context Mapping
 
+Con el fin de establecer las relaciones entre los distintos Bounded Contexts identificados, se realizó un mapeo de contextos. Este mapeo permite visualizar cómo interactúan los diferentes contextos y cómo se comunican entre sí.
+
+**Figura 9:**
+![Context Mapping](images/context_mapping.jpg)
+
+Esta figura muestra el mapeo de contextos, donde se pueden observar las relaciones entre los distintos Bounded Contexts. Cada línea representa una relación de comunicación entre los contextos, lo que permite entender cómo fluyen los datos y las interacciones entre ellos.
+
+¿Qué pasaría si movemos una capability?
+Se pierde cohesión. Las órdenes responden a eventos que no necesariamente involucran al usuario.
+
+¿Y si partimos un bounded context?
+Se pierde la claridad de los límites. La gestión de reservas y la gestión de pagos son procesos interdependientes que deben mantenerse juntos para evitar confusiones y errores en el sistema.
+
+¿Qué pasaría si duplicamos funcionalidad?
+Se genera redundancia y confusión. La duplicación de funcionalidades puede llevar a inconsistencias en el sistema y dificultar su mantenimiento.
+
+¿Y si creamos un shared service?
+Se genera un acoplamiento innecesario. La creación de un servicio compartido puede llevar a una dependencia excesiva entre los contextos, lo que dificulta su evolución y mantenimiento. Aunque puede ser útil si se conectan más contexts o microservicios. Sería algo escalable en el futuro.
+
 ### 4.1.3. Software Architecture
 
 Los diseños C4 son una forma efectiva de representar la arquitectura de un sistema de software de manera clara y concisa. En el caso del proyecto King Reserve, los diseños C4 nos permiten visualizar la estructura y las interacciones entre los diferentes componentes del sistema. 
