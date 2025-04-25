@@ -185,7 +185,16 @@ MySQLReservaRepository | Repository Implementation | Implementa IReservaReposito
 EmailNotificacionService | External Service | Servicio de envío de notificaciones por email (ej. al confirmar reserva).
 CalendarioAPI | External API | Servicio externo para validar disponibilidad de fechas.
 - #### 4.2.1.5.Bounded Context Software Architecture - Component Level Diagrams
+
+**Figura 10:**
+
+![Bounded Context Software Architecture - Component Level Diagrams](./images/Component-Level-Diagrams1.png)
+
+Este diagrama muestra la arquitectura de componentes del Bounded Context "Guía de Reservas". En él se pueden observar los distintos componentes que interactúan entre sí, así como sus responsabilidades y relaciones.
+
 - #### 4.2.1.6.Bounded Context Software Architecture Code Level Diagrams
+
+**Figura 11:**
 
 - #### 4.2.1.6.1.Bounded Context Domain Layer Class Diagrams!
 
@@ -224,6 +233,12 @@ MySQLUserRepository | Repository Implementation | Implementa interfaz para acced
 JWTTokenService | External Service | Genera y valida tokens para autenticación.
 EmailService | External Service | Notificación de bienvenida, recuperación de contraseña, etc.
 - #### 4.2.2.5.Bounded Context Software Architecture Component Level Diagrams
+
+**Figura 12:**
+
+![Bounded Context Software Architecture Component Level Diagrams](./images/Component-Level-Diagrams2.png)
+
+Este diagrama muestra la arquitectura de componentes del Bounded Context "Gestión de Usuarios". En él se pueden observar los distintos componentes que interactúan entre sí, así como sus responsabilidades y relaciones.
 
 - #### 4.2.2.6.Bounded Context Software Architecture Code Level Diagrams
 
@@ -272,6 +287,12 @@ StripePaymentGateway | External Service | Conecta con Stripe (o similar) para pr
 BillingEmailService | External Service | Notificaciones sobre cobros, renovación o cancelación de planes.
 - #### 4.2.3.5.Bounded Context Software Architecture Component Level Diagrams
 
+**Figura 13:**
+
+![Bounded Context Software Architecture Component Level Diagrams](./images/Component-Level-Diagrams3.png)
+
+Este diagrama muestra la arquitectura de componentes del Bounded Context "Pagos y Suscripciones". En él se pueden observar los distintos componentes que interactúan entre sí, así como sus responsabilidades y relaciones.
+
 - #### 4.2.3.6.Bounded Context Software Architecture Code Level Diagrams
 
 
@@ -318,6 +339,12 @@ MySQLOrderRepository | Repository Implementation | Manejo de órdenes persistida
 EmailNotificationAdapter | External Service | Encapsula lógica de envío real vía SMTP, SendGrid, etc.
 RealtimeNotificationAdapter | External Service | WebSocket o Pusher para actualizaciones en tiempo real.
 - #### 4.2.4.5.Bounded Context Software Architecture - Component Level Diagrams
+
+**Figura 14:**
+
+![Bounded Context Software Architecture - Component Level Diagrams](./images/Component-Level-Diagrams4.png)
+
+Este diagrama muestra la arquitectura de componentes del Bounded Context "Notificaciones y Órdenes". En él se pueden observar los distintos componentes que interactúan entre sí, así como sus responsabilidades y relaciones.
 
 - #### 4.2.4.6.Bounded Context Software Architecture Code Level Diagrams
 
