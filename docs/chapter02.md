@@ -350,7 +350,7 @@ LogicMaster se diferencia de competidores como Opera PMS, RoomRaccoon y Mews al 
 | **Edad:** 19 años |
 | **Minuto del video:**  10:23 |
 | **Procedencia:** San Miguel, Lima |
-| ![Entrevista](../assets/Entre.png)|
+| ![Entrevista](../assets/Entrevista5.png)|
 | **Resumen:**  Estudiante de 19 años nos menciona que prefieree reservar hoteles en distintos lugares del país debido a que le gusta viajar , nos menciona que su mayor dificultad a la de reservar es que hay veces que los hoteles suelen confundirse con el tipo de habitación que el solicita y que una sugerencia puede ser realizar una mejor organización a la hora de agendar sus reservas   |
 
 ### Segmento: Empresas Hoteleras
@@ -372,7 +372,7 @@ LogicMaster se diferencia de competidores como Opera PMS, RoomRaccoon y Mews al 
 | **Edad:** 21 años |
 | **Link del video:** [Entrevista5](https://drive.google.com/file/d/1tkAYCXns-7XTWoCbqovsGES0hfqhnQ8G/view?usp=sharing)   |
 | **Procedencia:**  Perú |
-| ![EntrevistaMaria](../assets/Entre.jpg) |
+| ![EntrevistaMaria](../assets/Entre.png) |
 | **Resumen:**  Nauricio Muñoz es un Gestor Hotelero de 21 años el considera que su edad si influye a la hora de gestionar un hotel ademas nos menciona que si utiliza herramientas tecnologicas para gestionar su hotel sin embargo le gusta usar metodos tradicionales como lapiz y papel porque se siente más familiarizado y su principal desafio que ha enfrentado es la comunicación con el staff . |
 
 
