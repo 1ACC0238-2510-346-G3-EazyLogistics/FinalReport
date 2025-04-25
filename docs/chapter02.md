@@ -325,7 +325,7 @@ LogicMaster se diferencia de competidores como Opera PMS, RoomRaccoon y Mews al 
 #### Entrevista 1
 | **Datos del entrevistado** | 
 |--------------------------|
-| **Nombre:**  Nanfuñay Liza Pedro Jesús |
+| **Nombre:**  Gael Dario Lopez Diaz |
 | **Minuto del video:**  00:00 |
 | **Edad:**  19 años |
 | **Procedencia:**  Lima, Ate |
@@ -336,7 +336,7 @@ LogicMaster se diferencia de competidores como Opera PMS, RoomRaccoon y Mews al 
 #### Entrevista 2
 | **Datos del entrevistado** | 
 |--------------------------|
-| **Nombre:**  Ramiro Guzman |
+| **Nombre:**  Jose Shuan Saavedra|
 | **Minuto del video:**  04:41 |
 | **Edad:**  20 años |
 | **Procedencia:**  Lima, Lima |
@@ -358,9 +358,9 @@ LogicMaster se diferencia de competidores como Opera PMS, RoomRaccoon y Mews al 
 #### Entrevista 4
 | **Datos del entrevistado** | 
 |--------------------------|
-| **Nombre:** María Delia Martínez |
+| **Nombre:** Gino Tineo |
 | **Edad:** 22 años |
-| **Minuto del video:**  14:27 |
+| **Link  del video:**  14:27 |
 | **Procedencia:** Miraflores, Lima |
 | ![EntrevistaDelia](./assets/entreDelia.jpg) |
 | **Resumen:** RESUMEN |
@@ -368,9 +368,9 @@ LogicMaster se diferencia de competidores como Opera PMS, RoomRaccoon y Mews al 
 #### Entrevista 5
 | **Datos del entrevistado** | 
 |--------------------------|
-| **Nombre:** María José Canahualpa |
-| **Edad:** 23 años |
-| **Minuto del video:**  21:36 |
+| **Nombre:** Mauricio Muñoz |
+| **Edad:** 21 años |
+| **Link del video:**  21:36 |
 | **Procedencia:** Cusco, Perú |
 | ![EntrevistaMaria](./assets/.jpg) |
 | **Resumen:** RESUMEN. |
@@ -410,3 +410,82 @@ Después de llevar a cabo y describir los registros de los entrevistados, esta s
 4. **Objetivos al Usar la Aplicación**
    - **Objetivos:** El 100% espera que la aplicación les ayude a mejorar la eficiencia operativa y optimizar la gestión de reservas y eventos, además de proporcionar una mejor comunicación con los huéspedes y clientes.
 
+## 2.3 Needfinding
+### 2.3.1 User Persona
+
+##### Huesped
+![María Delia Martínez](./assets/User-Person1.png)
+##### Empresas Hoteleras
+![María Delia Martínez](./assets/User-Person2.png)
+
+#### 2.3.2 User Task Matrix
+
+##### Matriz de Tareas del Usuario
+
+
+| **Tareas**                           | **Frecuencia** | **Importancia** | **Frecuencia** | **Importancia** |
+|--------------------------------------|----------------|-----------------|----------------|-----------------|
+| Gestionar reservas de huéspedes      | Alta           | Alta            | -            | -             |
+| Coordinar y asignar tareas al personal| Media          | Alta            | -            | -             |
+| Automatizar la facturación           | Media          | Media           | -            | -             |
+| Monitorear rendimiento de operaciones| Alta           | Alta            | -            | -             |
+| Buscar y comparar opciones de alojamiento| -            | -             | Alta           | Alta            |
+| Realizar reservas en línea           | -            | -             | Alta           | Alta            |
+| Personalizar experiencia de estancia | -            | -             | Media          | Alta            |
+| Recibir notificaciones y actualizaciones| -            | -             | Alta           | Media           |
+| Comunicarse con el hotel             | -            | -             | Media          | Alta            |
+
+### Explicación de las Tareas
+
+- **Tareas con mayor frecuencia e importancia**:
+  - Para los **gestores de hoteles**, las tareas más frecuentes e importantes son "Gestionar reservas de huéspedes" y "Monitorear rendimiento de operaciones", ya que estas son críticas para la operación diaria y la satisfacción del cliente.
+  - Para los **viajeros**, las tareas más frecuentes e importantes son "Buscar y comparar opciones de alojamiento" y "Realizar reservas en línea", dado que son esenciales para planificar y asegurar sus viajes.
+
+- **Principales diferencias**:
+  - Los gestores de hotel se centran en la administración y eficiencia operativa.
+  - Los viajeros se enfocan en la personalización y conveniencia de la experiencia de alojamiento.
+
+- **Coincidencias**:
+  - Ambos segmentos valoran la **comunicación eficiente** y la **automatización** para mejorar la experiencia general.
+
+### 2.3.3 User Journey Mapping
+
+#### Huesped
+![Hotel journey mapq](./assets/Hoteles-journey-map2.png)
+
+#### Empresas Hoteleras
+![Hotel journey map](./assets/Hoteles-journey-map.png)
+
+### 2.3.4 Empathy Mapping
+
+#### Huesped
+![Huesped empathy map](./assets/Empathy-map-Huesped.png)
+
+#### Empresas Hoteleras
+![Hotel empathy map](./assets/Empathy-map-Hoteles.png)
+
+###  2.3.5 As-is Scenario Mapping
+#### Empresas Hoteleras:
+
+![image](./assets/AS-IS_MAPPING-EMPRESAS_HOTELERAS_1.png)
+![image](./assets/AS-IS_MAPPING-EMPRESAS_HOTELERAS_2.png)
+#### Huéspedes:
+![image](./assets/AS-IS_MAPPING-HUESPEDES_1.png)
+![image](./assets/AS-IS_MAPPING-HUESPEDES_2.png)
+
+## 2.4  Ubiquitous Language
+
+| **Término (Inglés)** | **Término (Español)** | **Definición** |
+|----------------------|-----------------------|----------------|
+| Reservation          | Reserva               | Proceso mediante el cual un huésped asegura una habitación en el hotel para una fecha específica. |
+| Check-in             | Registro de entrada   | Proceso de recepción y registro de un huésped en el hotel al inicio de su estancia. |
+| Check-out            | Registro de salida    | Proceso de salida y finalización de la estancia de un huésped en el hotel. |
+| Guest                | Huésped               | Persona que se aloja en el hotel. |
+| Room Service         | Servicio de habitaciones | Servicio proporcionado por el hotel para entregar alimentos y bebidas directamente a la habitación del huésped. |
+| Housekeeping         | Limpieza              | Departamento encargado de la limpieza y mantenimiento de las habitaciones y áreas comunes del hotel. |
+| Front Desk           | Recepción             | Área del hotel donde se realizan las funciones de check-in, check-out y atención al cliente. |
+| Occupancy Rate       | Tasa de ocupación     | Porcentaje de habitaciones ocupadas en el hotel en un período de tiempo específico. |
+| No-show              | No presentación       | Situación en la que un huésped no se presenta para su reserva sin haberla cancelado previamente. |
+| Overbooking          | Sobreventa            | Práctica de aceptar más reservas de las que hay disponibles, anticipando que algunas reservas no se presentarán. |
+| Revenue Management   | Gestión de ingresos   | Estrategia para optimizar los ingresos del hotel mediante el ajuste de precios y la gestión de la disponibilidad de habitaciones. |
+| Conference Room      | Sala de conferencias  | Espacio en el hotel destinado a reuniones y eventos corporativos. |
