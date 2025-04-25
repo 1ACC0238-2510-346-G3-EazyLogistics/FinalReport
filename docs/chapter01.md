@@ -153,7 +153,7 @@ Agencias de viajes semi-formales ubicadas en destinos turísticos clave del Per�
 
 ### 1.2.2.2 Lean Ux Assumptions 
 
-### Buisness Assumptions
+### Business Assumptions
 
 - Creo que mis clientes (hoteles) necesitan una mejora en la eficiencia y organización del proceso de reservas para reducir errores, mejorar la calidad del servicio y competir con las operaciones informales.
 
