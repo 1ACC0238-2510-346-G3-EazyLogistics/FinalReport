@@ -5,7 +5,7 @@
 
 # 2 Capítulo II: Requirements Elicitation & Analysis
 ##  2.1 Competidores
-LogicMaster se diferencia de competidores como Opera PMS, RoomRaccoon y Mews al combinar la gestión hotelera con una comunidad colaborativa para profesionales del sector. Mientras que Opera PMS es ideal para grandes cadenas pero costoso para pequeños hoteles, RoomRaccoon se centra en hoteles más pequeños con una solución integral, y Mews destaca por su automatización y diseño moderno, KingReserve ofrece una solución versátil que no solo optimiza la operación, sino que también fomenta la interacción y el intercambio de conocimientos entre usuarios, elevando la calidad del servicio y la experiencia del cliente.
+LogicMaster se diferencia de competidores como Opera PMS, RoomRaccoon y Mews al combinar la gestión hotelera con una comunidad colaborativa para profesionales del sector. Mientras que Opera PMS es ideal para grandes cadenas pero costoso para pequeños hoteles, RoomRaccoon se centra en hoteles más pequeños con una solución integral, y Mews destaca por su automatización y diseño moderno, Logic Master ofrece una solución versátil que no solo optimiza la operación, sino que también fomenta la interacción y el intercambio de conocimientos entre usuarios, elevando la calidad del servicio y la experiencia del cliente.
 ## 2.1.1 Análisis Competitivo
 <table>
    <tr>
@@ -17,7 +17,7 @@ LogicMaster se diferencia de competidores como Opera PMS, RoomRaccoon y Mews al 
    </tr>
    <tr align="center">
       <td colspan="2"></td>
-      <td><b>Logic Master</b><br><img src="https://acortar.link/rQvMxH" alt="Logic Master Logo" style="max-width: 80px;"/></td>
+      <td><b>Logic Master</b><br><img src="https://i.postimg.cc/vBcL7DLZ/fcc7a5f7-c7eb-4162-be3e-230931c2899f.jpg" alt="Logic Master Logo" style="max-width: 80px;"/></td>
       <td><b>Cloudbeds</b><br><img src="https://acortar.link/SDV6QT" alt="Cloudbeds Logo" style="max-width: 80px;"/></td>
       <td><b>RoomRaccoon</b><br><img src="https://acortar.link/6yGl65" alt="RoomRaccoon" style="max-width: 80px;"/></td>
       <td><b>Mews</b><br><img src="https://acortar.link/UGgluO" alt="Mews" style="max-width: 90px;"/></td>
