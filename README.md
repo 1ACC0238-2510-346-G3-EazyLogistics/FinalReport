@@ -74,19 +74,41 @@ value, start-with-simple y look-for-pivotal-events.
 
 ### 4.1.1.2. Domain Message Flows Modeling
 
-Una vez definidos los Bounded Contexts principales, se procedió a modelar los flujos de colaboración entre ellos
-mediante la técnica de Domain Storytelling.
+Una vez definidos los Bounded Contexts principales, se procedió a modelar los flujos de colaboración entre ellos mediante la técnica de Domain Storytelling.
 
 **Figura 3:**
 
 ![Domain Message Flows Modeling](images/domain_storytelling_1.png)
 
-Esta figura muestra el flujo de colaboración entre el huésped y el sistema de reservas al momento de realizar una
-reserva. El proceso inicia con la solicitud del huésped, seguida por la verificación de disponibilidad y la confirmación
-de la reserva por parte del sistema. Posteriormente, se genera un registro de reserva.
+Esta figura muestra el flujo de colaboración entre el huésped y el sistema de reservas al momento de realizar una reserva. El proceso inicia con la solicitud del huésped, seguida por la verificación de disponibilidad y la confirmación de la reserva por parte del sistema. Posteriormente, se genera un registro de reserva.
+
+**Figura 4:**
+
+![Domain Message Flows Modeling](images/domain_storytelling_2.png)
+
+Esta figura ilustra el flujo de Gestión de Usuarios, donde se observa la interacción entre el sistema y el usuario al ingresar a la plataforma. El proceso incluye la autenticación del usuario, la verificación de sus credenciales y la gestión de su perfil.
+
+**Figura 5:**
+
+![Domain Message Flows Modeling](images/domain_storytelling_3.png)
+
+Esta figura representa el flujo de Gestión de Pagos y Suscripciones, donde se observa la interacción entre el sistema y el usuario al momento de realizar un pago. El proceso incluye la selección del método de pago, la validación de la transacción y la confirmación del pago.
 
 ### 4.1.1.3. Bounded Context Canvases
 
+Los Bounded Contexts identificados en la sesión de Candidate Context Discovery fueron documentados utilizando el Bounded Context Canvas. Esta herramienta permite visualizar de manera clara y concisa los límites, interacciones y responsabilidades de cada contexto.
+
+**Figura 6:**
+![Bounded Context Canvases](images/bounded_context_canvas_1.png)
+Esta figura muestra el Bounded Context Canvas del contexto de "Guía de Reservas", donde se detallan los límites, interacciones y responsabilidades del sistema de reservas.
+
+**Figura 7:**
+![Bounded Context Canvases](images/bounded_context_canvas_2.png)
+Esta figura muestra el Bounded Context Canvas del contexto de "Gestión de Usuarios", donde se detallan los límites, interacciones y responsabilidades del sistema de gestión de usuarios.
+
+**Figura 8:**
+![Bounded Context Canvases](images/bounded_context_canvas_3.png)
+Esta figura muestra el Bounded Context Canvas del contexto de "Pagos y Suscripciones", donde se detallan los límites, interacciones y responsabilidades del sistema de gestión de pagos y suscripciones.
 ### 4.1.2. Context Mapping
 
 ### 4.1.3. Software Architecture
