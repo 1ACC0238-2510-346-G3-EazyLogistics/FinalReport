@@ -350,7 +350,7 @@ LogicMaster se diferencia de competidores como Opera PMS, RoomRaccoon y Mews al 
 | **Edad:** 19 años |
 | **Minuto del video:**  10:23 |
 | **Procedencia:** San Miguel, Lima |
-| ![Entrevista](../assets/Entrevista2.png)|
+| ![Entrevista](../assets/Entre.png)|
 | **Resumen:**  Estudiante de 19 años nos menciona que prefieree reservar hoteles en distintos lugares del país debido a que le gusta viajar , nos menciona que su mayor dificultad a la de reservar es que hay veces que los hoteles suelen confundirse con el tipo de habitación que el solicita y que una sugerencia puede ser realizar una mejor organización a la hora de agendar sus reservas   |
 
 ### Segmento: Empresas Hoteleras
@@ -362,7 +362,7 @@ LogicMaster se diferencia de competidores como Opera PMS, RoomRaccoon y Mews al 
 | **Edad:** 21 años |
 | **Link  del video:**  [Entrevista4](https://drive.google.com/file/d/1W5k2HvF7aKuh52XiQ8ZY9lHs8-faRJr7/view?usp=sharing)  |
 | **Procedencia:**  Lima |
-| ![EntrevistaDelia](../assets/Entrevistaa2.jpg) |
+| ![Entrevista](../assets/Entrevistaa2.png) |
 | **Resumen:** Gino Tineo es un joven Gestor Hotelero de 21 años el considera que su edad si influye para gestionar un hotel porque aún no tiene tanta experiencia y nos menciona que tiene una herramienta tecnologica para su hotel pero esta no es tan especializada y su principal desafio es que su pagina web ayude a automatizar los procesos de pedido de reserva y que gestione las redes sociales de su empresa    |
 
 #### Entrevista 5
