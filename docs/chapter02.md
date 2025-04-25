@@ -5,7 +5,7 @@
 
 # 2 Capítulo II: Requirements Elicitation & Analysis
 ##  2.1 Competidores
-LogicMaster se diferencia de competidores como Opera PMS, RoomRaccoon y Mews al combinar la gestión hotelera con una comunidad colaborativa para profesionales del sector. Mientras que Opera PMS es ideal para grandes cadenas pero costoso para pequeños hoteles, RoomRaccoon se centra en hoteles más pequeños con una solución integral, y Mews destaca por su automatización y diseño moderno, Logic Master ofrece una solución versátil que no solo optimiza la operación, sino que también fomenta la interacción y el intercambio de conocimientos entre usuarios, elevando la calidad del servicio y la experiencia del cliente.
+LogisticMaster se diferencia de competidores como Opera PMS, RoomRaccoon y Mews al combinar la gestión hotelera con una comunidad colaborativa para profesionales del sector. Mientras que Opera PMS es ideal para grandes cadenas pero costoso para pequeños hoteles, RoomRaccoon se centra en hoteles más pequeños con una solución integral, y Mews destaca por su automatización y diseño moderno, Logistic Master ofrece una solución versátil que no solo optimiza la operación, sino que también fomenta la interacción y el intercambio de conocimientos entre usuarios, elevando la calidad del servicio y la experiencia del cliente.
 ## 2.1.1 Análisis Competitivo
 <table>
    <tr>
@@ -17,7 +17,7 @@ LogicMaster se diferencia de competidores como Opera PMS, RoomRaccoon y Mews al 
    </tr>
    <tr align="center">
       <td colspan="2"></td>
-      <td><b>Logic Master</b><br><img src="https://i.postimg.cc/vBcL7DLZ/fcc7a5f7-c7eb-4162-be3e-230931c2899f.jpg" alt="Logic Master Logo" style="max-width: 80px;"/></td>
+      <td><b>Logistic Master</b><br><img src="https://i.postimg.cc/vBcL7DLZ/fcc7a5f7-c7eb-4162-be3e-230931c2899f.jpg" alt="Logistic Master Logo" style="max-width: 80px;"/></td>
       <td><b>Cloudbeds</b><br><img src="https://acortar.link/SDV6QT" alt="Cloudbeds Logo" style="max-width: 80px;"/></td>
       <td><b>RoomRaccoon</b><br><img src="https://acortar.link/6yGl65" alt="RoomRaccoon" style="max-width: 80px;"/></td>
       <td><b>Mews</b><br><img src="https://acortar.link/UGgluO" alt="Mews" style="max-width: 90px;"/></td>
@@ -26,14 +26,14 @@ LogicMaster se diferencia de competidores como Opera PMS, RoomRaccoon y Mews al 
    <tr>
       <td rowspan="2"><b>Perfil</b></td>
       <td><b>Overview</b></td>
-      <td> Logic Master es una plataforma innovadora que ofrece una solución integral para la gestión hotelera, combinando funciones operativas con un enfoque en la experiencia del cliente. Además de optimizar la administración, se enfoca en crear un entorno que fomente la interacción social y la personalización.</td>
+      <td> Logistic Master es una plataforma innovadora que ofrece una solución integral para la gestión hotelera, combinando funciones operativas con un enfoque en la experiencia del cliente. Además de optimizar la administración, se enfoca en crear un entorno que fomente la interacción social y la personalización.</td>
       <td>Cloudbeds es una plataforma moderna para la gestión hotelera que integra PMS, motor de reservas y canal de distribución, destacándose por su facilidad de uso y su enfoque en la automatización y centralización de operaciones para hoteles de distintos tamaños.</td>
       <td>RoomRaccoon es una solución todo-en-uno diseñada para pequeños y medianos hoteles, que combina gestión de reservas, un motor de reservas en línea y herramientas de facturación.</td>
       <td>Mews ofrece una plataforma moderna y flexible que automatiza gran parte de las operaciones hoteleras, enfocándose en mejorar la eficiencia y la experiencia del huésped.</td>
    </tr>
    <tr>
       <td><b>Ventaja competitiva. ¿Qué valor ofrece a los clientes?</b></td>
-      <td>LogicMaster se diferencia al integrar la gestión hotelera con funciones sociales para crear una comunidad interactiva entre los hoteles y sus huéspedes, mejorando la experiencia del cliente a través de la personalización y comunicación directa.</td>
+      <td>LogisticMaster se diferencia al integrar la gestión hotelera con funciones sociales para crear una comunidad interactiva entre los hoteles y sus huéspedes, mejorando la experiencia del cliente a través de la personalización y comunicación directa.</td>
       <td>Cloudbeds combina gestión, distribución y automatización en una única plataforma, facilitando la administración hotelera desde una interfaz intuitiva y accesible.</td>
       <td>RoomRaccoon ofrece una interfaz intuitiva para pequeños hoteles, con un enfoque en la facilidad de uso y precios accesibles.</td>
       <td>Mews se centra en la automatización y la experiencia del usuario, con un diseño moderno y adaptable, aunque su integración personalizada puede ser limitada.</td>
@@ -41,14 +41,14 @@ LogicMaster se diferencia de competidores como Opera PMS, RoomRaccoon y Mews al 
    <tr>
       <td rowspan="2"><b>Perfil de Marketing</b></td>
       <td><b>Mercado Objetivo</b></td>
-      <td>El mercado objetivo de Logic Master incluye hoteles de tamaño mediano y grande que buscan optimizar sus operaciones y mejorar la experiencia del huésped mediante la tecnología. También apunta a cadenas hoteleras que desean mejorar la personalización y el servicio al cliente.</td>
+      <td>El mercado objetivo de Logistic Master incluye hoteles de tamaño mediano y grande que buscan optimizar sus operaciones y mejorar la experiencia del huésped mediante la tecnología. También apunta a cadenas hoteleras que desean mejorar la personalización y el servicio al cliente.</td>
       <td>Hoteles y alojamientos de diversos tamaños que buscan una solución todo-en-uno para centralizar y automatizar su gestión operativa y de reservas.</td>
       <td>Pequeños y medianos hoteles que buscan una solución todo-en-uno con funcionalidades simples y una curva de aprendizaje baja.</td>
       <td>Hoteles que valoran la automatización y buscan mejorar la experiencia del huésped a través de una plataforma moderna y flexible.</td>
    </tr>
    <tr>
       <td><b>Estrategias de Marketing</b></td>
-      <td>Logic Master se centrará en campañas digitales dirigidas a hoteles medianos y grandes, promoviendo su capacidad para mejorar la personalización y la experiencia del huésped. Además, se buscarán alianzas estratégicas con grupos hoteleros y eventos del sector.</td>
+      <td>Logistic Master se centrará en campañas digitales dirigidas a hoteles medianos y grandes, promoviendo su capacidad para mejorar la personalización y la experiencia del huésped. Además, se buscarán alianzas estratégicas con grupos hoteleros y eventos del sector.</td>
       <td>Cloudbeds promueve su solución como una plataforma integral que simplifica la gestión hotelera mediante la automatización, dirigida a alojamientos que buscan centralizar y optimizar sus operaciones.</td>
       <td>RoomRaccoon se promociona principalmente a través de campañas en línea, con un enfoque en la facilidad de uso y los precios accesibles para pequeños hoteles.</td>
       <td>Mews invierte en marketing digital y en la creación de una marca que se asocia con la modernidad y la innovación en la gestión hotelera.</td>
@@ -111,13 +111,13 @@ LogicMaster se diferencia de competidores como Opera PMS, RoomRaccoon y Mews al 
 
 **Diferenciación mediante la Experiencia del Cliente y Comunidad Colaborativa:**
 
-**Estrategia:** Resaltar el enfoque único de Logic Master en la creación de una comunidad interactiva y colaborativa, donde los usuarios no solo gestionan operaciones, sino que también comparten conocimientos, experiencias y mejores prácticas dentro de la industria hotelera.<br>
+**Estrategia:** Resaltar el enfoque único de Logistic Master en la creación de una comunidad interactiva y colaborativa, donde los usuarios no solo gestionan operaciones, sino que también comparten conocimientos, experiencias y mejores prácticas dentro de la industria hotelera.<br>
 
 **Táctica:** Desarrollar y promover funciones sociales exclusivas dentro de la plataforma, como foros, grupos de discusión y programas de fidelización basados en la interacción comunitaria. Implementar herramientas de análisis que permitan a los usuarios personalizar las interacciones y mejorar la experiencia del huésped basándose en datos compartidos por otros miembros de la comunidad.<br>
 
 **Enfoque en la Personalización y la Comunicación Directa:**
 
-**Estrategia:** Destacar la capacidad de Logic Master para ofrecer experiencias personalizadas y comunicación directa con los huéspedes, diferenciándose de competidores que se enfocan más en la automatización que en la personalización.<br>
+**Estrategia:** Destacar la capacidad de Logistic Master para ofrecer experiencias personalizadas y comunicación directa con los huéspedes, diferenciándose de competidores que se enfocan más en la automatización que en la personalización.<br>
 
 **Táctica:** Incluir opciones avanzadas de personalización que permitan a los hoteles adaptar sus servicios a las preferencias de cada huésped. Integrar un sistema de mensajería instantánea que facilite la comunicación directa entre hotel y cliente antes, durante y después de la estancia.<br>
 
@@ -378,7 +378,7 @@ LogicMaster se diferencia de competidores como Opera PMS, RoomRaccoon y Mews al 
 
 
 ### 2.2.3 Análisis de entrevistas
-Después de llevar a cabo y describir los registros de los entrevistados, esta sección desarrollará una estrategia conjunta que permitirá al equipo identificar ciertos aspectos y puntos en común. Este análisis ayudará a obtener una visión más analítica y concreta sobre el desarrollo de la aplicación Logic Master.
+Después de llevar a cabo y describir los registros de los entrevistados, esta sección desarrollará una estrategia conjunta que permitirá al equipo identificar ciertos aspectos y puntos en común. Este análisis ayudará a obtener una visión más analítica y concreta sobre el desarrollo de la aplicación Logistic Master.
 
 ### Segmento 1: Huéspedes
 
