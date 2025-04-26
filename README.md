@@ -184,7 +184,7 @@ Clase | Tipo | Propósito
 MySQLReservaRepository | Repository Implementation | Implementa IReservaRepository para persistencia en base de datos relacional.
 EmailNotificacionService | External Service | Servicio de envío de notificaciones por email (ej. al confirmar reserva).
 CalendarioAPI | External API | Servicio externo para validar disponibilidad de fechas.
-- #### 4.2.1.5.Bounded Context Software Architecture - Component Level Diagrams
+- #### 4.2.1.5.Bounded Context Software Architecture Component Level Diagrams
 
 **Figura 10:**
 
@@ -196,7 +196,12 @@ Este diagrama muestra la arquitectura de componentes del Bounded Context "Guía 
 
 **Figura 11:**
 
-- #### 4.2.1.6.1.Bounded Context Domain Layer Class Diagrams!
+![Bounded Context Software Architecture Code Level Diagrams](./images/Code-Level-Diagrams1.png)
+
+Este diagrama muestra la estructura a nivel de clases para el Bounded Context "Guía de Reservas", siguiendo el modelo de capas de software. Se representan las principales entidades, servicios de dominio, controladores de interfaz, handlers de aplicación y componentes de infraestructura.
+
+- #### 4.2.1.6.1.Bounded Context Domain Layer Class Diagrams
+
 
 ### 4.2.2. Bounded Context: Gestión de Usuarios
 
@@ -241,6 +246,12 @@ EmailService | External Service | Notificación de bienvenida, recuperación de 
 Este diagrama muestra la arquitectura de componentes del Bounded Context "Gestión de Usuarios". En él se pueden observar los distintos componentes que interactúan entre sí, así como sus responsabilidades y relaciones.
 
 - #### 4.2.2.6.Bounded Context Software Architecture Code Level Diagrams
+
+**Figura 13:** 
+
+![Bounded Context Software Architecture Code Level Diagrams](./images/Code-Level-Diagrams2.png)
+
+El siguiente diagrama muestra la estructura a nivel de clases para el Bounded Context Gestión de Usuarios, siguiendo el modelo de capas de software. Se representan las principales entidades, servicios de dominio, controladores de interfaz, handlers de aplicación y componentes de infraestructura.
 
 - #### 4.2.2.6.1.Bounded Context Domain Layer Class Diagrams
 
@@ -287,7 +298,7 @@ StripePaymentGateway | External Service | Conecta con Stripe (o similar) para pr
 BillingEmailService | External Service | Notificaciones sobre cobros, renovación o cancelación de planes.
 - #### 4.2.3.5.Bounded Context Software Architecture Component Level Diagrams
 
-**Figura 13:**
+**Figura 14:**
 
 ![Bounded Context Software Architecture Component Level Diagrams](./images/Component-Level-Diagrams3.png)
 
@@ -295,6 +306,11 @@ Este diagrama muestra la arquitectura de componentes del Bounded Context "Pagos 
 
 - #### 4.2.3.6.Bounded Context Software Architecture Code Level Diagrams
 
+**Figura 15:**
+
+![Bounded Context Software Architecture Code Level Diagrams](./images/Code-Level-Diagrams3.png)
+
+El siguiente diagrama muestra la estructura a nivel de clases para el Bounded Context "Pagos y Suscripciones", siguiendo el modelo de capas de software. Se representan las principales entidades, servicios de dominio, controladores de interfaz, handlers de aplicación y componentes de infraestructura.
 
 ### 4.2.4. Bounded Context: Notificaciones y órdenes
 Clase | Propósito | Atributos | Métodos
@@ -338,15 +354,22 @@ MySQLNotificationRepository | Repository Implementation | Persistencia de notifi
 MySQLOrderRepository | Repository Implementation | Manejo de órdenes persistidas por clientes.
 EmailNotificationAdapter | External Service | Encapsula lógica de envío real vía SMTP, SendGrid, etc.
 RealtimeNotificationAdapter | External Service | WebSocket o Pusher para actualizaciones en tiempo real.
-- #### 4.2.4.5.Bounded Context Software Architecture - Component Level Diagrams
 
-**Figura 14:**
+- #### 4.2.4.5.Bounded Context Software Architecture Component Level Diagrams
+
+**Figura 16:**
 
 ![Bounded Context Software Architecture - Component Level Diagrams](./images/Component-Level-Diagrams4.png)
 
 Este diagrama muestra la arquitectura de componentes del Bounded Context "Notificaciones y Órdenes". En él se pueden observar los distintos componentes que interactúan entre sí, así como sus responsabilidades y relaciones.
 
 - #### 4.2.4.6.Bounded Context Software Architecture Code Level Diagrams
+
+**Figura 17:**
+
+![Bounded Context Software Architecture - Code Level Diagrams](./images/Code-Level-Diagrams4.png)
+
+El siguiente diagrama muestra la estructura a nivel de clases para el Bounded Context "Notificaciones y Órdenes", siguiendo el modelo de capas de software. Se representan las principales entidades, servicios de dominio, controladores de interfaz, handlers de aplicación y componentes de infraestructura.
 
 - #### 4.2.4.6.1.Bounded Context Domain Layer Class Diagrams
 
