@@ -210,7 +210,7 @@ LogisticMaster se diferencia de competidores como Opera PMS, RoomRaccoon y Mews 
                 <td class="border border-gray-300 p-2">Expectativas tecnológicas</td>  
                 <td class="border border-gray-300 p-2">  
                     - ¿Qué características tecnológicas consideras esenciales en un sistema de gestión hotelera? <br>  
-                    - ¿Qué te gustaría que una plataforma como KingReserve mejorara o incluyera para facilitar la gestión de tu hotel?  
+                    - ¿Qué te gustaría que una plataforma como LogisticsMasters mejorara o incluyera para facilitar la gestión de tu hotel?  
                 </td>  
             </tr>  
         </tbody>  
