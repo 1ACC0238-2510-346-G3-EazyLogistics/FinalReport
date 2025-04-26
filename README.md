@@ -202,6 +202,9 @@ Este diagrama muestra la estructura a nivel de clases para el Bounded Context "G
 
 - #### 4.2.1.6.1.Bounded Context Domain Layer Class Diagrams
 
+**Figura 12:**
+
+![Bounded Context Domain Layer Class Diagrams](./images/Domain-Layer-Class-Diagrams1.png)
 
 ### 4.2.2. Bounded Context: Gestión de Usuarios
 
@@ -254,6 +257,10 @@ Este diagrama muestra la arquitectura de componentes del Bounded Context "Gesti�
 El siguiente diagrama muestra la estructura a nivel de clases para el Bounded Context Gestión de Usuarios, siguiendo el modelo de capas de software. Se representan las principales entidades, servicios de dominio, controladores de interfaz, handlers de aplicación y componentes de infraestructura.
 
 - #### 4.2.2.6.1.Bounded Context Domain Layer Class Diagrams
+
+**Figura 14:**
+
+![Bounded Context Domain Layer Class Diagrams](./images/Domain-Layer-Class-Diagrams2.png)
 
 ### 4.2.3. Bounded Context: Pagos y suscripciones
 Clase | Propósito | Atributos | Métodos
@@ -312,6 +319,12 @@ Este diagrama muestra la arquitectura de componentes del Bounded Context "Pagos 
 
 El siguiente diagrama muestra la estructura a nivel de clases para el Bounded Context "Pagos y Suscripciones", siguiendo el modelo de capas de software. Se representan las principales entidades, servicios de dominio, controladores de interfaz, handlers de aplicación y componentes de infraestructura.
 
+- #### 4.2.3.6.1.Bounded Context Domain Layer Class Diagrams
+
+**Figura 16:**
+
+![Bounded Context Domain Layer Class Diagrams](./images/Domain-Layer-Class-Diagrams3.png)
+
 ### 4.2.4. Bounded Context: Notificaciones y órdenes
 Clase | Propósito | Atributos | Métodos
 -|-|-|-
@@ -347,7 +360,7 @@ Clase | Tipo | Propósito
 -|-|-
 SendNotificationHandler | Command Handler | Lógica para crear y enviar una notificación.
 AssignOrderHandler | Command Handler | Asigna un pedido a un trabajador para ejecución.
-- #### 4.2.X.4.Infrastructure Layer
+- #### 4.2.4.4.Infrastructure Layer
 Clase | Tipo | Propósito
 -|-|-
 MySQLNotificationRepository | Repository Implementation | Persistencia de notificaciones en base de datos relacional.
@@ -372,6 +385,10 @@ Este diagrama muestra la arquitectura de componentes del Bounded Context "Notifi
 El siguiente diagrama muestra la estructura a nivel de clases para el Bounded Context "Notificaciones y Órdenes", siguiendo el modelo de capas de software. Se representan las principales entidades, servicios de dominio, controladores de interfaz, handlers de aplicación y componentes de infraestructura.
 
 - #### 4.2.4.6.1.Bounded Context Domain Layer Class Diagrams
+
+**Figura 18:**
+
+![Bounded Context Domain Layer Class Diagrams](./images/Domain-Layer-Class-Diagrams4.png)
 
 ### 2.6.x.6.2.Bounded Context Database Design Diagram 
 
