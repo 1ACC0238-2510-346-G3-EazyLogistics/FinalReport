@@ -391,4 +391,5 @@ El siguiente diagrama muestra la estructura a nivel de clases para el Bounded Co
 ![Bounded Context Domain Layer Class Diagrams](./images/Domain-Layer-Class-Diagrams4.png)
 
 ### 2.6.x.6.2.Bounded Context Database Design Diagram 
+![LM_DB_diagram](../FinalReport/images/LogistcsMasters_DB_diagram.png)
 
