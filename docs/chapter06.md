@@ -260,7 +260,7 @@ En este Sprint 1, el equipo ha desplegado la Landing Page utilizando github page
 2. **Configuración de GitHub Pages**: Se habilitó la opción de GitHub Pages en la configuración del repositorio. Esto permite que el contenido del repositorio se publique como una página web estática.
 <br> ![GitHub Pages Configuration](../images/github_pages_configuration.png)
 
-3. **Despliegue de la Landing Page**: Se subió el código HTML y CSS de la Landing Page al repositorio. GitHub Pages generó automáticamente una URL para acceder a la página.
+3. **Despliegue de la Landing Page**: Se subió el código HTML, CSS y JavaScript de la Landing Page al repositorio. GitHub Pages generó automáticamente una URL para acceder a la página.
 <br> ![Landing Page Deployment](../images/landing_page_deployment.png)
 
 4. **Acceso a la Landing Page**: La Landing Page se puede acceder a través de la URL proporcionada por GitHub Pages. Esta URL es pública y permite que cualquier persona acceda a la página.
