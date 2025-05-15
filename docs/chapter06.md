@@ -151,8 +151,44 @@ Estas prácticas ayudan a mantener un estilo uniforme en el código fuente y pre
 
 La aplicación sistemática de estas convenciones fortaleció la calidad del código entregado, promoviendo la claridad, la eficiencia y la colaboración efectiva entre los integrantes del equipo.
 
+### 6.1.4 Software Deployment Configuration
 
-### 6.1.4 Software Deployment Configuration  
+Para el despliegue de la Landing Page del proyecto, se utilizó **GitHub Pages**, una plataforma gratuita que permite publicar sitios web estáticos directamente desde un repositorio de GitHub. Esta herramienta facilitó la publicación rápida y eficiente del contenido web desarrollado en HTML, CSS y JavaScript, sin necesidad de utilizar servidores adicionales ni configuraciones complejas.
+
+El proceso de despliegue se realizó vinculando el repositorio del proyecto con GitHub Pages, configurando la rama correspondiente y asegurando que el contenido de la carpeta raíz (o `/docs`, según el caso) contuviera todos los archivos necesarios para el funcionamiento del sitio.
+
+**Enlace de la Landing Page:**  
+🔗 [https://1acc0238-2510-346-g3-eazylogistics.github.io/LandingPage/](https://1acc0238-2510-346-g3-eazylogistics.github.io/LandingPage/)
+
+Este enlace corresponde a la versión publicada de la Landing Page, accesible desde cualquier dispositivo con conexión a internet, permitiendo validar su funcionamiento y presentación visual.
+
+#### Configuración del Despliegue
+
+<div style="text-align: center;">
+  <img src="../images/landing_page_repository.png" alt="Inicio de Repositorio" style="width:70%;"/>
+</div>
+
+<div style="text-align: center;">
+  <img src="../images/github_pages_configuration.png" alt="Configuracion de Deploy" style="width:70%;"/>
+</div>
+
+<div style="text-align: center;">
+  <img src="../images/Deploy Github.png" alt="Github Pages Configuration" style="width:70%;"/>
+</div>
+
+- Selección de rama (`main`).
+- Ubicación del contenido (`root`).
+- Confirmación del estado en la pestaña **Pages** del repositorio.
+- Mensajes de confirmación de despliegue exitoso.
+
+#### Resultado del Despliegue
+
+<div style="text-align: center;">
+  <img src="../images/Landing Face.png" alt="Evidencia del Deploy" style="width:70%;"/>
+</div>
+
+Este despliegue permitió contar con una presentación web funcional del producto desde las primeras etapas del desarrollo, facilitando su validación por parte de usuarios, stakeholders y evaluadores.
+
 
 ## 6.2 Landing Page & Mobile Application Implementation
 En esta sección se detalla el proceso completo de implementación, pruebas, documentación y despliegue de la Landing Page, los Web Services y las Aplicaciones Móviles. Abarca desde la planificación inicial hasta la entrega final, asegurando que cada componente cumpla con los requisitos establecidos y funcione correctamente.
