@@ -100,7 +100,6 @@ Para nuestra estrategia de gestión de versiones con Git, nos basamos en el mode
   - Deriva de: `develop`  
   - Puede actuar como contenedor de varias `feature`  
   - Se fusiona con: `develop` o `release`, según el caso
-
   
 <div style="text-align: center;">
   <img src="../images/gitflow.png" alt="Ejemplo ramas Gitflow" style="width:70%;"/>
@@ -120,7 +119,39 @@ Para mantener claridad y consistencia en los mensajes de confirmación (`commits
 - `chore`: Tareas de mantenimiento y configuraciones del entorno.
 - `perf`: Mejoras orientadas al rendimiento del sistema.    
 
-### 6.1.3 Source Code Style Guide & Conventions  
+### 6.1.3 Source Code Style Guide & Conventions
+
+Para garantizar un código legible, consistente y de fácil mantenimiento, se adoptaron las convenciones propuestas por Google en sus guías oficiales de estilo para HTML/CSS y JavaScript. La aplicación de estos lineamientos facilita el trabajo colaborativo y reduce la posibilidad de errores en etapas posteriores del desarrollo.
+
+#### Convenciones para HTML/CSS (Google HTML/CSS Style Guide)
+
+Durante la implementación de la Landing Page, se aplicaron las siguientes buenas prácticas recomendadas:
+
+- Declarar siempre el tipo de documento (`<!DOCTYPE html>`) al inicio.
+- Usar minúsculas para los nombres de los elementos HTML (`<p>`, `<h1>`, `<section>`, etc.).
+- Cerrar correctamente todos los elementos HTML (por ejemplo, `<p></p>`).
+- Colocar entre comillas los valores de los atributos (por ejemplo, `<div class="container">`).
+- Incluir los atributos `alt`, `width` y `height` en las imágenes para accesibilidad y rendimiento.
+- Evitar líneas de código excesivamente largas para facilitar la lectura.
+- No omitir el elemento `<title>` dentro del `<head>`.
+- Incluir `meta tags` relevantes al inicio del documento, como codificación, viewport y descripciones.
+
+Estas convenciones aseguran una estructura semántica clara y una mejor interpretación por parte de navegadores y motores de búsqueda, además de contribuir a una experiencia de usuario coherente.
+
+#### Convenciones para JavaScript (Google JavaScript Style Guide)
+
+Para el desarrollo de funcionalidades interactivas con JavaScript, se aplicaron las siguientes convenciones:
+
+- Usar notación **camelCase** para nombrar variables y funciones (por ejemplo: `numberArray`, `calculateSum()`).
+- Emplear **comillas simples** para definir cadenas de texto (`'Este es un string'`).
+- Finalizar todas las sentencias con punto y coma (`;`) para evitar errores de interpretación.
+- Evitar el uso de `var` para declarar variables, priorizando `let` o `const` según la necesidad de reasignación.
+
+Estas prácticas ayudan a mantener un estilo uniforme en el código fuente y previenen errores comunes relacionados con el scope, la redeclaración de variables o la gestión de valores dinámicos.
+
+La aplicación sistemática de estas convenciones fortaleció la calidad del código entregado, promoviendo la claridad, la eficiencia y la colaboración efectiva entre los integrantes del equipo.
+
+
 ### 6.1.4 Software Deployment Configuration  
 
 ## 6.2 Landing Page & Mobile Application Implementation
