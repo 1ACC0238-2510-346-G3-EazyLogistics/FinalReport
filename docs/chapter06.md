@@ -118,8 +118,8 @@ Para mantener claridad y consistencia en los mensajes de confirmación (`commits
 - `refactor`: Reestructuración del código sin alterar su comportamiento.
 - `test`: Adición o modificación de pruebas automatizadas.
 - `chore`: Tareas de mantenimiento y configuraciones del entorno.
-- `perf`: Mejoras orientadas al rendimiento del sistema.
- 
+- `perf`: Mejoras orientadas al rendimiento del sistema.    
+
 ### 6.1.3 Source Code Style Guide & Conventions  
 ### 6.1.4 Software Deployment Configuration  
 
