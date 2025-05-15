@@ -8,19 +8,22 @@ En esta seccion definiremos los estilos de diseño front-end que serán la base 
 
 **Branding:** El branding del logo de nuestra plataforma “LogisticsMaster” es una combinación de elementos que transmiten una imagen sólida y confiable. Nos enfocamos en la confianza de nuestro clientes al momento de tomar un servicio prestado. El nombre “LogisticsMaster” se presenta en una tipografía elegante y profesional, mientras que la paleta de colores crea un contraste visual claro y transmite una sensación de miminalismo y profesionalismo. En resumen, este logo tiene un enfoque clásico y profesional, y podría ser un elemento distintivo en nuestro sitio web.
 
-<img src="../../assets/img/chapter-IV/Logo LogisticsMaster.png" style="width:300px; height:auto;" alt="logo LogisticsMaster">
+<img src="../../FinalReport/assets/Logo1-LogisticsMaster.png">
+<img src="../../FinalReport/assets/Logo2-LogisticsMaster.png">
+
+
 
 **Typography:** Al seleccionar la tipografía para nuestro proyecto, hemos optado por utilizar Roboto siguiendo las pautas de estilo general. Ya que ofrece una combinación única de legibilidad, versatilidad y modernidad que se alinea perfectamente con la identidad visual y los objetivos de LogisticsMaster. Su diseño limpio y contemporáneo proporciona una excelente lectura en una amplia gama de dispositivos, lo que garantiza una experiencia de usuario óptima para nuestros clientes, que incluyen tanto agencias de embarcaciones navieras como exportadores e importadores de alta rotacion.
 
-<img src="../../assets/img/chapter-IV/Tipografia.png" style="width:700px; height:auto;" alt="tipography">
+<img src="../../FinalReport/assets/Tipography-LogisticsMaster.png">
 
 **Colors:** Hemos escogido una paleta basada en colores suaves y elegantes, algo fríos para dar sensación de ser una aplicacion "premium" . De tal modo, estos generan un ambiente profesional y acogedor para el usuario final. Los tonos más claros pueden ser utilizados para fondos o elementos de diseño amplios, mientras que los colores más oscuros serán para textos o detalles más específicos asegurando legibilidad y contraste entre ellos.
 
-<img src="../../assets/img/chapter-IV/Styles colors.png" style="width:700px; height:auto;" alt="colors">
+<img src="../../FinalReport/assets/Colors-LogisticsMaster.png">
 
 #### 5.1.1.1 General Style Guidelines
 
-Para el Web Style Guidelines del sitio web "LogisticsMaster" se utilizó con mayor presencia los colores pasteles en base a una paleta de colores que genere confianza y un ambiente acogedor para el usuario. El logo genera presencia por la combinación de elementos que transmiten una imagen sólida y confiable. A su vez, se ideó un estilo minimalista en el desarrollo del Landing Page para que el usuario tenga la facilidad de navegar y pueda observar las secciones con mayor orden. El tipo de Roboto combina con los colores anteriormente seleccionados, ya que brinda mayor flexibilidad y versatilidad. Para el desarrollo de los mockups y wireframes se utilizó en base a desarrollo web para pantallas de escritorio.
+Para los generals style guidelines del "LogisticsMaster" se utilizó con mayor presencia los colores pasteles en base a una paleta de colores que genere confianza y un ambiente acogedor para el usuario. El logo genera presencia por la combinación de elementos que transmiten una imagen sólida y confiable. A su vez, se ideó un estilo minimalista en el desarrollo del Landing Page para que el usuario tenga la facilidad de navegar y pueda observar las secciones con mayor orden. El tipo de Roboto combina con los colores anteriormente seleccionados, ya que brinda mayor flexibilidad y versatilidad. Para el desarrollo de los mockups y wireframes se utilizó en base a desarrollo web para pantallas de escritorio.
 
 ### 5.1.2 Information Architecture
 
@@ -52,12 +55,12 @@ Para la búsqueda eficiente de nuestra plataforma en los buscadores web se emple
 
 #### 5.1.2.4 Searching Systems
 
-En esta parte, se indicarán los sistemas de búsqueda que se implementaran en la Landing Page, Web Applications y Mobile.
+En esta parte, se indicarán los sistemas de búsqueda que se implementaran en la Landing Page y Mobile Application.
 
 Landing Page:
 - Para la búsqueda en esta sección, se utilizan las etiquetas y los sistemas de navegación que permiten la búsqueda de la información que requieren los posibles usuarios para la explicación de la misma. Esto mostrando un texto que redirige a la sección seleccionada facilitando la búsqueda.
 
-Web Applications:
+Mobile Applications:
 - Para la búsqueda en esta sección, se utilizan:
     - Las etiquetas y los sistemas de navegacion para la busqueda de la sección con la información que necesitan o la característica que necesitan utilizar accediendo a ellos mediante los textos.
     - La búsqueda de rutas utiliza el algoritmo de búsqueda A* para encontrar las rutas más cortas de recorrer en el medio marítimo. Esto se reflejará al momento de utilizar la búsqueda de rutas y mostrar los posibles caminos a recorrer.
@@ -75,7 +78,7 @@ Landing Page:
 - Contact: En esta sección, se lleva al usuario a las maneras en que puede contactarnos.
 - Log In: Este botón cumple la función de ser un Call to Action que redirige a la aplicación web.
 
-## 5.1.3 Landing Page UI Design
+## 5.1.3 Landing Page UI Design 
 ### 5.1.3.1 Landing Page Wireframe
 
 <img src="../../assets/img/chapter-IV/wireframe-landing.jpg" style="width:700px; height:auto;" alt="wireframe landing page">
