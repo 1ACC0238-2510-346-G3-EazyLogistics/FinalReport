@@ -2,8 +2,124 @@
 
 ## 6.1 Software Configuration Management
 
-### 6.1.1 Software Development Environment Configuration  
-### 6.1.2 Source Code Management  
+Esta sección aborda de manera detallada la gestión de configuración del software, un componente clave en el desarrollo y mantenimiento de cualquier sistema tecnológico. Su propósito principal es asegurar la integridad y trazabilidad de todos los artefactos producidos a lo largo del ciclo de vida del software, permitiendo que el equipo de desarrollo pueda trabajar de manera coordinada y estructurada. A través de políticas claras de versionado, control de cambios, definición de entornos y procedimientos estandarizados, se garantiza que cada integrante tenga acceso a configuraciones consistentes y actualizadas. Además, se establecen mecanismos para documentar y validar las modificaciones realizadas, lo que reduce significativamente la posibilidad de errores o incompatibilidades en las etapas de integración y despliegue.
+
+La correcta implementación de una estrategia de gestión de configuración no solo mejora la calidad del producto final, sino que también optimiza la colaboración entre equipos multidisciplinarios, agiliza la detección de problemas y fortalece la estabilidad del sistema en entornos de producción.
+
+### 6.1.1 Software Development Environment Configuration
+
+En esta sub-sección se describe la configuración técnica del entorno de desarrollo utilizado durante el proyecto. Se especifican las herramientas de software instaladas, sus versiones, rutas de acceso y cualquier dependencia necesaria para asegurar un entorno de trabajo homogéneo para todos los miembros del equipo. Esta documentación resulta esencial para prevenir discrepancias durante la ejecución de tareas, evitar conflictos entre versiones y facilitar la incorporación de nuevos integrantes al proyecto.
+
+Asimismo, se detallan las configuraciones iniciales requeridas para compilar, ejecutar y probar el sistema, incluyendo ajustes en IDEs, variables de entorno, gestores de paquetes, y posibles contenedores o entornos virtualizados (como Docker). Este enfoque garantiza que el entorno de desarrollo se mantenga alineado con el entorno de producción, contribuyendo a una transición fluida entre etapas de desarrollo, pruebas y despliegue.
+
+
+
+- **Visual Studio Code**: Editor de código utilizado para desarrollar la Landing Page. Su entorno ligero, personalizable y con soporte para múltiples lenguajes facilitó la colaboración entre desarrolladores y la implementación ágil de componentes web.
+
+<div style="text-align: center;">
+  <img src="../images/visualstudio.png" alt="Visual Studio Code" style="width:10%;"/>
+</div>
+
+- **HTML5**: Lenguaje de marcado base para estructurar el contenido de la Landing Page. Permitió organizar la información de forma semántica y accesible, mejorando la navegación y la experiencia del usuario.
+
+<div style="text-align: center;">
+  <img src="../images/html5.png" alt="HTML 5" style="width:10%;"/>
+</div>
+
+- **CSS3**: Utilizado para aplicar estilos visuales a la Landing Page. Ayudó a mantener una identidad gráfica coherente, responsiva y atractiva, lo cual es clave para captar la atención del usuario final.
+
+<div style="text-align: center;">
+  <img src="../images/css3.png" alt="CSS 3" style="width:10%;"/>
+</div>
+
+- **JavaScript**: Lenguaje que permitió incorporar lógica e interactividad a la Landing Page, como animaciones, validaciones y mejoras en la experiencia dinámica del usuario.
+
+<div style="text-align: center;">
+  <img src="../images/js.png" alt="JavaScript" style="width:10%;"/>
+</div>
+
+- **GitHub**: Plataforma de control de versiones que centralizó el código del proyecto. Facilitó el trabajo colaborativo del equipo, permitió el seguimiento de cambios y mejoró la trazabilidad del desarrollo.
+
+<div style="text-align: center;">
+  <img src="../images/github.png" alt="Github" style="width:10%;"/>
+</div>
+
+- **LucidChart**: Herramienta usada para crear diagramas de flujo, wireflows y modelos conceptuales. Contribuyó a la claridad en el diseño funcional y ayudó a definir la lógica de interacción entre pantallas y procesos.
+
+<div style="text-align: center;">
+  <img src="../images/lucidchart.png" alt="LucidChart" style="width:10%;"/>
+</div>
+
+- **Figma**: Plataforma de diseño colaborativo utilizada para la creación de wireframes y prototipos visuales de alta fidelidad. Permitió validar la interfaz gráfica con antelación y alinear al equipo de desarrollo con la visión de diseño.
+
+<div style="text-align: center;">
+  <img src="../images/figma.png" alt="Figma" style="width:10%;"/>
+</div>
+
+- **Android Studio**: Entorno de desarrollo para la aplicación móvil. Proporcionó las herramientas necesarias para programar, depurar, probar y empaquetar la app en dispositivos Android.
+
+<div style="text-align: center;">
+  <img src="../images/androidstudio.png" alt="CSS 3" style="width:10%;"/>
+</div>
+
+- **Kotlin**: Lenguaje de programación moderno utilizado para desarrollar la aplicación móvil. Su sintaxis clara y concisa mejoró la eficiencia del código y la productividad del equipo, alineándose con las mejores prácticas de desarrollo en Android.
+
+<div style="text-align: center;">
+  <img src="../images/kotilin.png" alt="Kotlin" style="width:10%;"/>
+</div>
+
+- **Trello**: Plataforma de gestión de tareas basada en tableros y tarjetas, utilizada para organizar y hacer seguimiento del progreso del equipo durante el desarrollo del proyecto. Facilitó la planificación de sprints, la asignación de responsabilidades y la visualización del avance en tiempo real, promoviendo una colaboración efectiva y una mejor administración del tiempo.
+
+<div style="text-align: center;">
+  <img src="../images/trello.png" alt="Trello" style="width:10%;"/>
+</div>
+
+
+Cada una de estas herramientas fue seleccionada estratégicamente para cumplir con los objetivos del proyecto, asegurando una solución tecnológica robusta, escalable y centrada en la experiencia del usuario.
+
+### 6.1.2 Source Code Management
+
+**Repositorio de la Landing Page:**  
+Durante el desarrollo de la Landing Page, utilizamos un repositorio centralizado en GitHub para almacenar y gestionar el código fuente del proyecto. Esto permitió el trabajo colaborativo, el control de versiones y la trazabilidad de cambios en el desarrollo.
+
+**Implementación de GitFlow:**  
+Para nuestra estrategia de gestión de versiones con Git, nos basamos en el modelo de ramificación propuesto en el artículo _“A successful Git branching model”_ de Vincent Driessen. Adoptamos el enfoque **GitFlow**, el cual proporciona una estructura clara y organizada para el desarrollo colaborativo, facilitando la integración y el mantenimiento del código.
+
+- **Rama Principal (`main`)**: Contiene la versión estable en producción.  
+- **Rama de Desarrollo (`develop`)**: Integra los últimos avances y funcionalidades en desarrollo. Actúa como entorno de integración continua.  
+- **Rama de Lanzamiento (`release`)**: Utilizada para preparar una nueva versión del producto, permitiendo ajustes finales antes de su despliegue.  
+  - Deriva de: `develop`  
+  - Se fusiona con: `develop` y `main`  
+- **Rama de Características (`feature`)**: Destinada al desarrollo de nuevas funcionalidades específicas del producto.  
+  - Deriva de: `develop`  
+  - Se fusiona con: `develop`  
+- **Rama de Corrección Rápida (`hotfix`)**: Diseñada para aplicar soluciones urgentes a errores críticos detectados en producción.  
+  - Deriva de: `main`  
+  - Se fusiona con: `develop` y `main`  
+- **Rama de Alcance (`scope`)**: Rama personalizada creada para gestionar desarrollos relacionados con un módulo o funcionalidad específica de gran tamaño o impacto. Su objetivo es permitir el aislamiento de tareas que abarquen múltiples ramas `feature`, mejorando la organización y facilitando su integración progresiva.  
+  - Deriva de: `develop`  
+  - Puede actuar como contenedor de varias `feature`  
+  - Se fusiona con: `develop` o `release`, según el caso
+
+  
+<div style="text-align: center;">
+  <img src="../images/gitflow.png" alt="Ejemplo ramas Gitflow" style="width:70%;"/>
+</div>
+
+**Conventional Commits:**  
+Para mantener claridad y consistencia en los mensajes de confirmación (`commits`), adoptamos la convención **Conventional Commits**, la cual estandariza la estructura semántica de cada mensaje, permitiendo una mejor comprensión del historial de cambios y una posible automatización en la generación de changelogs.
+
+**Tipos de mensajes utilizados:**
+
+- `feat`: Incorporación de nuevas funcionalidades.
+- `fix`: Corrección de errores o bugs.
+- `docs`: Cambios relacionados con la documentación.
+- `style`: Ajustes de formato sin impacto funcional.
+- `refactor`: Reestructuración del código sin alterar su comportamiento.
+- `test`: Adición o modificación de pruebas automatizadas.
+- `chore`: Tareas de mantenimiento y configuraciones del entorno.
+- `perf`: Mejoras orientadas al rendimiento del sistema.
+ 
 ### 6.1.3 Source Code Style Guide & Conventions  
 ### 6.1.4 Software Deployment Configuration  
 
