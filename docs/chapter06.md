@@ -71,7 +71,7 @@ Asimismo, se detallan las configuraciones iniciales requeridas para compilar, ej
 - **Trello**: Plataforma de gestión de tareas basada en tableros y tarjetas, utilizada para organizar y hacer seguimiento del progreso del equipo durante el desarrollo del proyecto. Facilitó la planificación de sprints, la asignación de responsabilidades y la visualización del avance en tiempo real, promoviendo una colaboración efectiva y una mejor administración del tiempo.
 
 <div style="text-align: center;">
-  <img src="../images/trello.png" alt="Trello" style="width:10%;"/>
+  <img src="../images/Trello.png" alt="Trello" style="width:10%;"/>
 </div>
 
 
