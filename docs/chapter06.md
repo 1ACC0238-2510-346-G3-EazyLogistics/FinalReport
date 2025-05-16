@@ -299,6 +299,8 @@ En este Sprint 1, el equipo ha desplegado la Landing Page utilizando github page
 
 4. **Acceso a la Landing Page**: La Landing Page se puede acceder a través de la URL proporcionada por GitHub Pages. Esta URL es pública y permite que cualquier persona acceda a la página.
 <br> url de la landing page: https://1acc0238-2510-346-g3-eazylogistics.github.io/LandingPage/
+5. **Evidencia del Despliegue**: Se realizó una captura de pantalla de la Landing Page desplegada para mostrar su apariencia y funcionalidad.
+![Landing Page Deployment Evidence](../images/landing_page_deployed.png)
 
 ### 6.2.1.8 Team Collaboration Insights during Sprint  
 Para el desarrollo de este sprint, el equipo designó a un integrante para el desarrollo de las actividades de implementación de la Landing Page.
