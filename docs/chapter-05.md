@@ -180,3 +180,8 @@ En esta parte, se indicará los sistemas de navegación que se utilizaron para l
 
 ### 5.1.4.5. Mobile Applications Prototyping
 
+<a href="https://youtu.be/DpDvyiFZYfk" target="_blank">
+  <img src="../assets/Prototyping-LogisticsMaster.png" alt="Haz clic para ver el video en YouTube">
+</a>
+
+Link de figma: https://www.figma.com/design/xEox7AGlCy67DsKpgUtasc/LogisticsMaster?node-id=0-1&t=KZmjaqr84QZfGvSJ-1 
