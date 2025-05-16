@@ -36,7 +36,8 @@ El objetivo de esta sección es resumir las modificaciones relevantes que se rea
 
 | Versión | Fecha      | Autores                     | Descripción de Modificaciones |
 |---------|------------|-----------------------------|-------------------------------|
-| 1era    |  04/25/2025 | Augusto Mathias Leonardo Vasquez Requejo, Joaquin Andree Pedraza Maldonado, Jose Adrian Luza Cahuamaca, Fabian Reyes Trujillano, Gabriel Anthony Braithuaite Toledo|Carátula, CapítuloI, Capítulo II, Capítulo III, Capítulo IV, Capítulo V  
+| 1era    |  04/25/2025 | Augusto Mathias Leonardo Vasquez Requejo, Joaquin Andree Pedraza Maldonado, Jose Adrian Luza Cahuamaca, Fabian Reyes Trujillano, Gabriel Anthony Braithuaite Toledo|Carátula, CapítuloI, Capítulo II, Capítulo III, Capítulo IV, Capítulo V  |
+| 2nda    |  05/25/2025 | Augusto Mathias Leonardo Vasquez Requejo, Joaquin Andree Pedraza Maldonado, Jose Adrian Luza Cahuamaca, Fabian Reyes Trujillano, Gabriel Anthony Braithuaite Toledo | Capítulo V, Capítulo VI |
 
 
 ## Project Report Collaboration Insights
