@@ -248,6 +248,26 @@ Se podrían implementar pruebas automatizadas utilizando herramientas como Selen
 ### 6.2.1.5 Execution Evidence for Sprint Review  
 En este Sprint 1, el equipo ha desarrollado y desplegado la Landing Page, asegurando que cumpla con los requisitos establecidos y funcione correctamente. A continuación, se presentan las evidencias de ejecución del Sprint 1, que incluyen capturas de pantalla y descripciones de las funcionalidades implementadas.
 
+<br>**Hero Section**: La sección principal de la Landing Page, que incluye una barra de navegación, un título
+atractivo, una imagen llamativa y un botón de llamada a la acción.
+<br> ![Landing Page Access](../images/landing_page_access.png)
+<br>**About Section**: La sección que proporciona información sobre la aplicación y sus características principales.
+Incluye un título, una descripción y una imagen representativa. Además, tiene uan sección sobre el equipo de
+desarrollo.
+<br> ![Landing Page About Section](../images/landing_page_about_section.png)
+<br> ![Landing Page About Team Section](../images/landing_page_about_team_section.png)
+<br>**Subscriptions Section**: La sección que muestra los diferentes planes de suscripción disponibles para los
+usuarios. Incluye un título, una descripción y nuestros dos planes con precios y características.
+<br> ![Landing Page Subscriptions Section](../images/landing_page_subscriptions_section.png)
+<br>**Customers Section**: La sección que muestra los clientes actuales de la aplicación. Incluye un título y una
+descripción de nuestros dos segmentos objetivos.
+<br> ![Landing Page Customers Section](../images/landing_page_customers_section.png)
+<br>**Contact Section**: La sección que permite a los usuarios ponerse en contacto con el equipo de desarrollo.
+Incluye un formulario de contacto con campos para el nombre, correo electrónico y mensaje.
+<br> ![Landing Page Contact Section](../images/landing_page_contact_section.png)
+<br>**Footer Section**: La sección que incluye un aviso de derechos de autor.
+<br> ![Landing Page Footer Section](../images/landing_page_footer_section.png)
+
 ### 6.2.1.6 Services Documentation Evidence for Sprint Review  
 Este sprint 1 tuvo como enfoque principal la implementación de la Landing Page, por lo que no se han desarrollado Web Services. La documentación de Endpoints con OpenAPI y los detalles relacionados con Web Services serán relevantes en sprints futuros cuando se aborde la implementación y documentación de estos servicios. 
 
@@ -265,28 +285,6 @@ En este Sprint 1, el equipo ha desplegado la Landing Page utilizando github page
 
 4. **Acceso a la Landing Page**: La Landing Page se puede acceder a través de la URL proporcionada por GitHub Pages. Esta URL es pública y permite que cualquier persona acceda a la página.
 <br> url de la landing page: https://1acc0238-2510-346-g3-eazylogistics.github.io/LandingPage/
-
-5. **Evidencia de la Landing Page**: A continuación, se presenta una captura de pantalla de la Landing Page desplegada,
-   mostrando su diseño y funcionalidad.
-   <br>**Hero Section**: La sección principal de la Landing Page, que incluye una barra de navegación, un título
-   atractivo, una imagen llamativa y un botón de llamada a la acción.
-   <br> ![Landing Page Access](../images/landing_page_access.png)
-   <br>**About Section**: La sección que proporciona información sobre la aplicación y sus características principales.
-   Incluye un título, una descripción y una imagen representativa. Además, tiene uan sección sobre el equipo de
-   desarrollo.
-   <br> ![Landing Page About Section](../images/landing_page_about_section.png)
-   <br> ![Landing Page About Team Section](../images/landing_page_about_team_section.png)
-   <br>**Subscriptions Section**: La sección que muestra los diferentes planes de suscripción disponibles para los
-   usuarios. Incluye un título, una descripción y nuestros dos planes con precios y características.
-   <br> ![Landing Page Subscriptions Section](../images/landing_page_subscriptions_section.png)
-   <br>**Customers Section**: La sección que muestra los clientes actuales de la aplicación. Incluye un título y una
-   descripción de nuestros dos segmentos objetivos.
-   <br> ![Landing Page Customers Section](../images/landing_page_customers_section.png)
-   <br>**Contact Section**: La sección que permite a los usuarios ponerse en contacto con el equipo de desarrollo.
-   Incluye un formulario de contacto con campos para el nombre, correo electrónico y mensaje.
-   <br> ![Landing Page Contact Section](../images/landing_page_contact_section.png)
-   <br>**Footer Section**: La sección que incluye un aviso de derechos de autor.
-   <br> ![Landing Page Footer Section](../images/landing_page_footer_section.png)
 
 ### 6.2.1.8 Team Collaboration Insights during Sprint  
 Para el desarrollo de este sprint, el equipo designó a un integrante para el desarrollo de las actividades de implementación de la Landing Page.
