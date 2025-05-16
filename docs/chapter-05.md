@@ -131,22 +131,28 @@ En esta parte, se indicará los sistemas de navegación que se utilizaron para l
 
 ### 5.1.4.2. Mobile Applications Wireflow Diagrams
 
-User Goal 1: Iniciar sesión
+- **User Goal 1: Iniciar sesión**
+<br>
 <img src="../assets/UserGoal1.png">
 
-User Goal 2: Asignar una tarea a un empleado
+- **User Goal 2: Asignar una tarea a un empleado**
+<br>
 <img src="../assets/UserGoal2.png">
 
-User Goal 3: Añadir una reserva
+- **User Goal 3: Añadir una reserva**
+<br>
 <img src="../assets/UserGoal4.png">
 
-User Goal 5: Modificar una reserva existente
+- **User Goal 5: Modificar una reserva existente**
+<br>
 <img src="../assets/UserGoal5.png">
 
-User Goal 6: Cancelar una reserva
+- **User Goal 6: Cancelar una reserva**
+<br>
 <img src="../assets/UserGoal6.png">
 
-User Goal 7: Generar reportes de estadísticas personalizadas
+- **User Goal 7: Generar reportes de estadísticas personalizadas**
+<br>
 <img src="../assets/UserGoal7.png">
 
 ### 5.1.4.3. Mobile Applications Mock-ups
