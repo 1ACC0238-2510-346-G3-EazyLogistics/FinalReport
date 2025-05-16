@@ -116,18 +116,25 @@ En esta parte, se indicará los sistemas de navegación que se utilizaron para l
 ## 5.1.3 Landing Page UI Design 
 ### 5.1.3.1 Landing Page Wireframe
 
-<img src="../../assets/img/chapter-IV/wireframe-landing.jpg" style="width:700px; height:auto;" alt="wireframe landing page">
+<img src="../assets/Wireframe Landing 1.png">
+<img src="../assets/Wireframe Landing 2.png">
+<img src="../assets/Wireframe Landing 3.png">
 
 ### 5.1.3.2 Landing Page Mock-up
 
-<img src="../../assets/img/chapter-IV/mockup-landing.jpg" style="width:700px; height:auto;" alt="mock up landing page">
+<img src="../assets/Wireframe Landing 1.png">
+<img src="../assets/Wireframe Landing 2.png">
+<img src="../assets/Wireframe Landing 3.png">
 
 ## 5.1.4 Mobile Applications UX/UI Design
 ### 5.1.4.1. Mobile Applications Wireframes
 
-<img src="../assets/Mobile Wireframe1.png">
-<img src="../assets/Mobile Wireframe2.png">
-<img src="../assets/Mobile Wireframe3.png">
+<img src="../assets/Landing Mockup1.png">
+<img src="../assets/Landing Mockup2.png">
+<img src="../assets/Landing Mockup3.png">
+<img src="../assets/Landing Mockup4.png">
+<img src="../assets/Landing Mockup5.png">
+<img src="../assets/Landing Mockup6.png">
 
 ### 5.1.4.2. Mobile Applications Wireflow Diagrams
 
