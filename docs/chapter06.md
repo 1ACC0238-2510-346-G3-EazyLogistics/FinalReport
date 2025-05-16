@@ -121,7 +121,7 @@ Para mantener claridad y consistencia en los mensajes de confirmación (`commits
 
 ### 6.1.3 Source Code Style Guide & Conventions
 
-Para garantizar un código legible, consistente y de fácil mantenimiento, se adoptaron las convenciones propuestas por Google en sus guías oficiales de estilo para HTML/CSS y JavaScript. La aplicación de estos lineamientos facilita el trabajo colaborativo y reduce la posibilidad de errores en etapas posteriores del desarrollo.
+Para garantizar un código legible, consistente y de fácil mantenimiento, se adoptaron las convenciones propuestas por Google en sus guías oficiales de estilo para HTML/CSS, JavaScript y Kotlin. La aplicación de estos lineamientos facilita el trabajo colaborativo, mejora la comprensión del código entre distintos desarrolladores y reduce significativamente la probabilidad de errores durante el desarrollo y mantenimiento del sistema.
 
 #### Convenciones para HTML/CSS (Google HTML/CSS Style Guide)
 
@@ -149,7 +149,21 @@ Para el desarrollo de funcionalidades interactivas con JavaScript, se aplicaron 
 
 Estas prácticas ayudan a mantener un estilo uniforme en el código fuente y previenen errores comunes relacionados con el scope, la redeclaración de variables o la gestión de valores dinámicos.
 
-La aplicación sistemática de estas convenciones fortaleció la calidad del código entregado, promoviendo la claridad, la eficiencia y la colaboración efectiva entre los integrantes del equipo.
+#### Convenciones para Kotlin (Google Kotlin Style Guide)
+
+En el desarrollo de la aplicación móvil, se utilizó **Android Studio** como entorno de desarrollo, y se siguieron las convenciones oficiales para Kotlin propuestas por Google, que permiten escribir código más limpio, expresivo y seguro. Las principales directrices aplicadas fueron:
+
+- Usar **camelCase** para variables, funciones y nombres de métodos (`userName`, `getUserData()`).
+- Declarar constantes con `val` y variables mutables con `var` solo cuando sea estrictamente necesario.
+- Utilizar nombres significativos, claros y descriptivos para funciones y clases.
+- Omitir el punto y coma (`;`) al final de las sentencias, dado que no es necesario en Kotlin.
+- Aplicar sangrías de 4 espacios y mantener una estructura clara de bloques.
+- Utilizar funciones de extensión, lambdas y expresiones funcionales donde sea apropiado, siguiendo el estilo idiomático de Kotlin.
+- Dividir clases largas en archivos separados para mejorar la mantenibilidad y legibilidad del código.
+
+Estas convenciones permitieron desarrollar una aplicación Android robusta, con código fácilmente entendible y adaptable por cualquier miembro del equipo. Además, se favoreció el uso de buenas prácticas modernas en el entorno Android, alineándose con los estándares actuales de la industria.
+
+La aplicación sistemática de estas convenciones fortaleció la calidad del código entregado en todas las capas del proyecto, promoviendo la claridad, la eficiencia y la colaboración efectiva entre los integrantes del equipo.
 
 ### 6.1.4 Software Deployment Configuration
 
