@@ -143,15 +143,15 @@ En esta parte, se indicará los sistemas de navegación que se utilizaron para l
 <br>
 <img src="../assets/UserGoal4.png">
 
-- **User Goal 5: Modificar una reserva existente**
+- **User Goal 4: Modificar una reserva existente**
 <br>
 <img src="../assets/UserGoal5.png">
 
-- **User Goal 6: Cancelar una reserva**
+- **User Goal 5: Cancelar una reserva**
 <br>
 <img src="../assets/UserGoal6.png">
 
-- **User Goal 7: Generar reportes de estadísticas personalizadas**
+- **User Goal 6: Generar reportes de estadísticas personalizadas**
 <br>
 <img src="../assets/UserGoal7.png">
 
