@@ -15,11 +15,11 @@ En esta seccion definiremos los estilos de diseño front-end que serán la base 
 
 **Typography:** Al seleccionar la tipografía para nuestro proyecto, hemos optado por utilizar Roboto siguiendo las pautas de estilo general. Ya que ofrece una combinación única de legibilidad, versatilidad y modernidad que se alinea perfectamente con la identidad visual y los objetivos de LogisticsMaster. Su diseño limpio y contemporáneo proporciona una excelente lectura en una amplia gama de dispositivos, lo que garantiza una experiencia de usuario óptima para nuestros clientes, que incluyen tanto agencias de embarcaciones navieras como exportadores e importadores de alta rotacion.
 
-<img src="../../FinalReport/assets/Tipography-LogisticsMaster.png">
+<img src="../assets/Tipography-LogisticsMaster.png">
 
 **Colors:** Hemos escogido una paleta basada en colores suaves y elegantes, algo fríos para dar sensación de ser una aplicacion "premium" . De tal modo, estos generan un ambiente profesional y acogedor para el usuario final. Los tonos más claros pueden ser utilizados para fondos o elementos de diseño amplios, mientras que los colores más oscuros serán para textos o detalles más específicos asegurando legibilidad y contraste entre ellos.
 
-<img src="../../FinalReport/assets/Colors-LogisticsMaster.png">
+<img src="../assets/Colors-LogisticsMaster.png">
 
 #### 5.1.1.1 General Style Guidelines
 
@@ -125,44 +125,44 @@ En esta parte, se indicará los sistemas de navegación que se utilizaron para l
 ## 5.1.4 Mobile Applications UX/UI Design
 ### 5.1.4.1. Mobile Applications Wireframes
 
-<img src="../../FinalReport/assets/Mobile Wireframe1.png">
-<img src="../../FinalReport/assets/Mobile Wireframe2.png">
-<img src="../../FinalReport/assets/Mobile Wireframe3.png">
+<img src="../assets/Mobile Wireframe1.png">
+<img src="../assets/Mobile Wireframe2.png">
+<img src="../assets/Mobile Wireframe3.png">
 
 ### 5.1.4.2. Mobile Applications Wireflow Diagrams
 
 User Goal 1: Iniciar sesión
-<img src="../../FinalReport/assets/UserGoal1.png">
+<img src="../assets/UserGoal1.png">
 
 User Goal 2: Asignar una tarea a un empleado
-<img src="../../FinalReport/assets/UserGoal2.png">
+<img src="../assets/UserGoal2.png">
 
 User Goal 3: Añadir una reserva
-<img src="../../FinalReport/assets/UserGoal4.png">
+<img src="../assets/UserGoal4.png">
 
 User Goal 5: Modificar una reserva existente
-<img src="../../FinalReport/assets/UserGoal5.png">
+<img src="../assets/UserGoal5.png">
 
 User Goal 6: Cancelar una reserva
-<img src="../../FinalReport/assets/UserGoal6.png">
+<img src="../assets/UserGoal6.png">
 
 User Goal 7: Generar reportes de estadísticas personalizadas
-<img src="../../FinalReport/assets/UserGoal7.png">
+<img src="../assets/UserGoal7.png">
 
 ### 5.1.4.3. Mobile Applications Mock-ups
 
-<img src="../../FinalReport/assets/Mockup1-LogisticsMaster.png">
-<img src="../../FinalReport/assets/Mockup2-LogisticsMaster.png">
-<img src="../../FinalReport/assets/Mockup3-LogisticsMaster.png">
+<img src="../assets/Mockup1-LogisticsMaster.png">
+<img src="../assets/Mockup2-LogisticsMaster.png">
+<img src="../assets/Mockup3-LogisticsMaster.png">
 
 ### 5.1.4.4. Mobile Applications User Flow Diagrams
 
-<img src="../../FinalReport/assets/UserFlow1-LogisticsMaster.png">
-<img src="../../FinalReport/assets/UserFlow2-LogisticsMaster.png">
-<img src="../../FinalReport/assets/UserFlow3-LogisticsMaster.png">
-<img src="../../FinalReport/assets/UserFlow4-LogisticsMaster.png">
-<img src="../../FinalReport/assets/UserFlow5-LogisticsMaster.png">
-<img src="../../FinalReport/assets/UserFlow6-LogisticsMaster.png">
+<img src="../assets/UserFlow1-LogisticsMaster.png">
+<img src="../assets/UserFlow2-LogisticsMaster.png">
+<img src="../assets/UserFlow3-LogisticsMaster.png">
+<img src="../assets/UserFlow4-LogisticsMaster.png">
+<img src="../assets/UserFlow5-LogisticsMaster.png">
+<img src="../assets/UserFlow6-LogisticsMaster.png">
 
 
 ### 5.1.4.5. Mobile Applications Prototyping
