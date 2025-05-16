@@ -37,7 +37,7 @@ El objetivo de esta sección es resumir las modificaciones relevantes que se rea
 | Versión | Fecha      | Autores                     | Descripción de Modificaciones |
 |---------|------------|-----------------------------|-------------------------------|
 | 1era    |  04/25/2025 | Augusto Mathias Leonardo Vasquez Requejo, Joaquin Andree Pedraza Maldonado, Jose Adrian Luza Cahuamaca, Fabian Reyes Trujillano, Gabriel Anthony Braithuaite Toledo|Carátula, CapítuloI, Capítulo II, Capítulo III, Capítulo IV, Capítulo V  |
-| 2nda    |  05/25/2025 | Augusto Mathias Leonardo Vasquez Requejo, Joaquin Andree Pedraza Maldonado, Jose Adrian Luza Cahuamaca, Fabian Reyes Trujillano, Gabriel Anthony Braithuaite Toledo | Capítulo V, Capítulo VI |
+| 2nda    |  05/15/2025 | Augusto Mathias Leonardo Vasquez Requejo, Joaquin Andree Pedraza Maldonado, Jose Adrian Luza Cahuamaca, Fabian Reyes Trujillano, Gabriel Anthony Braithuaite Toledo | Capítulo V, Capítulo VI |
 
 
 ## Project Report Collaboration Insights
@@ -60,6 +60,18 @@ Para el desarrollo del informe perteneciente a la entrega TB1, se dividió la im
 | Luza Cahuamaca Jose Adrian       | Chapters 01,02,03,04,05  |
 | Braithuaite Toledo Gabriel Anthony  | Chapters 01,02,03,04,05|
 | Reyes Trujillano Fabian Alonso | Chapters 01,02,03,04,05|
+
+**TP1**
+
+Para el desarrollo del informe perteneciente a la entrega TP1, se dividio la implementacion de secciones de la siguiente forma por cada integrante del equipo
+
+| Integrante                            | Tareas Asignadas                                                                                                                           |
+| ------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
+| Vasquez Requejo Augusto Mathias Leonardo  |Chapters 05,06                 |
+| Pedraza Maldonado Joaquin Andree     | Chapters 05,06 |
+| Luza Cahuamaca Jose Adrian       | Chapters 05,06 |
+| Braithuaite Toledo Gabriel Anthony  | Chapters 05,06 |
+| Reyes Trujillano Fabian Alonso | Chapters 05,06|
 
 
 Los integrantes son:
