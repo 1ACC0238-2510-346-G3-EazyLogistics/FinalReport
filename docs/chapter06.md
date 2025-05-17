@@ -428,19 +428,19 @@ GitHub insights del landing page:
 | **Resumen:** Gael, un estudiante universitario de 24 años que reside en Callao, Lima, realiza la mayoría de sus reservas entre los 18 y 20 años, principalmente le gusta  hacer reservas a destinos nuevos pero si no cuenta con mucho tiempo por la universidad prefiere cercanos  , valorando el precio, la ubicación y las opiniones de otros usuarios. Se siente cómodo usando Logistic Master para realizar reservas, pero sugiere que nuestra plataforma  debería implementar mas facilidad a la hora de completar información detallada  acerca de su reserva . |
 
 ### 6.3.3 Evaluaciones según heurísticas  
-###Problemas detectados:
+### Problemas detectados:
 
 No parece haber suficientes notificaciones sobre el estado de las reservas
 Los gestores de hotel mencionan la necesidad de recibir notificaciones automáticas
 Falta de confirmación visual durante el proceso de reserva
 
-###Recomendaciones:
+### Recomendaciones:
 
 Implementar un sistema de notificaciones en tiempo real sobre cambios en reservas
 Mostrar indicadores claros del progreso durante el proceso de reserva
 Incluir confirmaciones visuales cuando se completen acciones importantes
 
-###2. Coincidencia entre el sistema y el mundo real
+### 2. Coincidencia entre el sistema y el mundo real
 Problemas detectados:
 
 Posible uso de terminología hotelera técnica no familiar para usuarios comunes
@@ -452,7 +452,7 @@ Utilizar un lenguaje claro y sencillo, evitando jerga técnica
 Implementar iconografía intuitiva que represente conceptos hoteleros
 Organizar la información siguiendo una lógica natural para los usuarios
 
-3. Control y libertad del usuario
+### 3. Control y libertad del usuario
 Problemas detectados:
 
 Limitadas opciones de personalización mencionadas por los gestores
