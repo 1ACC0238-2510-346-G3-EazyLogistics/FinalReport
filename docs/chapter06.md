@@ -367,20 +367,19 @@ GitHub insights del landing page:
 
 
 ### 6.3.2 Registro de Entrevistas  
-**| **Datos del entrevistado** | 
+| **Datos del entrevistado** | 
 |--------------------------|
-| **Nombre:**  Alex Duran |
-| **Link del video:** |
-| **Edad:**  21 años |
+| **Nombre:**  Roberto Franco |
+| **Link del video:**   |
+| **Edad:**  31 años |
 | **Procedencia:**  Lima, San Isidro |
 | ![Entrevista]()|
-| **Resumen:** Ramiro Guzmanes un gestor de hotel en San Miguel, Lima, con 2 años de experiencia en el sector. Alex gestiona las reservas directamente en el sistema del hotel y valora especialmente factores como el precio, la ubicación y las opiniones de los clientes. Aunque se siente cómodo gestionando las reservas desde su smartphone, sugiere que las plataformas de reservas hoteleras deberían ofrecer más opciones de personalización, recordatorios automáticos y mayor transparencia en las tarifas adicionales. Además, considera fundamental recibir notificaciones y contar con la posibilidad de comunicarse directamente con los clientes a través de la plataforma. |
-
+| **Resumen:** Gracie Romero es un gestor de hotel en San Isidro, Lima, con cinco años de experiencia en la industria hotelera. Ella administra las reservas directamente en el sistema del hotel y le da mucha importancia a aspectos como el precio, la ubicación y las opiniones de los huéspedes. Aunque se siente cómodo gestionando reservas desde su smartphone, sugiere que las plataformas de reservas hoteleras deberían incluir más opciones de personalización, enviar recordatorios automáticos y ofrecer mayor claridad en las tarifas adicionales. Además, considera esencial recibir notificaciones y tener la opción de comunicarse directamente con los clientes a través de la plataforma. |
 #### Entrevista 2
 | **Datos del entrevistado** | 
 |--------------------------|
-| **Nombre:**  Gracie Romero |
-| **Link del video:**   |
+| **Nombre:**  Ramiro Guzman |
+| **Link del video:**  https://drive.google.com/file/d/1uW_-4YnXXOg0ApA_ywYjW2uUettpJj5H/view?usp=sharing |
 | **Edad:**  31 años |
 | **Procedencia:**  Lima, San Isidro |
 | ![Entrevista]()|
@@ -412,7 +411,7 @@ GitHub insights del landing page:
 | **Datos del entrevistado** | 
 |--------------------------|
 | **Nombre:**  Lopez Diaz Gael Dario |
-| **Link del video:**   |
+| **Link del video:**  https://drive.google.com/file/d/1fjwcqRZr4tD8PcLi_KTUrOpeGgFO1eLM/view?usp=sharing |
 | **Edad:**  20 años |
 | **Procedencia:**  Lima, San Miguel |
 | ![Entrevista]()|
@@ -422,7 +421,7 @@ GitHub insights del landing page:
 | **Datos del entrevistado** | 
 |--------------------------|
 | **Nombre:**  Marcel |
-| **Link del video:**  |
+| **Link del video:** https://drive.google.com/file/d/1u0U2Ig1vQRH0oIEyu0Gsy4a9WKeeG95L/view?usp=sharing |
 | **Edad:**  19 años |
 | **Procedencia:**  Lima, San Miguel |
 | ![Entrevista]()|
