@@ -458,3 +458,5 @@ Implementar más opciones de personalización como sugieren los gestores
 Facilitar la modificación o cancelación de reservas con procesos simples
 
 ## 6.4 Video About-the-Product
+
+https://youtu.be/DpDvyiFZYfk
