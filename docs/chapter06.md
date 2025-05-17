@@ -376,7 +376,7 @@ GitHub insights del landing page:
 | **Edad:**  31 años |
 | **Procedencia:**  Lima, San Isidro |
 | ![Entrevista](https://acortar.link/CdIDcC)|
-| **Resumen:** Gracie Romero es un gestor de hotel en San Isidro, Lima, con cinco años de experiencia en la industria hotelera. Ella administra las reservas directamente en el sistema del hotel y le da mucha importancia a aspectos como el precio, la ubicación y las opiniones de los huéspedes. Aunque se siente cómodo gestionando reservas desde su smartphone, sugiere que las plataformas de reservas hoteleras deberían incluir más opciones de personalización, enviar recordatorios automáticos y ofrecer mayor claridad en las tarifas adicionales. Además, considera esencial recibir notificaciones y tener la opción de comunicarse directamente con los clientes a través de la plataforma. |
+| **Resumen:** Ramiro es un gestor de hotel en San Isidro, Lima, con cinco años de experiencia en la industria hotelera. El administra las reservas directamente en el sistema del hotel y le da mucha importancia a aspectos como el precio, la ubicación y las opiniones de los huéspedes. Aunque se siente cómodo gestionando reservas desde su smartphone, sugiere que las plataformas de reservas hoteleras deberían incluir más opciones de personalización, enviar recordatorios automáticos y ofrecer mayor claridad en las tarifas adicionales. Además, considera esencial recibir notificaciones y tener la opción de comunicarse directamente con los clientes a través de la plataforma. |
 
 #### Entrevista 3
 | **Datos del entrevistado** | 
@@ -384,9 +384,9 @@ GitHub insights del landing page:
 | **Nombre:**  Robert  |
 | **Link del video:**  https://drive.google.com/file/d/1JdN6SU5CO-x4ZKly1RK6HmJvodzBH_jP/view?usp=sharing |
 | **Edad:**  22 años |
-| **Procedencia:**  Lima, San Miguel |
+| **Procedencia:**  Lima, Villa Salvador |
 | ![Entrevista](https://acortar.link/cq1cSx)|
-| **Resumen:** Sebastian Mendez es un gestor de hotel en Lima con 4 años de experiencia en el sector. Maneja las reservas directamente en el sistema del hotel y considera esenciales factores como el precio, la ubicación y los comentarios de los huéspedes. Sugiere que las aplicaciones de reservas deberían ser más visuales, ofreciendo opciones de personalización, recordatorios automáticos y mayor claridad en los cargos adicionales. Para él, es crucial recibir notificaciones y tener la opción de comunicarse de forma directa con los clientes a través de la plataforma. |
+| **Resumen:** Roberto Franco  es un gestor de hotel en Lima con 4 años de experiencia en el sector. Maneja las reservas directamente en el sistema del hotel y considera esenciales factores como el precio, la ubicación y los comentarios de los huéspedes. Sugiere que las aplicaciones de reservas deberían ser más visuales, ofreciendo opciones de personalización, recordatorios automáticos y mayor claridad en los cargos adicionales. Para él, es crucial recibir notificaciones y tener la opción de comunicarse de forma directa con los clientes a través de la plataforma. |
 
 ## Segmento de huespedes
 
