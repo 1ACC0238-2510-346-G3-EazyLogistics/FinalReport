@@ -311,7 +311,123 @@ GitHub insights del landing page:
 
 ## 6.3 Validation Interviews  
 ### 6.3.1 Diseño de Entrevistas  
+## 1. Preguntas para Gestores de Empresas Hoteleras
+
+#### 1.1 Información Demográfica
+
+| **Categoría**                   | **Preguntas**                                                                                                                               |
+|---------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------|
+| **Edad y género**               | - ¿Podrías indicarme tu edad y género?                                                                                                      |
+|                                 | - ¿Consideras que tu perfil demográfico influye en tu familiaridad o preferencias al usar plataformas de gestión?                            |
+| **Ubicación del hotel**         | - ¿En qué ciudad o región se encuentra tu hotel?                                                                                            |
+|                                 | - ¿Tu ubicación influye en la necesidad de interacción digital con los huéspedes?                                                           |
+| **Experiencia en el sector hotelero** | - ¿Cuántos años de experiencia tienes en la gestión hotelera?                                                                       |
+|                                 | - ¿Qué cambios o actualizaciones esperas en plataformas de gestión con base en tu experiencia?                                              |
+
+#### 1.2 Evaluación del Landing Page y Aplicaciones
+
+| **Categoría**                   | **Preguntas**                                                                                                                               |
+|---------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------|
+| **Navegación y facilidad de uso** | - ¿Qué tan fácil encontraste navegar en el landing page y la aplicación de Logistic Master?                                                   |
+|                                 | - ¿Hubo alguna sección que te costara trabajo localizar o entender?                                                                        |
+| **Funcionalidades clave**       | - ¿Qué características te parecen útiles en la gestión hotelera?                                                                           |
+|                                 | - ¿Qué opinas de la funcionalidad de notificaciones push en la plataforma?                                                                  |
+| **Eficiencia en la gestión**    | - ¿Crees que la plataforma te facilita la gestión de tu hotel de manera eficiente?                                                         |
+|                                 | - ¿Hay alguna funcionalidad que agregarías o mejorarías para adaptarla mejor a tus necesidades?                                            |
+
+### 2. Preguntas para Huéspedes
+
+#### 2.1 Información Demográfica
+
+| **Categoría**                   | **Preguntas**                                                                                                                               |
+|---------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------|
+| **Edad y género**               | - ¿Podrías indicarme tu edad y género?                                                                                                      |
+|                                 | - ¿Te sientes cómodo usando plataformas digitales para hacer reservas y recibir notificaciones?                                             |
+| **Distrito de residencia**      | - ¿En qué distrito o ciudad resides actualmente?                                                                                            |
+|                                 | - ¿Prefieres reservar en lugares cercanos a tu residencia o explorar destinos nuevos?                                                       |
+| **Ocupación**                   | - ¿Cuál es tu ocupación actual?                                                                                                             |
+|                                 | - ¿Crees que tu ocupación influye en la frecuencia o tipo de reservas que realizas?                                                         |
+
+#### 2.2 Evaluación del Landing Page y Aplicaciones
+
+| **Categoría**                   | **Preguntas**                                                                                                                               |
+|---------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------|
+| **Interacción inicial**         | - ¿Fue fácil encontrar la información en el landing page y entender de qué trata Logistic Master?                                              |
+|                                 | - ¿Tuviste problemas para registrarte o iniciar sesión en la aplicación?                                                                    |
+| **Preferencias y expectativas** | - ¿Qué funcionalidades de la plataforma te resultaron más útiles para hacer reservas?                                                      |
+|                                 | - ¿Te gustaría recibir más información personalizada o notificaciones sobre servicios disponibles en los hoteles?                          |
+| **Experiencia de reserva**      | - ¿El flujo de reserva te pareció intuitivo? ¿Hubo algún paso que te generara dudas o frustración?                                         |
+|                                 | - ¿Qué cambios sugerirías para mejorar la experiencia de reserva en la plataforma?                                                         |
+
+### Conclusión de la Entrevista
+
+| **Categoría**                   | **Pregunta**                                                                                                                                |
+|---------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------|
+| **Pregunta Final**              | - ¿Hay algo más que consideres relevante compartir sobre tu experiencia interactuando con la plataforma y realizando reservas?             |
+
+
 ### 6.3.2 Registro de Entrevistas  
+**| **Datos del entrevistado** | 
+|--------------------------|
+| **Nombre:**  Alex Duran |
+| **Link del video:** |
+| **Edad:**  21 años |
+| **Procedencia:**  Lima, San Isidro |
+| ![Entrevista]()|
+| **Resumen:** Ramiro Guzmanes un gestor de hotel en San Miguel, Lima, con 2 años de experiencia en el sector. Alex gestiona las reservas directamente en el sistema del hotel y valora especialmente factores como el precio, la ubicación y las opiniones de los clientes. Aunque se siente cómodo gestionando las reservas desde su smartphone, sugiere que las plataformas de reservas hoteleras deberían ofrecer más opciones de personalización, recordatorios automáticos y mayor transparencia en las tarifas adicionales. Además, considera fundamental recibir notificaciones y contar con la posibilidad de comunicarse directamente con los clientes a través de la plataforma. |
+
+#### Entrevista 2
+| **Datos del entrevistado** | 
+|--------------------------|
+| **Nombre:**  Gracie Romero |
+| **Link del video:**   |
+| **Edad:**  31 años |
+| **Procedencia:**  Lima, San Isidro |
+| ![Entrevista]()|
+| **Resumen:** Gracie Romero es un gestor de hotel en San Isidro, Lima, con cinco años de experiencia en la industria hotelera. Ella administra las reservas directamente en el sistema del hotel y le da mucha importancia a aspectos como el precio, la ubicación y las opiniones de los huéspedes. Aunque se siente cómodo gestionando reservas desde su smartphone, sugiere que las plataformas de reservas hoteleras deberían incluir más opciones de personalización, enviar recordatorios automáticos y ofrecer mayor claridad en las tarifas adicionales. Además, considera esencial recibir notificaciones y tener la opción de comunicarse directamente con los clientes a través de la plataforma. |
+
+#### Entrevista 3
+| **Datos del entrevistado** | 
+|--------------------------|
+| **Nombre:**  Sebastian Mendez |
+| **Link del video:**  https://acortar.link/AmzGi8 |
+| **Edad:**  19 años |
+| **Procedencia:**  Lima, San Miguel |
+| ![Entrevista](./assets/ftentre2.PNG)|
+| **Resumen:** Sebastian Mendez es un gestor de hotel en Lima con 3 años de experiencia en el sector. Maneja las reservas directamente en el sistema del hotel y considera esenciales factores como el precio, la ubicación y los comentarios de los huéspedes. Sugiere que las aplicaciones de reservas deberían ser más visuales, ofreciendo opciones de personalización, recordatorios automáticos y mayor claridad en los cargos adicionales. Para él, es crucial recibir notificaciones y tener la opción de comunicarse de forma directa con los clientes a través de la plataforma. |
+
+## Segmento de huespedes
+
+#### Entrevista 1
+| **Datos del entrevistado** | 
+|--------------------------|
+| **Nombre:**  Jose Shuan  |
+| **Link del video:** |
+| **Edad:**  24 años |
+| **Procedencia:**  Lima, Callao |
+| ![Entrevista]()|
+| **Resumen:** Sebastian, un estudiante universitario de 24 años que reside en San Miguel, Lima, realiza la mayoría de sus reservas entre los 18 y 20 años, principalmente le gusta  hacer reservas a destinos nuevos , valorando el precio, la ubicación y las opiniones de otros usuarios. Se siente cómodo usando KingReserve para realizar reservas, pero sugiere que nuestra plataforma  debería implementar mas facilidad a la hora de completar información detallada  acerca de su reserva. |
+
+#### Entrevista 2
+| **Datos del entrevistado** | 
+|--------------------------|
+| **Nombre:**  Lopez Diaz Gael Dario |
+| **Link del video:**   |
+| **Edad:**  20 años |
+| **Procedencia:**  Lima, San Miguel |
+| ![Entrevista]()|
+| **Resumen:** Gael, un estudiante universitario de 19 años que reside en San Miguel, Lima, realiza la mayoría de sus reservas entre los 18 y 20 años, principalmente le gusta  hacer reservas a destinos nuevos pero si no cuenta con mucho tiempo por la universidad prefiere cercanos  , valorando el precio, la ubicación y las opiniones de otros usuarios. Se siente cómodo usando KingReserve para realizar reservas, pero sugiere que nuestra plataforma  debería implementar mas facilidad a la hora de completar información detallada  acerca de su reserva . |
+
+#### Entrevista 3
+| **Datos del entrevistado** | 
+|--------------------------|
+| **Nombre:**  Marcel |
+| **Link del video:**  |
+| **Edad:**  19 años |
+| **Procedencia:**  Lima, San Miguel |
+| ![Entrevista]()|
+| **Resumen:** Gael, un estudiante universitario de 19 años que reside en San Miguel, Lima, realiza la mayoría de sus reservas entre los 18 y 20 años, principalmente le gusta  hacer reservas a destinos nuevos pero si no cuenta con mucho tiempo por la universidad prefiere cercanos  , valorando el precio, la ubicación y las opiniones de otros usuarios. Se siente cómodo usando KingReserve para realizar reservas, pero sugiere que nuestra plataforma  debería implementar mas facilidad a la hora de completar información detallada  acerca de su reserva . |
+
 ### 6.3.3 Evaluaciones según heurísticas  
 
 ## 6.4 Video About-the-Product
