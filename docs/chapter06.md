@@ -374,7 +374,7 @@ GitHub insights del landing page:
 | **Edad:**  31 años |
 | **Procedencia:**  Lima, San Isidro |
 | ![Entrevista]()|
-| **Resumen:** Gracie Romero es un gestor de hotel en San Isidro, Lima, con cinco años de experiencia en la industria hotelera. Ella administra las reservas directamente en el sistema del hotel y le da mucha importancia a aspectos como el precio, la ubicación y las opiniones de los huéspedes. Aunque se siente cómodo gestionando reservas desde su smartphone, sugiere que las plataformas de reservas hoteleras deberían incluir más opciones de personalización, enviar recordatorios automáticos y ofrecer mayor claridad en las tarifas adicionales. Además, considera esencial recibir notificaciones y tener la opción de comunicarse directamente con los clientes a través de la plataforma. |
+| **Resumen:** Roberto Franco es un gestor de hotel en San Isidro, Lima, con cinco años de experiencia en la industria hotelera. Ella administra las reservas directamente en el sistema del hotel y le da mucha importancia a aspectos como el precio, la ubicación y las opiniones de los huéspedes. Aunque se siente cómodo gestionando reservas desde su smartphone, sugiere que las plataformas de reservas hoteleras deberían incluir más opciones de personalización, enviar recordatorios automáticos y ofrecer mayor claridad en las tarifas adicionales. Además, considera esencial recibir notificaciones y tener la opción de comunicarse directamente con los clientes a través de la plataforma. |
 #### Entrevista 2
 | **Datos del entrevistado** | 
 |--------------------------|
@@ -388,11 +388,11 @@ GitHub insights del landing page:
 #### Entrevista 3
 | **Datos del entrevistado** | 
 |--------------------------|
-| **Nombre:**  Sebastian Mendez |
-| **Link del video:**  https://acortar.link/AmzGi8 |
+| **Nombre:**  Robert  |
+| **Link del video:**  https://drive.google.com/file/d/1JdN6SU5CO-x4ZKly1RK6HmJvodzBH_jP/view?usp=sharing |
 | **Edad:**  19 años |
 | **Procedencia:**  Lima, San Miguel |
-| ![Entrevista](./assets/ftentre2.PNG)|
+| ![Entrevista]()|
 | **Resumen:** Sebastian Mendez es un gestor de hotel en Lima con 3 años de experiencia en el sector. Maneja las reservas directamente en el sistema del hotel y considera esenciales factores como el precio, la ubicación y los comentarios de los huéspedes. Sugiere que las aplicaciones de reservas deberían ser más visuales, ofreciendo opciones de personalización, recordatorios automáticos y mayor claridad en los cargos adicionales. Para él, es crucial recibir notificaciones y tener la opción de comunicarse de forma directa con los clientes a través de la plataforma. |
 
 ## Segmento de huespedes
@@ -400,12 +400,12 @@ GitHub insights del landing page:
 #### Entrevista 1
 | **Datos del entrevistado** | 
 |--------------------------|
-| **Nombre:**  Jose Shuan  |
+| **Nombre:**  Jose Shuan https://drive.google.com/file/d/12Gblup5lzNwCtT7oSoEso5_v_I2aiBNs/view?usp=sharing  |
 | **Link del video:** |
 | **Edad:**  24 años |
 | **Procedencia:**  Lima, Callao |
 | ![Entrevista]()|
-| **Resumen:** Sebastian, un estudiante universitario de 24 años que reside en San Miguel, Lima, realiza la mayoría de sus reservas entre los 18 y 20 años, principalmente le gusta  hacer reservas a destinos nuevos , valorando el precio, la ubicación y las opiniones de otros usuarios. Se siente cómodo usando KingReserve para realizar reservas, pero sugiere que nuestra plataforma  debería implementar mas facilidad a la hora de completar información detallada  acerca de su reserva. |
+| **Resumen:** Jose Shuan, un estudiante universitario de 24 años que reside en San Miguel, Lima, realiza la mayoría de sus reservas entre los 18 y 20 años, principalmente le gusta  hacer reservas a destinos nuevos , valorando el precio, la ubicación y las opiniones de otros usuarios. Se siente cómodo Logistic Master para realizar reservas, pero sugiere que nuestra plataforma  debería implementar mas facilidad a la hora de completar información detallada  acerca de su reserva. |
 
 #### Entrevista 2
 | **Datos del entrevistado** | 
@@ -422,11 +422,46 @@ GitHub insights del landing page:
 |--------------------------|
 | **Nombre:**  Marcel |
 | **Link del video:** https://drive.google.com/file/d/1u0U2Ig1vQRH0oIEyu0Gsy4a9WKeeG95L/view?usp=sharing |
-| **Edad:**  19 años |
+| **Edad:**  24 años |
 | **Procedencia:**  Lima, San Miguel |
 | ![Entrevista]()|
-| **Resumen:** Gael, un estudiante universitario de 19 años que reside en San Miguel, Lima, realiza la mayoría de sus reservas entre los 18 y 20 años, principalmente le gusta  hacer reservas a destinos nuevos pero si no cuenta con mucho tiempo por la universidad prefiere cercanos  , valorando el precio, la ubicación y las opiniones de otros usuarios. Se siente cómodo usando KingReserve para realizar reservas, pero sugiere que nuestra plataforma  debería implementar mas facilidad a la hora de completar información detallada  acerca de su reserva . |
+| **Resumen:** Gael, un estudiante universitario de 24 años que reside en Callao, Lima, realiza la mayoría de sus reservas entre los 18 y 20 años, principalmente le gusta  hacer reservas a destinos nuevos pero si no cuenta con mucho tiempo por la universidad prefiere cercanos  , valorando el precio, la ubicación y las opiniones de otros usuarios. Se siente cómodo usando Logistic Master para realizar reservas, pero sugiere que nuestra plataforma  debería implementar mas facilidad a la hora de completar información detallada  acerca de su reserva . |
 
 ### 6.3.3 Evaluaciones según heurísticas  
+###Problemas detectados:
+
+No parece haber suficientes notificaciones sobre el estado de las reservas
+Los gestores de hotel mencionan la necesidad de recibir notificaciones automáticas
+Falta de confirmación visual durante el proceso de reserva
+
+###Recomendaciones:
+
+Implementar un sistema de notificaciones en tiempo real sobre cambios en reservas
+Mostrar indicadores claros del progreso durante el proceso de reserva
+Incluir confirmaciones visuales cuando se completen acciones importantes
+
+###2. Coincidencia entre el sistema y el mundo real
+Problemas detectados:
+
+Posible uso de terminología hotelera técnica no familiar para usuarios comunes
+Falta de elementos visuales que representen conceptos hoteleros
+
+Recomendaciones:
+
+Utilizar un lenguaje claro y sencillo, evitando jerga técnica
+Implementar iconografía intuitiva que represente conceptos hoteleros
+Organizar la información siguiendo una lógica natural para los usuarios
+
+3. Control y libertad del usuario
+Problemas detectados:
+
+Limitadas opciones de personalización mencionadas por los gestores
+Posibles dificultades para editar o cancelar reservas ya realizadas
+
+Recomendaciones:
+
+Añadir opciones claras para deshacer acciones o volver atrás en el proceso
+Implementar más opciones de personalización como sugieren los gestores
+Facilitar la modificación o cancelación de reservas con procesos simples
 
 ## 6.4 Video About-the-Product
