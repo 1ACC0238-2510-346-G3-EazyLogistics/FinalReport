@@ -367,14 +367,7 @@ GitHub insights del landing page:
 
 
 ### 6.3.2 Registro de Entrevistas  
-| **Datos del entrevistado** | 
-|--------------------------|
-| **Nombre:**  Roberto Franco |
-| **Link del video:**   |
-| **Edad:**  31 años |
-| **Procedencia:**  Lima, San Isidro |
-| ![Entrevista]()|
-| **Resumen:** Roberto Franco es un gestor de hotel en San Isidro, Lima, con cinco años de experiencia en la industria hotelera. Ella administra las reservas directamente en el sistema del hotel y le da mucha importancia a aspectos como el precio, la ubicación y las opiniones de los huéspedes. Aunque se siente cómodo gestionando reservas desde su smartphone, sugiere que las plataformas de reservas hoteleras deberían incluir más opciones de personalización, enviar recordatorios automáticos y ofrecer mayor claridad en las tarifas adicionales. Además, considera esencial recibir notificaciones y tener la opción de comunicarse directamente con los clientes a través de la plataforma. |
+
 #### Entrevista 2
 | **Datos del entrevistado** | 
 |--------------------------|
@@ -382,7 +375,7 @@ GitHub insights del landing page:
 | **Link del video:**  https://drive.google.com/file/d/1uW_-4YnXXOg0ApA_ywYjW2uUettpJj5H/view?usp=sharing |
 | **Edad:**  31 años |
 | **Procedencia:**  Lima, San Isidro |
-| ![Entrevista]()|
+| ![Entrevista]((../images/en2.png))|
 | **Resumen:** Gracie Romero es un gestor de hotel en San Isidro, Lima, con cinco años de experiencia en la industria hotelera. Ella administra las reservas directamente en el sistema del hotel y le da mucha importancia a aspectos como el precio, la ubicación y las opiniones de los huéspedes. Aunque se siente cómodo gestionando reservas desde su smartphone, sugiere que las plataformas de reservas hoteleras deberían incluir más opciones de personalización, enviar recordatorios automáticos y ofrecer mayor claridad en las tarifas adicionales. Además, considera esencial recibir notificaciones y tener la opción de comunicarse directamente con los clientes a través de la plataforma. |
 
 #### Entrevista 3
@@ -390,10 +383,10 @@ GitHub insights del landing page:
 |--------------------------|
 | **Nombre:**  Robert  |
 | **Link del video:**  https://drive.google.com/file/d/1JdN6SU5CO-x4ZKly1RK6HmJvodzBH_jP/view?usp=sharing |
-| **Edad:**  19 años |
+| **Edad:**  22 años |
 | **Procedencia:**  Lima, San Miguel |
-| ![Entrevista]()|
-| **Resumen:** Sebastian Mendez es un gestor de hotel en Lima con 3 años de experiencia en el sector. Maneja las reservas directamente en el sistema del hotel y considera esenciales factores como el precio, la ubicación y los comentarios de los huéspedes. Sugiere que las aplicaciones de reservas deberían ser más visuales, ofreciendo opciones de personalización, recordatorios automáticos y mayor claridad en los cargos adicionales. Para él, es crucial recibir notificaciones y tener la opción de comunicarse de forma directa con los clientes a través de la plataforma. |
+| ![Entrevista]((../images/en3.png))|
+| **Resumen:** Sebastian Mendez es un gestor de hotel en Lima con 4 años de experiencia en el sector. Maneja las reservas directamente en el sistema del hotel y considera esenciales factores como el precio, la ubicación y los comentarios de los huéspedes. Sugiere que las aplicaciones de reservas deberían ser más visuales, ofreciendo opciones de personalización, recordatorios automáticos y mayor claridad en los cargos adicionales. Para él, es crucial recibir notificaciones y tener la opción de comunicarse de forma directa con los clientes a través de la plataforma. |
 
 ## Segmento de huespedes
 
@@ -404,7 +397,7 @@ GitHub insights del landing page:
 | **Link del video:** |
 | **Edad:**  24 años |
 | **Procedencia:**  Lima, Callao |
-| ![Entrevista]()|
+| ![Entrevista]((../images/en4.png))|
 | **Resumen:** Jose Shuan, un estudiante universitario de 24 años que reside en San Miguel, Lima, realiza la mayoría de sus reservas entre los 18 y 20 años, principalmente le gusta  hacer reservas a destinos nuevos , valorando el precio, la ubicación y las opiniones de otros usuarios. Se siente cómodo Logistic Master para realizar reservas, pero sugiere que nuestra plataforma  debería implementar mas facilidad a la hora de completar información detallada  acerca de su reserva. |
 
 #### Entrevista 2
@@ -414,7 +407,7 @@ GitHub insights del landing page:
 | **Link del video:**  https://drive.google.com/file/d/1fjwcqRZr4tD8PcLi_KTUrOpeGgFO1eLM/view?usp=sharing |
 | **Edad:**  20 años |
 | **Procedencia:**  Lima, San Miguel |
-| ![Entrevista]()|
+| ![Entrevista]((../images/en5.png))|
 | **Resumen:** Gael, un estudiante universitario de 19 años que reside en San Miguel, Lima, realiza la mayoría de sus reservas entre los 18 y 20 años, principalmente le gusta  hacer reservas a destinos nuevos pero si no cuenta con mucho tiempo por la universidad prefiere cercanos  , valorando el precio, la ubicación y las opiniones de otros usuarios. Se siente cómodo usando KingReserve para realizar reservas, pero sugiere que nuestra plataforma  debería implementar mas facilidad a la hora de completar información detallada  acerca de su reserva . |
 
 #### Entrevista 3
@@ -424,7 +417,7 @@ GitHub insights del landing page:
 | **Link del video:** https://drive.google.com/file/d/1u0U2Ig1vQRH0oIEyu0Gsy4a9WKeeG95L/view?usp=sharing |
 | **Edad:**  24 años |
 | **Procedencia:**  Lima, San Miguel |
-| ![Entrevista]()|
+| ![Entrevista]((../images/en6.png))|
 | **Resumen:** Gael, un estudiante universitario de 24 años que reside en Callao, Lima, realiza la mayoría de sus reservas entre los 18 y 20 años, principalmente le gusta  hacer reservas a destinos nuevos pero si no cuenta con mucho tiempo por la universidad prefiere cercanos  , valorando el precio, la ubicación y las opiniones de otros usuarios. Se siente cómodo usando Logistic Master para realizar reservas, pero sugiere que nuestra plataforma  debería implementar mas facilidad a la hora de completar información detallada  acerca de su reserva . |
 
 ### 6.3.3 Evaluaciones según heurísticas  
