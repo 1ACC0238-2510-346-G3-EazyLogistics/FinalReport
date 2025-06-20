@@ -288,26 +288,100 @@ Este sprint 1 tuvo como enfoque principal la implementación de la Landing Page,
 ### 6.2.1.7 Software Deployment Evidence for Sprint Review  
 En este Sprint 1, el equipo ha desplegado la Landing Page utilizando github pages. A continuación, se presentan las evidencias de despliegue del Sprint 1, que incluyen capturas de pantalla y pasos detallados del proceso de despliegue.
 1. **Creación del Repositorio**: Se creó un repositorio en GitHub para alojar el código de la Landing Page. El repositorio se llama "LandingPage" y está disponible en la cuenta de GitHub del equipo.
-<br> ![Landing Page Repository](../images/landing_page_repository.png)
+<br> 
 <br> url del repositorio: https://github.com/1ACC0238-2510-346-G3-EazyLogistics/LandingPage
 
 2. **Configuración de GitHub Pages**: Se habilitó la opción de GitHub Pages en la configuración del repositorio. Esto permite que el contenido del repositorio se publique como una página web estática.
-<br> ![GitHub Pages Configuration](../images/github_pages_configuration.png)
-
+<br>
 3. **Despliegue de la Landing Page**: Se subió el código HTML, CSS y JavaScript de la Landing Page al repositorio. GitHub Pages generó automáticamente una URL para acceder a la página.
-<br> ![Landing Page Deployment](../images/landing_page_deployment.png)
+<br>
 
 4. **Acceso a la Landing Page**: La Landing Page se puede acceder a través de la URL proporcionada por GitHub Pages. Esta URL es pública y permite que cualquier persona acceda a la página.
 <br> url de la landing page: https://1acc0238-2510-346-g3-eazylogistics.github.io/LandingPage/
 5. **Evidencia del Despliegue**: Se realizó una captura de pantalla de la Landing Page desplegada para mostrar su apariencia y funcionalidad.
-![Landing Page Deployment Evidence](../images/landing_page_deployed.png)
+
 
 ### 6.2.1.8 Team Collaboration Insights during Sprint  
 Para el desarrollo de este sprint, el equipo designó a un integrante para el desarrollo de las actividades de implementación de la Landing Page.
 
 GitHub insights del landing page:
 
-![GitHub Insights](../images/github_insights.png)
+### 5.2.2. Sprint 2
+#### 6.2.2.3 Sprint Planning 2
+| **Sprint #**                    | Sprint 2                                                                                                                                                                                                                                                                                                                                                                              |
+|---------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Sprint Planning Date**        |        20/06/25                                                                                                                                                                                                                                                                                                                                                         |
+| **Time**                        | 0:12 AM                                                                                                                                                                                                                                                                                                                                                                            |
+| **Location**                    | Google Meet                                                                                                                                                                                                                                                                                                                                                                           |
+| **Prepared By**                 | Joaquin Pedraza                                                                                                                                                                                                                                                                                                                                                                    |
+| **Attendees**                   | Diego Cabrera,Pedro Nanfuñay ,Andrea Santur, Joaquin Pedraza                                                                                                                                                                                                                                                                                                                     |
+| **Sprint Review Summary**       | Se desplego el front end de y se empezo a desarrollar el backend.                                                                                                                                                                                                                                                                                                            |
+| **Sprint Retrospective Summary**| Se desplego el front  end de manera efectivo y se desarrollo el back-end de TocaAqui.Asimismo se aplico las mejoras continuas dadas en el anterior Sprint 2                                                                                                                                                                                                                                                        |
+| **Sprint Goal**                 | En este sprint, el objetivo es desarrollar la lógica y funcionalidades principales del backend de la aplicación web, además de su despliegue. Durante las diversas reuniones del equipo, se asignaron tareas específicas a cada integrante para implementar los servicios del backend. |
+| **Sprint Velocity**             | 30                                                                                                                                                                                                                                                                                                                                                                                    |
+| **Sum of Story Points**         | 30 Story Points                                                                                                                                                                                                                                                                                                                                                                       |
+
+
+#### 6.2.2.3. Sprint Backlog 2
+
+| **User Story Id** | **User Story Title** | **Work-Item/Task Id** | **Work-Item/Task Title** | **Description** | **Estimation** | **Assigned To** | **Status** |
+|:-----------------:|:--------------------:|:---------------------:|:-----------------------:|:---------------:|:--------------:|:--------------:|:----------:|
+| US009 | Selección del tipo de usuario desde la landing | T01 | Selección de tipo de usuarios en la Landing Page | Seleccionar el tipo de usuario a registrar que redirige a la Web Application | 2h | Diego Cabrera | Done |
+| US010 | Registro como artista en la plataforma | T02 | Registro de usuario como artista | Registro de usuario como artista en la página de login | 3h | Diego Cabrera | Done |
+| US011 | Registro como administrador de local | T03 | Registro de usuario como promotor | Registro de usuario como promotor en la página de login | 3h | Diego Cabrera | Done |
+| US024 | Registro de la evaluación del evento | T04 | Registro de comentarios respecto al evento | Registro de comentarios respecto al desempeño del evento finalizado | 4h | Diego Cabrera | Done |
+| US025 | Visualización las evaluaciones del evento | T05 | Visualización de evaluaciones realizadas al evento | Visualización de las evaluaciones y comentarios registrados tras la finalización de un evento | 2h | Diego Cabrera | Done |
+| US026 | Añadir elementos al portafolio | T06 | Registro de elementos al portafolio del usuario | Creación y registro de elementos para el portafolio del usuario | 4h | Pedro Nanfuñay | Done |
+| US027 | Visualización de elementos del portafolio | T07 | Visualización de elementos registrados en el portafolio | Visualización de elementos añadidos al portafolio por el usuario | 3h | Pedro Nanfuñay | Done |
+| US028 | Filtro de eventos por criterios | T08 | Filtrado de búsqueda de eventos por criterios | Filtros de búsqueda de eventos por criterios | 3h | Alessandra Becerra | Done |
+| US029 | Restablecer filtros aplicados | T09 | Restablecer filtros de búsqueda de eventos aplicados | Restablecer filtros de búsqueda aplicados a los eventos disponibles | 2h | Alessandra Becerra | Done |
+| TS001 | Registro de usuario (artista o promotor) a través de un RESTful API | T10 | Registro de usuarios en el web services | Registro de usuarios a través del Web Services | 3h | Pedro Nanfuñay | Done |
+| TS003 | Publicar evento desde un RESTful API | T11 | Registro de un evento en el web services | Publicación de eventos a través del Web Services | 3h | Diego Cabrera | Done |
+| TS011 | Visualización de postulaciones del artista vía RESTful API | T12 | Visualización de postulaciones registradas | Visualización de postulaciones registradas por el músico a través del Web Services | 2h | Joaquin Pedraza | Done |
+| TS012 | Evaluación post-evento mediante RESTful API | T13 | Registro de evaluación de evento | Registro de evaluación tras la finalización del evento a través del Web Services | 2h | Diego Cabrera | Done |
+| TS013 | Carga y edición del perfil artístico vía RESTful API | T14 | Editar información del perfil | Editar información del perfil a través del Web Services | 2h | Pedro Nanfuñay | Done |
+
+
+#### 6.2.2.3. Development Evidence for Sprint Review 2
+| **Repository**     | **Branch** | **Commit Id** | **Commit Message** | **Committed on (Date)** |
+|--------------------|------------|---------------|---------------------|--------------------------|
+|                    |            |               |                     |                          |
+|                    |            |               |                     |                          |
+|                    |            |               |                     |                          |
+|                    |            |               |                     |                          |
+|                    |            |               |                     |                          |
+|                    |            |               |                     |                          |
+|                    |            |               |                     |                          |
+|                    |            |               |                     |                          |
+|                    |            |               |                     |                          |
+|                    |            |               |                     |                          |
+
+
+
+
+#### 6.2.2.4. Testing Suite Evidence for Sprint Review 2
+En este sprint, se ha completado el desarrollo de la landing page. Para su despliegue, se emplearon varias herramientas clave, entre ellas:
+
+
+#### 6.2.2.5. Execution Evidence for Sprint Review 2
+
+Durante el presente sprint, se desarrollaron las principales technical stories para la realización de los servicios web.
+
+
+
+#### 6.2.2.6. Services Documentation Evidence for Sprint Review 2
+
+
+#### 5.2.2.7. Software Deployment Evidence for Sprint Review 2
+
+
+
+#### 6.2.2.8. Team Collaboration Insights during Sprint 2
+
+El equipo trabajó en el desarrollo de la landing page utilizando ramas de cada feature, lo que permitió mejorar, actualizar y realizar modificaciones de manera más organizada. El uso de estas ramas facilita la integración y revisión antes de fusionarlas con la rama principal (main), asegurando que no se introduzcan errores. A continuación, se muestra el network graph y  code frecuency mediante la plataforma GitHub: <br> 
+**Backend**
+
+
 
 ## 6.3 Validation Interviews  
 ### 6.3.1 Diseño de Entrevistas  
