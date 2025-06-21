@@ -288,8 +288,8 @@ Este sprint 1 tuvo como enfoque principal la implementación de la Landing Page,
 ### 6.2.1.7 Software Deployment Evidence for Sprint Review  
 En este Sprint 1, el equipo ha desplegado la Landing Page utilizando github pages. A continuación, se presentan las evidencias de despliegue del Sprint 1, que incluyen capturas de pantalla y pasos detallados del proceso de despliegue.
 1. **Creación del Repositorio**: Se creó un repositorio en GitHub para alojar el código de la Landing Page. El repositorio se llama "LandingPage" y está disponible en la cuenta de GitHub del equipo.
-<br> 
-<br> url del repositorio: https://github.com/1ACC0238-2510-346-G3-EazyLogistics/LandingPage
+
+url del repositorio: https://github.com/1ACC0238-2510-346-G3-EazyLogistics/LandingPage
 
 2. **Configuración de GitHub Pages**: Se habilitó la opción de GitHub Pages en la configuración del repositorio. Esto permite que el contenido del repositorio se publique como una página web estática.
 <br>
@@ -306,87 +306,89 @@ Para el desarrollo de este sprint, el equipo designó a un integrante para el de
 
 GitHub insights del landing page:
 
+![insights 4](../images/insights%204.png)
+
 ### 5.2.2. Sprint 2
 #### 6.2.2.3 Sprint Planning 2
 | **Sprint #**                    | Sprint 2                                                                                                                                                                                                                                                                                                                                                                              |
 |---------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | **Sprint Planning Date**        |        20/06/25                                                                                                                                                                                                                                                                                                                                                         |
-| **Time**                        | 0:12 AM                                                                                                                                                                                                                                                                                                                                                                            |
+| **Time**                        | 11.00  AM                                                                                                                                                                                                                                                                                                                                                                            |
 | **Location**                    | Google Meet                                                                                                                                                                                                                                                                                                                                                                           |
-| **Prepared By**                 | Joaquin Pedraza                                                                                                                                                                                                                                                                                                                                                                    |
-| **Attendees**                   | Diego Cabrera,Pedro Nanfuñay ,Andrea Santur, Joaquin Pedraza                                                                                                                                                                                                                                                                                                                     |
-| **Sprint Review Summary**       | Se desplego el front end de y se empezo a desarrollar el backend.                                                                                                                                                                                                                                                                                                            |
-| **Sprint Retrospective Summary**| Se desplego el front  end de manera efectivo y se desarrollo el back-end de TocaAqui.Asimismo se aplico las mejoras continuas dadas en el anterior Sprint 2                                                                                                                                                                                                                                                        |
-| **Sprint Goal**                 | En este sprint, el objetivo es desarrollar la lógica y funcionalidades principales del backend de la aplicación web, además de su despliegue. Durante las diversas reuniones del equipo, se asignaron tareas específicas a cada integrante para implementar los servicios del backend. |
-| **Sprint Velocity**             | 30                                                                                                                                                                                                                                                                                                                                                                                    |
-| **Sum of Story Points**         | 30 Story Points                                                                                                                                                                                                                                                                                                                                                                       |
+| **Prepared By**                 | Mathias Vasquez                                                                                                                                                                                                                                                                                                                                                                    |
+| **Attendees**                   | Gabriel, Fabian, Jose y Joaquin.                                                                                                                                                                                                                                                                                                                    |
+| **Sprint Review Summary**       | Se desarollo casi en su totalidad la aplicacion en Android Studio y se avanzó la misma en Flutter.                                                                                                                                                                                                                                                                                                            |
+| **Sprint Retrospective Summary**| Se desarrollo la aplicacion de Android Studio en poco tiempo pero puede mejorar la organizacion.                                                                                                                                                                                                                                                        |
+| **Sprint Goal**                 | En este sprint, el objetivo es desarrollar la lógica y funcionalidades principales de la aplicacion moviel en Android Studio. |
+| **Sprint Velocity**             | 25                                                                                                                                                                                                                                                                                                                                                                                    |
+| **Sum of Story Points**         | 25 Story Points                                                                                                                                                                                                                                                                                                                                                                       |
 
 
 #### 6.2.2.3. Sprint Backlog 2
 
 | **User Story Id** | **User Story Title** | **Work-Item/Task Id** | **Work-Item/Task Title** | **Description** | **Estimation** | **Assigned To** | **Status** |
 |:-----------------:|:--------------------:|:---------------------:|:-----------------------:|:---------------:|:--------------:|:--------------:|:----------:|
-| US009 | Selección del tipo de usuario desde la landing | T01 | Selección de tipo de usuarios en la Landing Page | Seleccionar el tipo de usuario a registrar que redirige a la Web Application | 2h | Diego Cabrera | Done |
-| US010 | Registro como artista en la plataforma | T02 | Registro de usuario como artista | Registro de usuario como artista en la página de login | 3h | Diego Cabrera | Done |
-| US011 | Registro como administrador de local | T03 | Registro de usuario como promotor | Registro de usuario como promotor en la página de login | 3h | Diego Cabrera | Done |
-| US024 | Registro de la evaluación del evento | T04 | Registro de comentarios respecto al evento | Registro de comentarios respecto al desempeño del evento finalizado | 4h | Diego Cabrera | Done |
-| US025 | Visualización las evaluaciones del evento | T05 | Visualización de evaluaciones realizadas al evento | Visualización de las evaluaciones y comentarios registrados tras la finalización de un evento | 2h | Diego Cabrera | Done |
-| US026 | Añadir elementos al portafolio | T06 | Registro de elementos al portafolio del usuario | Creación y registro de elementos para el portafolio del usuario | 4h | Pedro Nanfuñay | Done |
-| US027 | Visualización de elementos del portafolio | T07 | Visualización de elementos registrados en el portafolio | Visualización de elementos añadidos al portafolio por el usuario | 3h | Pedro Nanfuñay | Done |
-| US028 | Filtro de eventos por criterios | T08 | Filtrado de búsqueda de eventos por criterios | Filtros de búsqueda de eventos por criterios | 3h | Alessandra Becerra | Done |
-| US029 | Restablecer filtros aplicados | T09 | Restablecer filtros de búsqueda de eventos aplicados | Restablecer filtros de búsqueda aplicados a los eventos disponibles | 2h | Alessandra Becerra | Done |
-| TS001 | Registro de usuario (artista o promotor) a través de un RESTful API | T10 | Registro de usuarios en el web services | Registro de usuarios a través del Web Services | 3h | Pedro Nanfuñay | Done |
-| TS003 | Publicar evento desde un RESTful API | T11 | Registro de un evento en el web services | Publicación de eventos a través del Web Services | 3h | Diego Cabrera | Done |
-| TS011 | Visualización de postulaciones del artista vía RESTful API | T12 | Visualización de postulaciones registradas | Visualización de postulaciones registradas por el músico a través del Web Services | 2h | Joaquin Pedraza | Done |
-| TS012 | Evaluación post-evento mediante RESTful API | T13 | Registro de evaluación de evento | Registro de evaluación tras la finalización del evento a través del Web Services | 2h | Diego Cabrera | Done |
-| TS013 | Carga y edición del perfil artístico vía RESTful API | T14 | Editar información del perfil | Editar información del perfil a través del Web Services | 2h | Pedro Nanfuñay | Done |
+| US016 | Actualizar Contenido | T01 | Actualizar Contenido | Como administrador, quiero poder actualizar el contenido existente para mantener la información relevante y actualizada. | 2h | Mathias Vasquez | Done |
+| US017 | Eliminar Contenido | T02 | Eliminar Contenido | Como administrador, quiero poder eliminar contenido obsoleto para mantener la información actualizada en la aplicación. | 3h | Mathias Vasquez | Done |
+| US014 | Crear Contenido | T03 | Crear Contenido | Como administrador, quiero poder crear nuevo contenido para mantener la información actualizada en la aplicación | 3h | Jose Luza | Done |
+| TS029 | Crear Usuario | T04 | Crear Usuario | Como desarrollador, quiero crear un endpoint para registrar nuevos usuarios en el sistema. | 4h | Mathias Vasquez | Done |
+| TS030 | Autenticar Usuario | T05 | Autenticar Usuario | Como desarrollador, quiero crear un endpoint para autenticar usuarios y generar tokens de acceso. | 2h | Mathias Vasquez | Done |
+| TS031 | Crear Huésped | T06 | Crear Huésped | Como desarrollador, quiero crear un endpoint para registrar nuevos huéspedes en el sistema. | 4h | Joaquin Pedraza | Done |
+| TS033 | Crear Habitación | T07 | Crear Habitación | Como desarrollador, quiero crear un endpoint para registrar nuevas habitaciones en el sistema. | 3h | Joaquin Pedraza | Done |
+| US028 | Filtro de eventos por criterios | T08 | Filtrado de búsqueda de eventos por criterios | Filtros de búsqueda de eventos por criterios | 3h | Jose Luza | Done |
+| US029 | Restablecer filtros aplicados | T09 | Restablecer filtros de búsqueda de eventos aplicados | Restablecer filtros de búsqueda aplicados a los eventos disponibles | 2h | Jose Luza | Done |
+
 
 
 #### 6.2.2.3. Development Evidence for Sprint Review 2
 | **Repository**     | **Branch** | **Commit Id** | **Commit Message** | **Committed on (Date)** |
 |--------------------|------------|---------------|---------------------|--------------------------|
-|                    |            |               |                     |                          |
-|                    |            |               |                     |                          |
-|                    |            |               |                     |                          |
-|                    |            |               |                     |                          |
-|                    |            |               |                     |                          |
-|                    |            |               |                     |                          |
-|                    |            |               |                     |                          |
-|                    |            |               |                     |                          |
-|                    |            |               |                     |                          |
-|                    |            |               |                     |                          |
+|1ACC0238-2510-346-G3-EazyLogistics Android-Studio          |     main    |   2c07d4e2294e8851fd164c26ec4c7f82c0ac5172    |     Feat(main) Adedd Personal Management View and Menu     |     06/20/2025                  |
+|1ACC0238-2510-346-G3-EazyLogistics Android-Studio                |   main         |    011272124ae79ce841d012de3c5cad8d4a942df2           |      Feat(Main) Fixed LoginScreen               |       06/20/2025                     |
+|1ACC0238-2510-346-G3-EazyLogistics Android-Studio               |   main         |   78953ca36fbeda1692105e7f123420991e122d4f            |    add: 4 views for front                 |       06/20/2025                     |
+|1ACC0238-2510-346-G3-EazyLogistics Android-Studio             |    main        |     f398972ec9d3a6be8f331a0006fb232960e00e31          |     add: routes and conecctions between views                |          06/20/2025                  |
+|1ACC0238-2510-346-G3-EazyLogistics Android-Studio                    | main           |   34f9575a7437a1c380237d9e2e8912b45b042dd3            |     fix: styles in views                |          06/20/2025                  |
+|1ACC0238-2510-346-G3-EazyLogistics Android-Studio                    |  main          |  cbe30081e4693945533d4eba3868d21dab6d70ad             |   fix: styles for views v.2                  |          06/20/2025                  |
+|1ACC0238-2510-346-G3-EazyLogistics Android-Studio                    |  main          |  86df6e913e399349b6e2c2f7d7401fa8f716cefe             |      fix: styles for views v.3               |       06/20/2025                     |
+|1ACC0238-2510-346-G3-EazyLogistics Android-Studio                    |   main         |  c2d6ae9456a64000a456df7110abc55bea5c7a4e             |         Feat(main) AdeddModels            |       06/20/2025                     |
+|1ACC0238-2510-346-G3-EazyLogistics Android-Studio                    |    main        |   a2797b3698e3e9f4a2a3eb911712e818908a116b            |      add: icon for the project               |      06/20/2025                      |
+|1ACC0238-2510-346-G3-EazyLogistics Android-Studio                    |   main         |  9dd0e735b40e5c79b90f115e097ed98c0395da03             |   Merge remote-tracking branch 'origin/main'                  |        06/20/2025                    |
 
 
 
 
 #### 6.2.2.4. Testing Suite Evidence for Sprint Review 2
-En este sprint, se ha completado el desarrollo de la landing page. Para su despliegue, se emplearon varias herramientas clave, entre ellas:
+En este sprint, se ha completado el desarrollo de la aplicacion en Android Studio y tambien en flutter aunque este ultimo es un avance, aqui estan los repositorios de cada uno.
 
+Link de la aplicacion en Android Studio: https://github.com/1ACC0238-2510-346-G3-EazyLogistics/Android-Studio
+Link de la aplicacion en Flutter: https://github.com/1ACC0238-2510-346-G3-EazyLogistics/FlutterMobileApp
 
 #### 6.2.2.5. Execution Evidence for Sprint Review 2
 
-Durante el presente sprint, se desarrollaron las principales technical stories para la realización de los servicios web.
-
-
+Durante el presente sprint, se desarrollaron las principales technical stories para la realización de la aplicacion movil en Android Studio
 
 #### 6.2.2.6. Services Documentation Evidence for Sprint Review 2
 
+Este sprint 2 tuvo como enfoque principal completar la aplicacion de Android Studio que aunque nuestra aplicacion no este al 100%, va en la etapa final de desarrollo, La documentación de Endpoints con OpenAPI y los detalles relacionados seran detallados en la entrega final.
 
-#### 5.2.2.7. Software Deployment Evidence for Sprint Review 2
+#### 6.2.2.7. Software Deployment Evidence for Sprint Review 2
 
-
+![evidence 1](../images/examples1.png)
+![evidence 2](../images/examples2.png)
+![evidence 3](../images/examples%203.png)
 
 #### 6.2.2.8. Team Collaboration Insights during Sprint 2
 
-El equipo trabajó en el desarrollo de la landing page utilizando ramas de cada feature, lo que permitió mejorar, actualizar y realizar modificaciones de manera más organizada. El uso de estas ramas facilita la integración y revisión antes de fusionarlas con la rama principal (main), asegurando que no se introduzcan errores. A continuación, se muestra el network graph y  code frecuency mediante la plataforma GitHub: <br> 
-**Backend**
+El equipo trabajó en el desarrollo de la landing page utilizando ramas de cada feature, lo que permitió mejorar, actualizar y realizar modificaciones de manera más organizada. El uso de estas ramas facilita la integración y revisión antes de fusionarlas con la rama principal (main), asegurando que no se introduzcan errores. A continuación, se muestra el network graph y  code frecuency mediante la plataforma GitHub:
+<br> 
 
-
+![Insight 1](../images/insights%201.png)
+![insights 2](../images/insights%202.png)
+![insights 3 ](../images/insights%203.png)
 
 ## 6.3 Validation Interviews  
 ### 6.3.1 Diseño de Entrevistas  
-## 1. Preguntas para Gestores de Empresas Hoteleras
-
+#### 1. Preguntas para Gestores de Empresas Hoteleras
 #### 1.1 Información Demográfica
 
 | **Categoría**                   | **Preguntas**                                                                                                                               |
@@ -442,94 +444,48 @@ El equipo trabajó en el desarrollo de la landing page utilizando ramas de cada 
 
 ### 6.3.2 Registro de Entrevistas  
 
+#### Entrevista 1
+| **Datos del entrevistado** | 
+|--------------------------|
+| **Nombre:**  Miguel Polo |
+| **Link del video:**  https://youtu.be/mzMYdfkO-wQ |
+| **Edad:**  31 años |
+| **Procedencia:**  Lima, San Isidro |
+| ![Entrevista](../images/Entrevista1.1.png)|
+| **Resumen:** Ramiro es un gestor de hotel en San Isidro, Lima, con cinco años de experiencia en la industria hotelera. El administra las reservas directamente en el sistema del hotel y le da mucha importancia a aspectos como el precio, la ubicación y las opiniones de los huéspedes. Aunque se siente cómodo gestionando reservas desde su smartphone, sugiere que las plataformas de reservas hoteleras deberían incluir más opciones de personalización, enviar recordatorios automáticos y ofrecer mayor claridad en las tarifas adicionales. Además, considera esencial recibir notificaciones y tener la opción de comunicarse directamente con los clientes a través de la plataforma. |
+
 #### Entrevista 2
 | **Datos del entrevistado** | 
 |--------------------------|
-| **Nombre:**  Ramiro Guzman |
-| **Link del video:**  https://drive.google.com/file/d/1uW_-4YnXXOg0ApA_ywYjW2uUettpJj5H/view?usp=sharing |
-| **Edad:**  31 años |
-| **Procedencia:**  Lima, San Isidro |
-| ![Entrevista](https://acortar.link/CdIDcC)|
-| **Resumen:** Ramiro es un gestor de hotel en San Isidro, Lima, con cinco años de experiencia en la industria hotelera. El administra las reservas directamente en el sistema del hotel y le da mucha importancia a aspectos como el precio, la ubicación y las opiniones de los huéspedes. Aunque se siente cómodo gestionando reservas desde su smartphone, sugiere que las plataformas de reservas hoteleras deberían incluir más opciones de personalización, enviar recordatorios automáticos y ofrecer mayor claridad en las tarifas adicionales. Además, considera esencial recibir notificaciones y tener la opción de comunicarse directamente con los clientes a través de la plataforma. |
-
-#### Entrevista 3
-| **Datos del entrevistado** | 
-|--------------------------|
-| **Nombre:**  Robert  |
-| **Link del video:**  https://drive.google.com/file/d/1JdN6SU5CO-x4ZKly1RK6HmJvodzBH_jP/view?usp=sharing |
+| **Nombre:**  Aaron  |
+| **Link del video:**  https://youtu.be/_SB_7uG-c-I|
 | **Edad:**  22 años |
 | **Procedencia:**  Lima, Villa Salvador |
-| ![Entrevista](https://acortar.link/cq1cSx)|
+| ![Entrevista](../images/Entrevista2.2.png)|
 | **Resumen:** Roberto Franco  es un gestor de hotel en Lima con 4 años de experiencia en el sector. Maneja las reservas directamente en el sistema del hotel y considera esenciales factores como el precio, la ubicación y los comentarios de los huéspedes. Sugiere que las aplicaciones de reservas deberían ser más visuales, ofreciendo opciones de personalización, recordatorios automáticos y mayor claridad en los cargos adicionales. Para él, es crucial recibir notificaciones y tener la opción de comunicarse de forma directa con los clientes a través de la plataforma. |
 
 ## Segmento de huespedes
 
-#### Entrevista 1
-| **Datos del entrevistado** | 
-|--------------------------|
-| **Nombre:**  Jose Shuan https://drive.google.com/file/d/12Gblup5lzNwCtT7oSoEso5_v_I2aiBNs/view?usp=sharing  |
-| **Link del video:** |
-| **Edad:**  24 años |
-| **Procedencia:**  Lima, Callao |
-| ![Entrevista]([![en4.png](https://acortar.link/E6Duzf)|
-| **Resumen:** Jose Shuan, un estudiante universitario de 24 años que reside en San Miguel, Lima, realiza la mayoría de sus reservas entre los 18 y 20 años, principalmente le gusta  hacer reservas a destinos nuevos , valorando el precio, la ubicación y las opiniones de otros usuarios. Se siente cómodo Logistic Master para realizar reservas, pero sugiere que nuestra plataforma  debería implementar mas facilidad a la hora de completar información detallada  acerca de su reserva. |
-
-#### Entrevista 2
-| **Datos del entrevistado** | 
-|--------------------------|
-| **Nombre:**  Lopez Diaz Gael Dario |
-| **Link del video:**  https://drive.google.com/file/d/1fjwcqRZr4tD8PcLi_KTUrOpeGgFO1eLM/view?usp=sharing |
-| **Edad:**  20 años |
-| **Procedencia:**  Lima, San Miguel |
-| ![Entrevista](https://acortar.link/Ze3QKo))|
-| **Resumen:** Gael, un estudiante universitario de 19 años que reside en San Miguel, Lima, realiza la mayoría de sus reservas entre los 18 y 20 años, principalmente le gusta  hacer reservas a destinos nuevos pero si no cuenta con mucho tiempo por la universidad prefiere cercanos  , valorando el precio, la ubicación y las opiniones de otros usuarios. Se siente Logistic Master cómodo usando  para realizar reservas, pero sugiere que nuestra plataforma  debería implementar mas facilidad a la hora de completar información detallada  acerca de su reserva . |
-
 #### Entrevista 3
 | **Datos del entrevistado** | 
 |--------------------------|
-| **Nombre:**  Marcel |
-| **Link del video:** https://drive.google.com/file/d/1u0U2Ig1vQRH0oIEyu0Gsy4a9WKeeG95L/view?usp=sharing |
+| **Nombre:**  Jose Shuan https://youtu.be/PHPDHfchmEA  |
+| **Link del video:** |
 | **Edad:**  24 años |
+| **Procedencia:**  Lima, Callao |
+| ![Entrevista](../images/Entrevista3.3.png)|
+| **Resumen:** Jose Shuan, un estudiante universitario de 24 años que reside en San Miguel, Lima, realiza la mayoría de sus reservas entre los 18 y 20 años, principalmente le gusta  hacer reservas a destinos nuevos , valorando el precio, la ubicación y las opiniones de otros usuarios. Se siente cómodo Logistic Master para realizar reservas, pero sugiere que nuestra plataforma  debería implementar mas facilidad a la hora de completar información detallada  acerca de su reserva. |
+
+#### Entrevista 4
+| **Datos del entrevistado** | 
+|--------------------------|
+| **Nombre:**  Lopez Diaz Gael Dario |
+| **Link del video:**  https://youtu.be/tG7F4AsYnO8 |
+| **Edad:**  20 años |
 | **Procedencia:**  Lima, San Miguel |
-| ![Entrevista](https://acortar.link/F2nT3r)|
-| **Resumen:** Marcel, un estudiante universitario de 24 años que reside en Callao, Lima, realiza la mayoría de sus reservas entre 22-24 años, principalmente le gusta  hacer reservas a destinos nuevos pero si no cuenta con mucho tiempo por la universidad prefiere cercanos  . Sugiere mejorar el tiempo de respuesta de la aplicacion|
+| ![Entrevista](../images/Entrevista4.4.png)|
+| **Resumen:** Gael, un estudiante universitario de 19 años que reside en San Miguel, Lima, realiza la mayoría de sus reservas entre los 18 y 20 años, principalmente le gusta  hacer reservas a destinos nuevos pero si no cuenta con mucho tiempo por la universidad prefiere cercanos  , valorando el precio, la ubicación y las opiniones de otros usuarios. Se siente Logistic Master cómodo usando  para realizar reservas, pero sugiere que nuestra plataforma  debería implementar mas facilidad a la hora de completar información detallada  acerca de su reserva . |
 
-### 6.3.3 Evaluaciones según heurísticas  
-### Problemas detectados:
-
-No parece haber suficientes notificaciones sobre el estado de las reservas
-Los gestores de hotel mencionan la necesidad de recibir notificaciones automáticas
-Falta de confirmación visual durante el proceso de reserva
-
-### Recomendaciones:
-
-Implementar un sistema de notificaciones en tiempo real sobre cambios en reservas
-Mostrar indicadores claros del progreso durante el proceso de reserva
-Incluir confirmaciones visuales cuando se completen acciones importantes
-
-### 2. Coincidencia entre el sistema y el mundo real
-Problemas detectados:
-
-Posible uso de terminología hotelera técnica no familiar para usuarios comunes
-Falta de elementos visuales que representen conceptos hoteleros
-
-Recomendaciones:
-
-Utilizar un lenguaje claro y sencillo, evitando jerga técnica
-Implementar iconografía intuitiva que represente conceptos hoteleros
-Organizar la información siguiendo una lógica natural para los usuarios
-
-### 3. Control y libertad del usuario
-Problemas detectados:
-
-Limitadas opciones de personalización mencionadas por los gestores
-Posibles dificultades para editar o cancelar reservas ya realizadas
-
-Recomendaciones:
-
-Añadir opciones claras para deshacer acciones o volver atrás en el proceso
-Implementar más opciones de personalización como sugieren los gestores
-Facilitar la modificación o cancelación de reservas con procesos simples
 
 ## 6.4 Video About-the-Product
 
