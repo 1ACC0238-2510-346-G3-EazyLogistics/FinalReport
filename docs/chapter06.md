@@ -308,7 +308,7 @@ GitHub insights del landing page:
 
 ![insights 4](../images/insights%204.png)
 
-### 5.2.2. Sprint 2
+### 6.2.2. Sprint 2
 #### 6.2.2.3 Sprint Planning 2
 | **Sprint #**                    | Sprint 2                                                                                                                                                                                                                                                                                                                                                                              |
 |---------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -485,6 +485,85 @@ El equipo trabajó en el desarrollo de la landing page utilizando ramas de cada 
 | **Procedencia:**  Lima, San Miguel |
 | ![Entrevista](../images/Entrevista4.4.png)|
 | **Resumen:** Gael, un estudiante universitario de 19 años que reside en San Miguel, Lima, realiza la mayoría de sus reservas entre los 18 y 20 años, principalmente le gusta  hacer reservas a destinos nuevos pero si no cuenta con mucho tiempo por la universidad prefiere cercanos  , valorando el precio, la ubicación y las opiniones de otros usuarios. Se siente Logistic Master cómodo usando  para realizar reservas, pero sugiere que nuestra plataforma  debería implementar mas facilidad a la hora de completar información detallada  acerca de su reserva . |
+
+
+### 6.2.3. Sprint 3
+#### 6.2.3.3 Sprint Planning 3
+| **Sprint #**                    | Sprint 2                                                                                                                                                                                                                                                                                                                                                                              |
+|---------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Sprint Planning Date**        |        20/07/08                                                                                                                                                                                                                                                                                                                                                         |
+| **Time**                        | 23.00                                                                                                                                                                                                                                                                                                                                                                              |
+| **Location**                    | Google Meet                                                                                                                                                                                                                                                                                                                                                                           |
+| **Prepared By**                 | Mathias Vasquez                                                                                                                                                                                                                                                                                                                                                                    |
+| **Attendees**                   | Gabriel, Fabian, Jose y Joaquin.                                                                                                                                                                                                                                                                                                                    |
+| **Sprint Review Summary**       | Se desarollo casi en su totalidad la aplicacion en Android Studio y se avanzó la misma en Flutter.                                                                                                                                                                                                                                                                                                            |
+| **Sprint Retrospective Summary**| Se desarrollo la aplicacion de Android Studio en poco tiempo pero puede mejorar la organizacion.                                                                                                                                                                                                                                                        |
+| **Sprint Goal**                 | En este sprint, el objetivo es desarrollar la lógica y funcionalidades principales de la aplicacion moviel en Android Studio. |
+| **Sprint Velocity**             | 25                                                                                                                                                                                                                                                                                                                                                                                    |
+| **Sum of Story Points**         | 25 Story Points                                                                                                                                                                                                                                                                                                                                                                       |
+
+
+#### 6.2.2.3. Sprint Backlog 3
+
+| **User Story Id** | **User Story Title** | **Work-Item/Task Id** | **Work-Item/Task Title** | **Description** | **Estimation** | **Assigned To** | **Status** |
+|:-----------------:|:--------------------:|:---------------------:|:-----------------------:|:---------------:|:--------------:|:--------------:|:----------:|
+| US016 | Actualizar Contenido | T01 | Actualizar Contenido | Como administrador, quiero poder actualizar el contenido existente para mantener la información relevante y actualizada. | 2h | Mathias Vasquez | Done |
+| US017 | Eliminar Contenido | T02 | Eliminar Contenido | Como administrador, quiero poder eliminar contenido obsoleto para mantener la información actualizada en la aplicación. | 3h | Mathias Vasquez | Done |
+| US014 | Crear Contenido | T03 | Crear Contenido | Como administrador, quiero poder crear nuevo contenido para mantener la información actualizada en la aplicación | 3h | Jose Luza | Done |
+| TS029 | Crear Usuario | T04 | Crear Usuario | Como desarrollador, quiero crear un endpoint para registrar nuevos usuarios en el sistema. | 4h | Mathias Vasquez | Done |
+| TS030 | Autenticar Usuario | T05 | Autenticar Usuario | Como desarrollador, quiero crear un endpoint para autenticar usuarios y generar tokens de acceso. | 2h | Mathias Vasquez | Done |
+| TS031 | Crear Huésped | T06 | Crear Huésped | Como desarrollador, quiero crear un endpoint para registrar nuevos huéspedes en el sistema. | 4h | Joaquin Pedraza | Done |
+| TS033 | Crear Habitación | T07 | Crear Habitación | Como desarrollador, quiero crear un endpoint para registrar nuevas habitaciones en el sistema. | 3h | Joaquin Pedraza | Done |
+| US028 | Filtro de eventos por criterios | T08 | Filtrado de búsqueda de eventos por criterios | Filtros de búsqueda de eventos por criterios | 3h | Jose Luza | Done |
+| US029 | Restablecer filtros aplicados | T09 | Restablecer filtros de búsqueda de eventos aplicados | Restablecer filtros de búsqueda aplicados a los eventos disponibles | 2h | Jose Luza | Done |
+
+
+
+#### 6.2.2.3. Development Evidence for Sprint Review 3
+| **Repository**     | **Branch** | **Commit Id** | **Commit Message** | **Committed on (Date)** |
+|--------------------|------------|---------------|---------------------|--------------------------|
+|1ACC0238-2510-346-G3-EazyLogistics Android-Studio          |     main    |   2c07d4e2294e8851fd164c26ec4c7f82c0ac5172    |     Feat(main) Adedd Personal Management View and Menu     |     06/20/2025                  |
+|1ACC0238-2510-346-G3-EazyLogistics Android-Studio                |   main         |    011272124ae79ce841d012de3c5cad8d4a942df2           |      Feat(Main) Fixed LoginScreen               |       06/20/2025                     |
+|1ACC0238-2510-346-G3-EazyLogistics Android-Studio               |   main         |   78953ca36fbeda1692105e7f123420991e122d4f            |    add: 4 views for front                 |       06/20/2025                     |
+|1ACC0238-2510-346-G3-EazyLogistics Android-Studio             |    main        |     f398972ec9d3a6be8f331a0006fb232960e00e31          |     add: routes and conecctions between views                |          06/20/2025                  |
+|1ACC0238-2510-346-G3-EazyLogistics Android-Studio                    | main           |   34f9575a7437a1c380237d9e2e8912b45b042dd3            |     fix: styles in views                |          06/20/2025                  |
+|1ACC0238-2510-346-G3-EazyLogistics Android-Studio                    |  main          |  cbe30081e4693945533d4eba3868d21dab6d70ad             |   fix: styles for views v.2                  |          06/20/2025                  |
+|1ACC0238-2510-346-G3-EazyLogistics Android-Studio                    |  main          |  86df6e913e399349b6e2c2f7d7401fa8f716cefe             |      fix: styles for views v.3               |       06/20/2025                     |
+|1ACC0238-2510-346-G3-EazyLogistics Android-Studio                    |   main         |  c2d6ae9456a64000a456df7110abc55bea5c7a4e             |         Feat(main) AdeddModels            |       06/20/2025                     |
+|1ACC0238-2510-346-G3-EazyLogistics Android-Studio                    |    main        |   a2797b3698e3e9f4a2a3eb911712e818908a116b            |      add: icon for the project               |      06/20/2025                      |
+|1ACC0238-2510-346-G3-EazyLogistics Android-Studio                    |   main         |  9dd0e735b40e5c79b90f115e097ed98c0395da03             |   Merge remote-tracking branch 'origin/main'                  |        06/20/2025                    |
+
+
+
+
+#### 6.2.2.4. Testing Suite Evidence for Sprint Review 3
+En este sprint, se ha completado el desarrollo de la aplicacion en Android Studio y tambien en flutter aunque este ultimo es un avance, aqui estan los repositorios de cada uno.
+
+Link de la aplicacion en Android Studio: https://github.com/1ACC0238-2510-346-G3-EazyLogistics/Android-Studio
+Link de la aplicacion en Flutter: https://github.com/1ACC0238-2510-346-G3-EazyLogistics/FlutterMobileApp
+
+#### 6.2.2.5. Execution Evidence for Sprint Review 3
+
+Durante el presente sprint, se desarrollaron las principales technical stories para la realización de la aplicacion movil en Android Studio
+
+#### 6.2.3.6. Services Documentation Evidence for Sprint Review 3
+
+Este sprint 3 tuvo como enfoque principal completar la aplicacion de Android Studio al 100%, por otro lado nuestra aplicacion en Flutter va en la etapa final de desarrollo, La documentación de Endpoints con OpenAPI y los detalles relacionados seran detallados en la entrega final.
+
+#### 6.2.2.7. Software Deployment Evidence for Sprint Review 3
+
+![evidence 1](../images/examples1.png)
+![evidence 2](../images/examples2.png)
+![evidence 3](../images/examples%203.png)
+
+#### 6.2.2.8. Team Collaboration Insights during Sprint 3
+
+El equipo trabajó en el desarrollo de la landing page utilizando ramas de cada feature, lo que permitió mejorar, actualizar y realizar modificaciones de manera más organizada. El uso de estas ramas facilita la integración y revisión antes de fusionarlas con la rama principal (main), asegurando que no se introduzcan errores. A continuación, se muestra el network graph y  code frecuency mediante la plataforma GitHub:
+<br> 
+
+![Insight 1](../images/insights%201.png)
+![insights 2](../images/insights%202.png)
+![insights 3 ](../images/insights%203.png)
 
 
 ## 6.4 Video About-the-Product
