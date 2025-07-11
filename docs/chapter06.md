@@ -560,30 +560,36 @@ Durante el presente sprint, se desarrollaron las principales technical stories p
 ### Segmento de Huespedes (Flutter):
 ### Pantalla de Descubrimiento 
 Muestra una bienvenida personalizada al huésped, con una barra de búsqueda y secciones de hoteles recomendados y populares, incluyendo precios y calificaciones.
-![evidence 1](../images/evidencee1.jpg)
-
+![evidence 1](../images/descubrir.png)
+![evidence 1](../images/descubrir2.png)
+![evidence 1](../images/descubrir3.png)
 ### Pantalla de Favoritos (Favorite Hotels):
 Lista los hoteles guardados como favoritos por el huésped, con la opción de reservar directamente desde allí.
 
-![evidence 1](../images/evidencee1.jpg)
+![evidence 1](../images/favoritos.png)
+### Sección Booking 
+![evidence 1](../images/booking1.png)
+![evidence 1](../images/booking2.png)
 ### Selección de Fechas (Select Date):
 Muestra un calendario donde el huésped elige la fecha de check-in y check-out antes de continuar con la reserva.
-![evidence 1](../images/evidencee1.jpg)
+![evidence 1](../images/booking3.png)
 ### Selección de Huéspedes (Select Guests):
 Permite seleccionar cuántos adultos, niños e infantes se hospedarán, ajustando la reserva según el grupo.
-![evidence 1](../images/evidencee1.jpg)
+![evidence 1](../images/booking4.png)
 ### Confirmar y Pagar (Confirm & Pay):
 Resumen final de la reserva con detalles de fechas, huéspedes y pago. El huésped puede elegir el método de pago y finalizar la transacción.
-![evidence 1](../images/evidencee1.jpg)
+![evidence 1](../images/payment1.png)
 ### Política de Privacidad (Privacy Policy):
 Explica cómo se recopila, usa y protege la información personal del huésped dentro de la app.
-![evidence 1](../images/evidencee1.jpg)
+![evidence 1](../images/privacy.png)
 ### Términos y Condiciones (Terms & Conditions):
 Describe las reglas del uso de la app, incluyendo la creación de cuentas, uso de contenido y cambios en los términos.
-![evidence 1](../images/evidencee1.jpg)
+![evidence 1](../images/terminos.png)
 ### Métodos de Pago (Payment Methods):
 Muestra las tarjetas registradas del huésped y permite agregar nuevas para usarlas en futuras reservas.
-![evidence 1](../images/evidencee1.jpg)
+![evidence 1](../images/payment2.png)
+### Sección perfil de usuario
+![evidence 1](../images/perfil.png)
 #### 6.2.3.6. Services Documentation Evidence for Sprint Review 3
 
 Este sprint 3 tuvo como enfoque principal completar la aplicacion de Flutter al 100%  y realizar la documentación de Endpoints con OpenAPI y los detalles relacionados seran detallados en la entrega final.<br>
