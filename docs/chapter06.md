@@ -542,9 +542,22 @@ En este sprint, se ha completado el desarrollo de la aplicacion en Android Studi
 Link de la aplicacion en Android Studio: https://github.com/1ACC0238-2510-346-G3-EazyLogistics/Android-Studio
 Link de la aplicacion en Flutter: https://github.com/1ACC0238-2510-346-G3-EazyLogistics/FlutterMobileApp
 
+![evidence 1](../images/evidencee1.jpg)
+
+![evidence 1](../images/evidencee2.jpg)
+
+![evidence 1](../images/evidencee3.jpg)
+
+![evidence 1](../images/evidencee4.jpg)
+
+![evidence 1](../images/evidencee5.jpg)
+
+![evidence 1](../images/evidencee6.jpg)
+
 #### 6.2.2.5. Execution Evidence for Sprint Review 3
 
 Durante el presente sprint, se desarrollaron las principales technical stories para la realización de la aplicacion movil en Android Studio
+
 
 #### 6.2.3.6. Services Documentation Evidence for Sprint Review 3
 
