@@ -560,7 +560,15 @@ Durante el presente sprint, se desarrollaron las principales technical stories p
 
 #### 6.2.3.6. Services Documentation Evidence for Sprint Review 3
 
-Este sprint 3 tuvo como enfoque principal completar la aplicacion de Android Studio al 100%, por otro lado nuestra aplicacion en Flutter va en la etapa final de desarrollo, La documentación de Endpoints con OpenAPI y los detalles relacionados seran detallados en la entrega final.
+Este sprint 3 tuvo como enfoque principal completar la aplicacion de Flutter al 100%  y realizar la documentación de Endpoints con OpenAPI y los detalles relacionados seran detallados en la entrega final.<br>
+Evidencia del despliegue de la base de datos 
+![evidence 1](../images/evidencee1.jpg)
+
+Evidencia del correcto guardado en la base de datos 
+![evidence 1](../images/evidencee1.jpg)
+![evidence 1](../images/evidencee1.jpg)
+
+Link de la base de datos desplegada : http://20.57.133.61:8080/swagger-ui/index.html
 
 #### 6.2.2.7. Software Deployment Evidence for Sprint Review 3
 
