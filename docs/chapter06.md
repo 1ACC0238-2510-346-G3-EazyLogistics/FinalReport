@@ -555,9 +555,35 @@ Link de la aplicacion en Flutter: https://github.com/1ACC0238-2510-346-G3-EazyLo
 
 #### 6.2.2.5. Execution Evidence for Sprint Review 3
 
-Durante el presente sprint, se desarrollaron las principales technical stories para la realización de la aplicacion movil en Android Studio
+Durante el presente sprint, se desarrollaron las principales technical stories para la realización de la aplicacion movil en Android Studio del segmento de administradores y la aplicación movil en Flutter para el segmento de huespedes 
 
+### Segmento de Huespedes (Flutter):
+### Pantalla de Descubrimiento 
+Muestra una bienvenida personalizada al huésped, con una barra de búsqueda y secciones de hoteles recomendados y populares, incluyendo precios y calificaciones.
+![evidence 1](../images/evidencee1.jpg)
 
+### Pantalla de Favoritos (Favorite Hotels):
+Lista los hoteles guardados como favoritos por el huésped, con la opción de reservar directamente desde allí.
+
+![evidence 1](../images/evidencee1.jpg)
+### Selección de Fechas (Select Date):
+Muestra un calendario donde el huésped elige la fecha de check-in y check-out antes de continuar con la reserva.
+![evidence 1](../images/evidencee1.jpg)
+### Selección de Huéspedes (Select Guests):
+Permite seleccionar cuántos adultos, niños e infantes se hospedarán, ajustando la reserva según el grupo.
+![evidence 1](../images/evidencee1.jpg)
+### Confirmar y Pagar (Confirm & Pay):
+Resumen final de la reserva con detalles de fechas, huéspedes y pago. El huésped puede elegir el método de pago y finalizar la transacción.
+![evidence 1](../images/evidencee1.jpg)
+### Política de Privacidad (Privacy Policy):
+Explica cómo se recopila, usa y protege la información personal del huésped dentro de la app.
+![evidence 1](../images/evidencee1.jpg)
+### Términos y Condiciones (Terms & Conditions):
+Describe las reglas del uso de la app, incluyendo la creación de cuentas, uso de contenido y cambios en los términos.
+![evidence 1](../images/evidencee1.jpg)
+### Métodos de Pago (Payment Methods):
+Muestra las tarjetas registradas del huésped y permite agregar nuevas para usarlas en futuras reservas.
+![evidence 1](../images/evidencee1.jpg)
 #### 6.2.3.6. Services Documentation Evidence for Sprint Review 3
 
 Este sprint 3 tuvo como enfoque principal completar la aplicacion de Flutter al 100%  y realizar la documentación de Endpoints con OpenAPI y los detalles relacionados seran detallados en la entrega final.<br>
@@ -572,9 +598,8 @@ Link de la base de datos desplegada : http://20.57.133.61:8080/swagger-ui/index.
 
 #### 6.2.2.7. Software Deployment Evidence for Sprint Review 3
 
-![evidence 1](../images/examples1.png)
-![evidence 2](../images/examples2.png)
-![evidence 3](../images/examples%203.png)
+En esta sección se evidencia el despliegue de la aplicaciones moviles para ambos segmentos ya sea huespedes (Flutter) y Gestor hotelero (Android Studio)
+
 
 #### 6.2.2.8. Team Collaboration Insights during Sprint 3
 
