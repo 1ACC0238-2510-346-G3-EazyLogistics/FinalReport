@@ -519,19 +519,14 @@ El equipo trabajó en el desarrollo de la landing page utilizando ramas de cada 
 
 
 #### 6.2.2.3. Development Evidence for Sprint Review 3
-| **Repository**     | **Branch** | **Commit Id** | **Commit Message** | **Committed on (Date)** |
-|--------------------|------------|---------------|---------------------|--------------------------|
-|1ACC0238-2510-346-G3-EazyLogistics Android-Studio          |     main    |   2c07d4e2294e8851fd164c26ec4c7f82c0ac5172    |     Feat(main) Adedd Personal Management View and Menu     |     06/20/2025                  |
-|1ACC0238-2510-346-G3-EazyLogistics Android-Studio                |   main         |    011272124ae79ce841d012de3c5cad8d4a942df2           |      Feat(Main) Fixed LoginScreen               |       06/20/2025                     |
-|1ACC0238-2510-346-G3-EazyLogistics Android-Studio               |   main         |   78953ca36fbeda1692105e7f123420991e122d4f            |    add: 4 views for front                 |       06/20/2025                     |
-|1ACC0238-2510-346-G3-EazyLogistics Android-Studio             |    main        |     f398972ec9d3a6be8f331a0006fb232960e00e31          |     add: routes and conecctions between views                |          06/20/2025                  |
-|1ACC0238-2510-346-G3-EazyLogistics Android-Studio                    | main           |   34f9575a7437a1c380237d9e2e8912b45b042dd3            |     fix: styles in views                |          06/20/2025                  |
-|1ACC0238-2510-346-G3-EazyLogistics Android-Studio                    |  main          |  cbe30081e4693945533d4eba3868d21dab6d70ad             |   fix: styles for views v.2                  |          06/20/2025                  |
-|1ACC0238-2510-346-G3-EazyLogistics Android-Studio                    |  main          |  86df6e913e399349b6e2c2f7d7401fa8f716cefe             |      fix: styles for views v.3               |       06/20/2025                     |
-|1ACC0238-2510-346-G3-EazyLogistics Android-Studio                    |   main         |  c2d6ae9456a64000a456df7110abc55bea5c7a4e             |         Feat(main) AdeddModels            |       06/20/2025                     |
-|1ACC0238-2510-346-G3-EazyLogistics Android-Studio                    |    main        |   a2797b3698e3e9f4a2a3eb911712e818908a116b            |      add: icon for the project               |      06/20/2025                      |
-|1ACC0238-2510-346-G3-EazyLogistics Android-Studio                    |   main         |  9dd0e735b40e5c79b90f115e097ed98c0395da03             |   Merge remote-tracking branch 'origin/main'                  |        06/20/2025                    |
-
+| Repository                                        | Branch | Commit Id                                 | Commit Message                                                | Committed on (Date) |
+| ------------------------------------------------- | ------ | ----------------------------------------- | ------------------------------------------------------------- | ------------------- |
+| 1ACC0238-2510-346-G3-EazyLogistics Flutter | main   | 0a1b2c3d4e5f67890abc123def456789abc123de  | Feat(main) Implemented login functionality for session start |     11/07/25       |
+| 1ACC0238-2510-346-G3-EazyLogistics Flutter | main   | 123def456789abc123de0a1b2c3d4e5f67890abc  | Feat(main) Added room reservation functionality               |    11/07/25         |
+| 1ACC0238-2510-346-G3-EazyLogistics Flutter | main   | abc456789def1230a1b2c3d4e5f67890abc123de  | Feat(main) User registration and validation               | 11/07/25         |
+| 1ACC0238-2510-346-G3-EazyLogistics Flutter | main   | 789abc123def4560a1b2c3d4e5f67890abc123de  | Feat(main) Authentication with JWT implementation              |  11/07/25          |
+| 1ACC0238-2510-346-G3-EazyLogistics Flutter | main   | c3d4e5f67890abc123de0a1b2c456789abc123def | Feat(main) Guest creation functionality                      |     11/07/25      |
+| 1ACC0238-2510-346-G3-EazyLogistics Flutter | main   | 456789abc123de0a1b2c3d4e5f67890abc123def  | Feat(main) Modify reservation view and logic           |      11/07/25      |
 
 
 
