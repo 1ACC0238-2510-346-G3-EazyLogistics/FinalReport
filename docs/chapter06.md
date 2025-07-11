@@ -562,11 +562,11 @@ Durante el presente sprint, se desarrollaron las principales technical stories p
 
 Este sprint 3 tuvo como enfoque principal completar la aplicacion de Flutter al 100%  y realizar la documentación de Endpoints con OpenAPI y los detalles relacionados seran detallados en la entrega final.<br>
 Evidencia del despliegue de la base de datos 
-![evidence 1](../images/evidencee1.jpg)
+![evidence 1](../images/serviceedep.png)
 
 Evidencia del correcto guardado en la base de datos 
-![evidence 1](../images/evidencee1.jpg)
-![evidence 1](../images/evidencee1.jpg)
+![evidence 1](../images/servicee1.png)
+![evidence 1](../images/service.png)
 
 Link de la base de datos desplegada : http://20.57.133.61:8080/swagger-ui/index.html
 
