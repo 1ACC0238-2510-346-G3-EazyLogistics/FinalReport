@@ -507,13 +507,13 @@ El equipo trabajó en el desarrollo de la landing page utilizando ramas de cada 
 
 | **User Story Id** | **User Story Title** | **Work-Item/Task Id** | **Work-Item/Task Title** | **Description** | **Estimation** | **Assigned To** | **Status** |
 |:-----------------:|:--------------------:|:---------------------:|:-----------------------:|:---------------:|:--------------:|:--------------:|:----------:|
-| US04 | Actualizar Contenido | T01 | Actualizar Contenido | Como administrador, quiero poder actualizar el contenido existente para mantener la información relevante y actualizada. | 2h | Mathias Vasquez | Done |
-| US05 | Eliminar Contenido | T02 | Eliminar Contenido | Como administrador, quiero poder eliminar contenido obsoleto para mantener la información actualizada en la aplicación. | 3h | Mathias Vasquez | Done |
-| US010 | Crear Contenido | T03 | Crear Contenido | Como administrador, quiero poder crear nuevo contenido para mantener la información actualizada en la aplicación | 3h | Jose Luza | Done |
-| US011 | Crear Usuario | T04 | Crear Usuario | Como desarrollador, quiero crear un endpoint para registrar nuevos usuarios en el sistema. | 4h | Mathias Vasquez | Done |
-| US012 | Autenticar Usuario | T05 | Autenticar Usuario | Como desarrollador, quiero crear un endpoint para autenticar usuarios y generar tokens de acceso. | 2h | Mathias Vasquez | Done |
-| US013 | Crear Huésped | T06 | Crear Huésped | Como desarrollador, quiero crear un endpoint para registrar nuevos huéspedes en el sistema. | 4h | Joaquin Pedraza | Done |
-| US022 | Crear Habitación | T07 | Crear Habitación | Como desarrollador, quiero crear un endpoint para registrar nuevas habitaciones en el sistema. | 3h | Joaquin Pedraza | Done |
+| US04 | Iniciar Sesión | T01 | Actualizar Contenido | Como huesped, quiero poder iniciar sesión para acceder a mi cuenta. . | 2h | Mathias Vasquez | Done |
+| US05 | Reservar Habitación | T02 | Eliminar Contenido | Como huesped, quiero poder reservar una habitación para alojarme en el hotel. | 3h | Mathias Vasquez | Done |
+| US010 | Registrar Usuario | T03 | Crear Contenido | Como huesped, quiero registrarme para crear una cuenta en el sistema. | 3h | Jose Luza | Done |
+| US011 | Añadir a Favoritos  | T04 | Crear Usuario | Como usuario, quiero poder añadir habitaciones a favoritos para verlas luego. | 4h | Mathias Vasquez | Done |
+| US012 | Autenticación JWT | T05 | Autenticar Usuario |  Como desarrollador, quiero autenticar usuarios y generar tokens JWT. | 2h | Mathias Vasquez | Done |
+| US013 | Crear Huésped | T06 | Crear Huésped | Como huesped, quiero registrarme en mi reserva . | 4h | Joaquin Pedraza | Done |
+| US022 | Modificar Reserva | T07 | Crear Habitación | Como huesped, quiero modificar mi reserva  | 3h | Joaquin Pedraza | Done |
 
 
 
