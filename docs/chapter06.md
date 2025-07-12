@@ -599,7 +599,9 @@ Link de la base de datos desplegada : http://20.57.133.61:8080/swagger-ui/index.
 
 #### 6.2.2.7. Software Deployment Evidence for Sprint Review 3
 
-En esta sección se evidencia el despliegue de la aplicaciones moviles para ambos segmentos ya sea huespedes (Flutter) y Gestor hotelero (Android Studio)
+En esta sección se evidencia el despliegue de lo utilizado
+
+Link de la base de datos desplegada : http://20.57.133.61:8080/swagger-ui/index.html
 
 
 #### 6.2.2.8. Team Collaboration Insights during Sprint 3
@@ -614,4 +616,4 @@ El equipo trabajó en el desarrollo de la landing page utilizando ramas de cada 
 
 ## 6.4 Video About-the-Product
 
-https://youtu.be/DpDvyiFZYfk
+https://drive.google.com/file/d/1nEC2087NMDjZOr1kUtbodWaVe4GtZ2F0/view?usp=sharing
