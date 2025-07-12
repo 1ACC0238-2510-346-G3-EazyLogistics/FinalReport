@@ -601,6 +601,8 @@ Link de la base de datos desplegada : http://20.57.133.61:8080/swagger-ui/index.
 En esta sección se evidencia el despliegue de lo utilizado
 
 Link de la base de datos desplegada : http://20.57.133.61:8080/swagger-ui/index.html
+<br> 
+El apk desplegado
 ![evidence 1](../images/apk.png)
 
 
