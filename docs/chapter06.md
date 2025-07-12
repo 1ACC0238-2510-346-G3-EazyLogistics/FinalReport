@@ -531,10 +531,9 @@ El equipo trabajó en el desarrollo de la landing page utilizando ramas de cada 
 
 
 #### 6.2.2.4. Testing Suite Evidence for Sprint Review 3
-En este sprint, se ha completado el desarrollo de la aplicacion en Android Studio y tambien en flutter aunque este ultimo es un avance, aqui estan los repositorios de cada uno.
+En este sprint, se ha completado el desarrollo de la aplicacion 
 
-Link de la aplicacion en Android Studio: https://github.com/1ACC0238-2510-346-G3-EazyLogistics/Android-Studio
-Link de la aplicacion en Flutter: https://github.com/1ACC0238-2510-346-G3-EazyLogistics/FlutterMobileApp
+
 
 ![evidence 1](../images/evidencee1.jpg)
 
