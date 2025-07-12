@@ -602,10 +602,13 @@ En esta sección se evidencia el despliegue de lo utilizado
 
 Link de la base de datos desplegada : http://20.57.133.61:8080/swagger-ui/index.html
 <br> 
-El apk desplegado
+El APK desplegado de la version Android
 ![evidence 1](../images/apk.png)
+El APK desplegado de la version Flutter
+![evidence 1](../images/Imagen%20de%20WhatsApp%202025-07-12%20a%20las%2000.00.13_2e03f67c.jpg)
 
-
+Link del despliegue:
+https://appdistribution.firebase.google.com/testerapps/1:306053140638:android:1e86b794275a1c611aeb8f/releases/6saimdi0au45g?utm_source=firebase-console
 
 #### 6.2.2.8. Team Collaboration Insights during Sprint 3
 
