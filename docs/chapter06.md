@@ -607,8 +607,8 @@ Link de la base de datos desplegada : http://20.57.133.61:8080/swagger-ui/index.
 
 El equipo trabajó en el desarrollo de la landing page utilizando ramas de cada feature, lo que permitió mejorar, actualizar y realizar modificaciones de manera más organizada. El uso de estas ramas facilita la integración y revisión antes de fusionarlas con la rama principal (main), asegurando que no se introduzcan errores. A continuación, se muestra el network graph y  code frecuency mediante la plataforma GitHub:
 <br> 
-![evidence 1](../images/coob.png)
-![evidence 1](../images/coob2.png)
+![evidence 1](../images/coob.jpg)
+![evidence 1](../images/coob2.jpg)
 ![evidence 1](../images/coob3.png)
 ![evidence 1](../images/coob4.png)
 ## 6.4 Video About-the-Product
